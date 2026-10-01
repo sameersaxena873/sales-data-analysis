@@ -1,0 +1,2001 @@
+OrderID,OrderDate,Product,Category,Region,PaymentMode,Quantity,UnitPrice,Revenue
+ORD1000,2025-02-27,Pen Set,Stationery,South,UPI,1,383.7,383.7
+ORD1001,2025-02-22,Headphone,Electronics,West,Credit Card,9,891.22,8020.98
+ORD1002,2025-02-17,Laptop,Electronics,North,UPI,4,41633.04,166532.16
+ORD1003,2025-12-26,Pen Set,Stationery,West,Cash,9,238.78,2149.02
+ORD1004,2025-03-23,Laptop,Electronics,South,UPI,7,47012.53,329087.71
+ORD1005,2025-02-22,Bookshelf,Furniture,East,Cash,2,3969.53,7939.06
+ORD1006,2025-05-16,Notebook,Stationery,North,Net Banking,1,232.43,232.43
+ORD1007,2025-10-10,Smartphone,Electronics,East,UPI,5,51470.23,257351.15
+ORD1008,2025-01-24,Smartphone,Electronics,North,UPI,4,48653.42,194613.68
+ORD1009,2025-07-14,Smartphone,Electronics,East,UPI,5,32670.52,163352.6
+ORD1010,2025-07-01,Bookshelf,Furniture,North,UPI,4,5856.14,23424.56
+ORD1011,2025-05-06,Jacket,Apparel,East,UPI,3,3580.17,10740.51
+ORD1012,2025-06-16,Pen Set,Stationery,North,Cash,1,153.07,153.07
+ORD1013,2025-05-18,T-Shirt,Apparel,East,UPI,2,553.18,1106.36
+ORD1014,2025-09-13,Pen Set,Stationery,West,UPI,7,448.11,3136.77
+ORD1015,2025-03-13,Desk,Furniture,East,Net Banking,4,11939.87,47759.48
+ORD1016,2025-07-24,Notebook,Stationery,South,Net Banking,6,104.83,628.98
+ORD1017,2025-01-25,Smartphone,Electronics,South,Net Banking,2,17642.07,35284.14
+ORD1018,2025-02-02,Notebook,Stationery,West,Cash,7,145.4,1017.8
+ORD1019,2025-01-06,Jacket,Apparel,East,Cash,2,4567.7,9135.4
+ORD1020,2025-05-31,Smartphone,Electronics,North,Cash,7,17907.89,125355.23
+ORD1021,2025-04-02,Jacket,Apparel,East,UPI,9,5606.83,50461.47
+ORD1022,2025-07-11,Headphone,Electronics,North,Cash,3,2927.21,8781.63
+ORD1023,2025-01-10,Jeans,Apparel,East,UPI,2,2844.02,5688.04
+ORD1024,2025-05-04,Laptop,Electronics,North,Net Banking,10,77347.47,773474.7
+ORD1025,2025-09-30,Smartphone,Electronics,West,UPI,3,16419.57,49258.71
+ORD1026,2025-09-28,Desk,Furniture,South,UPI,10,8077.66,80776.6
+ORD1027,2025-07-24,Desk,Furniture,West,Credit Card,6,8257.2,49543.2
+ORD1028,2025-04-26,Office Chair,Furniture,South,UPI,2,5380.86,10761.72
+ORD1029,2025-02-06,Laptop,Electronics,North,Cash,1,41447.09,41447.09
+ORD1030,2025-09-21,Smartphone,Electronics,West,UPI,4,23923.86,95695.44
+ORD1031,2025-03-09,Jacket,Apparel,South,Net Banking,10,4092.95,40929.5
+ORD1032,2025-04-08,T-Shirt,Apparel,West,Cash,2,416.32,832.64
+ORD1033,2025-07-30,T-Shirt,Apparel,North,Credit Card,8,1336.6,10692.8
+ORD1034,2025-07-26,Laptop,Electronics,North,UPI,6,70029.63,420177.78
+ORD1035,2025-04-08,Office Chair,Furniture,West,UPI,9,6486.14,58375.26
+ORD1036,2025-08-25,Desk,Furniture,North,Net Banking,4,13493.83,53975.32
+ORD1037,2025-02-20,Jacket,Apparel,North,Credit Card,1,4434.65,4434.65
+ORD1038,2025-03-27,Office Chair,Furniture,South,Net Banking,7,6856.41,47994.87
+ORD1039,2025-03-26,Laptop,Electronics,West,Cash,7,30107.77,210754.39
+ORD1040,2025-05-27,Jeans,Apparel,West,UPI,7,2332.5,16327.5
+ORD1041,2025-06-01,Office Chair,Furniture,North,Cash,4,11687.09,46748.36
+ORD1042,2025-01-26,Laptop,Electronics,South,Credit Card,10,53839.43,538394.3
+ORD1043,2025-02-11,Jacket,Apparel,North,UPI,3,1808.35,5425.05
+ORD1044,2025-03-03,T-Shirt,Apparel,North,Credit Card,10,595.46,5954.6
+ORD1045,2025-12-03,T-Shirt,Apparel,East,Cash,10,978.27,9782.7
+ORD1046,2025-12-09,Office Chair,Furniture,West,UPI,6,4386.86,26321.16
+ORD1047,2025-11-27,Pen Set,Stationery,North,Credit Card,5,255.75,1278.75
+ORD1048,2025-11-15,Jeans,Apparel,North,UPI,10,2991.41,29914.1
+ORD1049,2025-05-16,Jacket,Apparel,North,UPI,3,5699.67,17099.01
+ORD1050,2025-05-26,Bookshelf,Furniture,East,Credit Card,3,4348.2,13044.6
+ORD1051,2025-10-11,Pen Set,Stationery,North,UPI,5,469.29,2346.45
+ORD1052,2025-03-01,Desk,Furniture,South,Cash,2,11909.0,23818.0
+ORD1053,2025-11-06,Desk,Furniture,South,Cash,4,11611.35,46445.4
+ORD1054,2025-09-08,Jacket,Apparel,North,Credit Card,5,5574.01,27870.05
+ORD1055,2025-08-05,Pen Set,Stationery,East,UPI,5,69.84,349.2
+ORD1056,2025-05-15,Pen Set,Stationery,West,Credit Card,3,383.55,1150.65
+ORD1057,2025-02-08,Smartphone,Electronics,East,UPI,3,37279.51,111838.53
+ORD1058,2025-03-07,T-Shirt,Apparel,North,Cash,1,669.91,669.91
+ORD1059,2025-12-16,Office Chair,Furniture,East,Net Banking,4,8669.33,34677.32
+ORD1060,2025-03-21,Notebook,Stationery,South,Net Banking,4,266.15,1064.6
+ORD1061,2025-04-02,Laptop,Electronics,West,UPI,6,69119.32,414715.92
+ORD1062,2025-03-23,Desk,Furniture,North,Net Banking,2,7590.5,15181.0
+ORD1063,2025-04-13,Office Chair,Furniture,South,UPI,8,5496.58,43972.64
+ORD1064,2025-12-04,Laptop,Electronics,East,Credit Card,4,49923.3,199693.2
+ORD1065,2025-06-29,Desk,Furniture,East,Credit Card,9,7796.14,70165.26
+ORD1066,2025-05-14,Smartphone,Electronics,East,Credit Card,3,39029.49,117088.47
+ORD1067,2025-11-02,Smartphone,Electronics,East,Net Banking,7,27284.36,190990.52
+ORD1068,2025-09-19,Notebook,Stationery,South,Cash,2,146.3,292.6
+ORD1069,2025-12-29,Laptop,Electronics,South,Cash,7,30084.56,210591.92
+ORD1070,2025-02-05,T-Shirt,Apparel,North,Cash,6,1047.79,6286.74
+ORD1071,2025-06-08,Jacket,Apparel,East,UPI,7,2967.82,20774.74
+ORD1072,2025-08-04,Office Chair,Furniture,South,Cash,7,8773.18,61412.26
+ORD1073,2025-10-08,T-Shirt,Apparel,South,Net Banking,1,664.65,664.65
+ORD1074,2025-11-07,Notebook,Stationery,West,UPI,6,166.25,997.5
+ORD1075,2025-08-31,Jacket,Apparel,East,Cash,3,4464.83,13394.49
+ORD1076,2025-05-01,Smartphone,Electronics,South,UPI,5,21232.03,106160.15
+ORD1077,2025-01-24,Laptop,Electronics,North,Net Banking,4,79196.8,316787.2
+ORD1078,2025-11-19,T-Shirt,Apparel,West,Net Banking,10,533.32,5333.2
+ORD1079,2025-05-05,T-Shirt,Apparel,North,Credit Card,3,1087.27,3261.81
+ORD1080,2025-04-23,T-Shirt,Apparel,West,Credit Card,3,1264.93,3794.79
+ORD1081,2025-05-08,Jacket,Apparel,West,Cash,2,3554.08,7108.16
+ORD1082,2025-11-10,Jeans,Apparel,West,UPI,9,1738.83,15649.47
+ORD1083,2025-08-19,Jeans,Apparel,East,Net Banking,5,2453.91,12269.55
+ORD1084,2025-05-03,Pen Set,Stationery,East,UPI,5,247.94,1239.7
+ORD1085,2025-06-21,Desk,Furniture,North,UPI,6,13716.32,82297.92
+ORD1086,2025-04-29,Headphone,Electronics,South,Credit Card,7,3622.77,25359.39
+ORD1087,2025-07-28,T-Shirt,Apparel,West,Credit Card,6,951.13,5706.78
+ORD1088,2025-08-04,Office Chair,Furniture,North,Net Banking,7,11048.38,77338.66
+ORD1089,2025-01-04,Jeans,Apparel,West,Net Banking,6,1456.95,8741.7
+ORD1090,2025-10-07,Jacket,Apparel,West,UPI,10,5540.15,55401.5
+ORD1091,2025-08-12,Desk,Furniture,East,Net Banking,8,3348.3,26786.4
+ORD1092,2025-08-28,Headphone,Electronics,North,Net Banking,3,4913.25,14739.75
+ORD1093,2025-10-16,Notebook,Stationery,West,UPI,1,70.99,70.99
+ORD1094,2025-04-04,Jeans,Apparel,East,UPI,1,1372.34,1372.34
+ORD1095,2025-06-17,Jeans,Apparel,West,Cash,6,2474.71,14848.26
+ORD1096,2025-05-10,T-Shirt,Apparel,North,Cash,2,864.37,1728.74
+ORD1097,2025-11-29,Office Chair,Furniture,North,Credit Card,2,9812.33,19624.66
+ORD1098,2025-04-13,Office Chair,Furniture,South,UPI,1,8213.36,8213.36
+ORD1099,2025-12-09,Jeans,Apparel,South,Net Banking,2,2040.73,4081.46
+ORD1100,2025-07-08,Desk,Furniture,North,UPI,3,10270.71,30812.13
+ORD1101,2025-02-25,Desk,Furniture,East,Net Banking,10,3308.14,33081.4
+ORD1102,2025-04-12,T-Shirt,Apparel,South,Credit Card,2,1010.52,2021.04
+ORD1103,2025-12-17,Desk,Furniture,North,Cash,10,12666.34,126663.4
+ORD1104,2025-08-08,Jacket,Apparel,East,Credit Card,6,1810.31,10861.86
+ORD1105,2025-09-08,T-Shirt,Apparel,East,Net Banking,2,820.23,1640.46
+ORD1106,2025-08-11,Headphone,Electronics,East,Net Banking,3,3802.08,11406.24
+ORD1107,2025-08-12,Jeans,Apparel,South,Credit Card,10,1390.47,13904.7
+ORD1108,2025-08-19,Desk,Furniture,West,Cash,4,12005.72,48022.88
+ORD1109,2025-09-11,Laptop,Electronics,South,Cash,6,39091.99,234551.94
+ORD1110,2025-06-24,Desk,Furniture,East,Credit Card,5,13563.84,67819.2
+ORD1111,2025-04-08,Jacket,Apparel,West,Net Banking,2,2586.1,5172.2
+ORD1112,2025-05-04,Jacket,Apparel,West,Net Banking,8,4406.56,35252.48
+ORD1113,2025-02-17,Laptop,Electronics,South,Cash,5,41079.82,205399.1
+ORD1114,2025-10-25,Pen Set,Stationery,East,Net Banking,6,262.97,1577.82
+ORD1115,2025-06-19,Jacket,Apparel,East,Cash,6,4662.85,27977.1
+ORD1116,2025-04-29,Desk,Furniture,East,Credit Card,2,11655.41,23310.82
+ORD1117,2025-12-20,Jacket,Apparel,West,Cash,3,2361.93,7085.79
+ORD1118,2025-09-26,Notebook,Stationery,North,UPI,10,120.75,1207.5
+ORD1119,2025-04-27,Desk,Furniture,North,UPI,6,5153.3,30919.8
+ORD1120,2025-01-24,Desk,Furniture,South,Net Banking,1,9640.31,9640.31
+ORD1121,2025-01-07,Smartphone,Electronics,West,Net Banking,10,24216.97,242169.7
+ORD1122,2025-04-05,Bookshelf,Furniture,West,Credit Card,1,3141.11,3141.11
+ORD1123,2025-07-25,Smartphone,Electronics,North,UPI,8,13704.11,109632.88
+ORD1124,2025-10-16,Headphone,Electronics,South,Credit Card,5,883.31,4416.55
+ORD1125,2025-08-02,Jacket,Apparel,South,Net Banking,10,4182.57,41825.7
+ORD1126,2025-08-15,Jeans,Apparel,West,Cash,5,2692.37,13461.85
+ORD1127,2025-11-14,Notebook,Stationery,North,UPI,1,202.41,202.41
+ORD1128,2025-04-19,Pen Set,Stationery,South,UPI,5,347.19,1735.95
+ORD1129,2025-10-10,Headphone,Electronics,West,Net Banking,2,1204.4,2408.8
+ORD1130,2025-08-29,Notebook,Stationery,East,Cash,5,58.16,290.8
+ORD1131,2025-02-06,Jeans,Apparel,South,Net Banking,4,2832.6,11330.4
+ORD1132,2025-10-06,Smartphone,Electronics,East,UPI,4,42381.74,169526.96
+ORD1133,2025-01-31,Smartphone,Electronics,East,Net Banking,3,49631.43,148894.29
+ORD1134,2025-08-28,Smartphone,Electronics,East,Net Banking,5,44986.68,224933.4
+ORD1135,2025-02-11,Jeans,Apparel,West,Cash,10,887.69,8876.9
+ORD1136,2025-05-09,Notebook,Stationery,North,Cash,1,72.83,72.83
+ORD1137,2025-01-21,Notebook,Stationery,West,Cash,3,167.63,502.89
+ORD1138,2025-10-27,Headphone,Electronics,West,Credit Card,7,3356.53,23495.71
+ORD1139,2025-06-28,Jeans,Apparel,North,UPI,7,1533.28,10732.96
+ORD1140,2025-07-30,Bookshelf,Furniture,West,Credit Card,8,3373.42,26987.36
+ORD1141,2025-02-15,Jeans,Apparel,North,Net Banking,6,1355.28,8131.68
+ORD1142,2025-01-01,Jacket,Apparel,North,UPI,9,3578.89,32210.01
+ORD1143,2025-07-05,Jacket,Apparel,West,Credit Card,10,4903.99,49039.9
+ORD1144,2025-05-17,Office Chair,Furniture,East,Net Banking,9,3310.13,29791.17
+ORD1145,2025-03-04,Jeans,Apparel,South,UPI,1,2940.92,2940.92
+ORD1146,2025-10-10,Desk,Furniture,North,UPI,1,9627.02,9627.02
+ORD1147,2025-08-25,Smartphone,Electronics,South,Net Banking,2,42385.48,84770.96
+ORD1148,2025-09-18,Desk,Furniture,West,Net Banking,5,7985.88,39929.4
+ORD1149,2025-08-22,Office Chair,Furniture,South,UPI,9,3446.42,31017.78
+ORD1150,2025-05-22,Smartphone,Electronics,East,Credit Card,7,26993.76,188956.32
+ORD1151,2025-06-02,Desk,Furniture,West,UPI,10,9959.08,99590.8
+ORD1152,2025-10-03,Jeans,Apparel,West,Net Banking,8,1559.27,12474.16
+ORD1153,2025-04-07,Bookshelf,Furniture,South,Net Banking,4,5216.68,20866.72
+ORD1154,2025-06-12,Laptop,Electronics,West,Net Banking,8,65261.39,522091.12
+ORD1155,2025-11-30,Pen Set,Stationery,North,UPI,3,272.9,818.7
+ORD1156,2025-10-30,Jacket,Apparel,West,Credit Card,6,5413.65,32481.9
+ORD1157,2025-08-22,Jacket,Apparel,West,UPI,1,4751.0,4751.0
+ORD1158,2025-08-29,Smartphone,Electronics,West,Credit Card,5,26928.06,134640.3
+ORD1159,2025-12-12,Bookshelf,Furniture,East,Net Banking,9,3970.06,35730.54
+ORD1160,2025-01-19,Jacket,Apparel,East,UPI,10,1807.89,18078.9
+ORD1161,2025-08-11,Smartphone,Electronics,North,Net Banking,2,48018.48,96036.96
+ORD1162,2025-12-22,Headphone,Electronics,North,Cash,5,4565.41,22827.05
+ORD1163,2025-05-31,Laptop,Electronics,South,UPI,6,48742.05,292452.3
+ORD1164,2025-07-30,Jacket,Apparel,South,UPI,10,4568.1,45681.0
+ORD1165,2025-02-10,Headphone,Electronics,South,Net Banking,10,4418.78,44187.8
+ORD1166,2025-03-15,Notebook,Stationery,East,Net Banking,4,165.29,661.16
+ORD1167,2025-12-08,Desk,Furniture,West,Cash,1,13786.9,13786.9
+ORD1168,2025-10-07,Pen Set,Stationery,East,Cash,3,83.24,249.72
+ORD1169,2025-08-06,Pen Set,Stationery,East,UPI,5,255.58,1277.9
+ORD1170,2025-09-05,T-Shirt,Apparel,East,Cash,2,584.65,1169.3
+ORD1171,2025-01-12,Desk,Furniture,North,Net Banking,7,6293.76,44056.32
+ORD1172,2025-04-28,Desk,Furniture,South,UPI,10,12623.18,126231.8
+ORD1173,2025-05-09,Notebook,Stationery,North,Cash,3,207.06,621.18
+ORD1174,2025-01-18,Jeans,Apparel,South,Credit Card,10,1602.69,16026.9
+ORD1175,2025-06-17,Desk,Furniture,South,Cash,7,5107.68,35753.76
+ORD1176,2025-09-14,Jacket,Apparel,East,Net Banking,5,5237.13,26185.65
+ORD1177,2025-06-23,Desk,Furniture,North,UPI,2,8619.98,17239.96
+ORD1178,2025-12-13,Office Chair,Furniture,East,Credit Card,7,11672.7,81708.9
+ORD1179,2025-01-08,T-Shirt,Apparel,West,Cash,5,943.89,4719.45
+ORD1180,2025-12-11,Pen Set,Stationery,East,Credit Card,5,313.05,1565.25
+ORD1181,2025-04-30,Pen Set,Stationery,East,UPI,8,61.26,490.08
+ORD1182,2025-02-02,Pen Set,Stationery,East,Net Banking,8,459.22,3673.76
+ORD1183,2025-03-13,Smartphone,Electronics,East,Net Banking,1,57313.08,57313.08
+ORD1184,2025-02-19,Smartphone,Electronics,South,Net Banking,4,54362.97,217451.88
+ORD1185,2025-07-09,Jeans,Apparel,South,Net Banking,9,1722.08,15498.72
+ORD1186,2025-02-20,Pen Set,Stationery,East,Credit Card,8,327.04,2616.32
+ORD1187,2025-04-22,Bookshelf,Furniture,South,Cash,8,4390.52,35124.16
+ORD1188,2025-12-18,Smartphone,Electronics,East,Credit Card,6,37223.29,223339.74
+ORD1189,2025-05-22,T-Shirt,Apparel,West,Credit Card,4,1461.85,5847.4
+ORD1190,2025-04-19,Pen Set,Stationery,North,Cash,10,486.99,4869.9
+ORD1191,2025-03-06,Office Chair,Furniture,South,UPI,10,4052.06,40520.6
+ORD1192,2025-06-18,Office Chair,Furniture,North,Cash,3,9886.44,29659.32
+ORD1193,2025-03-08,Headphone,Electronics,South,Credit Card,9,1627.94,14651.46
+ORD1194,2025-01-14,Pen Set,Stationery,South,Cash,3,56.69,170.07
+ORD1195,2025-03-31,Laptop,Electronics,West,Credit Card,5,32619.95,163099.75
+ORD1196,2025-09-01,Smartphone,Electronics,North,Net Banking,8,48900.85,391206.8
+ORD1197,2025-04-24,Jacket,Apparel,East,Net Banking,10,1695.14,16951.4
+ORD1198,2025-01-16,Pen Set,Stationery,West,Net Banking,1,499.36,499.36
+ORD1199,2025-02-25,Pen Set,Stationery,West,Credit Card,8,370.58,2964.64
+ORD1200,2025-06-14,Smartphone,Electronics,South,Cash,10,17416.69,174166.9
+ORD1201,2025-11-21,Notebook,Stationery,East,Net Banking,10,187.09,1870.9
+ORD1202,2025-09-29,Notebook,Stationery,West,Credit Card,5,163.43,817.15
+ORD1203,2025-12-02,Smartphone,Electronics,South,Net Banking,9,46042.0,414378.0
+ORD1204,2025-04-27,Jeans,Apparel,West,Net Banking,7,1545.65,10819.55
+ORD1205,2025-02-18,T-Shirt,Apparel,East,Cash,6,812.12,4872.72
+ORD1206,2025-12-18,Headphone,Electronics,North,Credit Card,8,802.1,6416.8
+ORD1207,2025-02-19,T-Shirt,Apparel,North,Cash,6,1274.12,7644.72
+ORD1208,2025-03-04,Pen Set,Stationery,West,Credit Card,7,209.12,1463.84
+ORD1209,2025-11-04,Desk,Furniture,South,UPI,5,7219.75,36098.75
+ORD1210,2025-09-04,Pen Set,Stationery,East,Cash,4,431.27,1725.08
+ORD1211,2025-05-23,Smartphone,Electronics,West,Credit Card,10,21307.95,213079.5
+ORD1212,2025-12-03,Notebook,Stationery,East,Cash,5,57.24,286.2
+ORD1213,2025-06-29,Bookshelf,Furniture,South,Net Banking,1,2679.14,2679.14
+ORD1214,2025-03-14,Smartphone,Electronics,South,Net Banking,1,14587.88,14587.88
+ORD1215,2025-08-21,T-Shirt,Apparel,East,Cash,6,488.89,2933.34
+ORD1216,2025-11-02,Notebook,Stationery,South,UPI,2,270.84,541.68
+ORD1217,2025-01-26,Notebook,Stationery,West,Net Banking,2,118.03,236.06
+ORD1218,2025-08-15,Notebook,Stationery,North,Cash,7,118.29,828.03
+ORD1219,2025-02-26,T-Shirt,Apparel,West,Cash,5,1113.86,5569.3
+ORD1220,2025-04-23,Laptop,Electronics,North,Credit Card,7,79222.28,554555.96
+ORD1221,2025-06-04,Office Chair,Furniture,East,Cash,4,9673.5,38694.0
+ORD1222,2025-03-03,Bookshelf,Furniture,West,UPI,1,4733.0,4733.0
+ORD1223,2025-07-14,Headphone,Electronics,East,Credit Card,9,3666.52,32998.68
+ORD1224,2025-01-22,T-Shirt,Apparel,North,Cash,7,322.49,2257.43
+ORD1225,2025-08-08,Notebook,Stationery,West,Cash,10,151.11,1511.1
+ORD1226,2025-07-27,Smartphone,Electronics,South,Net Banking,1,58309.98,58309.98
+ORD1227,2025-02-15,Bookshelf,Furniture,South,Net Banking,7,6989.15,48924.05
+ORD1228,2025-07-25,Notebook,Stationery,East,Cash,9,69.66,626.94
+ORD1229,2025-06-20,Office Chair,Furniture,North,UPI,3,2763.79,8291.37
+ORD1230,2025-06-29,Bookshelf,Furniture,South,Cash,3,3035.75,9107.25
+ORD1231,2025-03-30,Office Chair,Furniture,North,UPI,10,3528.7,35287.0
+ORD1232,2025-09-10,Pen Set,Stationery,West,Cash,8,389.5,3116.0
+ORD1233,2025-06-11,Pen Set,Stationery,West,Net Banking,3,247.89,743.67
+ORD1234,2025-06-05,Pen Set,Stationery,East,Credit Card,5,316.14,1580.7
+ORD1235,2025-08-25,Desk,Furniture,East,Cash,8,3451.29,27610.32
+ORD1236,2025-11-27,Smartphone,Electronics,West,Net Banking,2,40750.42,81500.84
+ORD1237,2025-10-11,Notebook,Stationery,South,Cash,1,162.43,162.43
+ORD1238,2025-09-01,Notebook,Stationery,North,Net Banking,9,87.72,789.48
+ORD1239,2025-06-25,Smartphone,Electronics,South,Credit Card,2,35227.45,70454.9
+ORD1240,2025-12-29,Office Chair,Furniture,South,Cash,8,11909.86,95278.88
+ORD1241,2025-05-25,Bookshelf,Furniture,East,Credit Card,7,4157.0,29099.0
+ORD1242,2025-11-28,Pen Set,Stationery,North,Net Banking,6,79.66,477.96
+ORD1243,2025-05-10,Desk,Furniture,East,Credit Card,10,13479.36,134793.6
+ORD1244,2025-12-06,Notebook,Stationery,East,Net Banking,3,279.19,837.57
+ORD1245,2025-11-01,Headphone,Electronics,West,Cash,2,1893.12,3786.24
+ORD1246,2025-12-10,Headphone,Electronics,West,Cash,9,920.54,8284.86
+ORD1247,2025-07-05,Laptop,Electronics,South,Cash,5,39013.15,195065.75
+ORD1248,2025-04-09,Jeans,Apparel,South,Credit Card,4,2999.95,11999.8
+ORD1249,2025-02-21,Desk,Furniture,North,Cash,9,12250.5,110254.5
+ORD1250,2025-03-09,Notebook,Stationery,South,UPI,10,144.18,1441.8
+ORD1251,2025-03-26,Notebook,Stationery,East,UPI,8,60.92,487.36
+ORD1252,2025-11-09,Jeans,Apparel,West,UPI,5,2455.26,12276.3
+ORD1253,2025-05-03,Jacket,Apparel,West,UPI,5,5845.18,29225.9
+ORD1254,2025-12-14,Bookshelf,Furniture,West,Cash,10,7898.86,78988.6
+ORD1255,2025-09-15,T-Shirt,Apparel,South,UPI,9,802.39,7221.51
+ORD1256,2025-03-12,Notebook,Stationery,West,Cash,5,63.04,315.2
+ORD1257,2025-02-22,Jacket,Apparel,East,Credit Card,9,5330.25,47972.25
+ORD1258,2025-05-20,Headphone,Electronics,South,Net Banking,8,4573.88,36591.04
+ORD1259,2025-04-24,Smartphone,Electronics,North,Net Banking,8,54231.49,433851.92
+ORD1260,2025-07-22,Laptop,Electronics,West,Credit Card,9,48698.07,438282.63
+ORD1261,2025-04-25,Bookshelf,Furniture,North,Cash,1,3571.45,3571.45
+ORD1262,2025-03-12,Headphone,Electronics,West,UPI,1,1790.96,1790.96
+ORD1263,2025-08-18,Jeans,Apparel,North,Credit Card,10,811.55,8115.5
+ORD1264,2025-04-21,Desk,Furniture,West,Credit Card,3,9585.65,28756.95
+ORD1265,2025-05-02,Desk,Furniture,South,Net Banking,5,4462.18,22310.9
+ORD1266,2025-11-15,Pen Set,Stationery,West,Credit Card,8,78.26,626.08
+ORD1267,2025-09-21,Pen Set,Stationery,South,Cash,10,158.87,1588.7
+ORD1268,2025-01-01,T-Shirt,Apparel,West,UPI,10,723.38,7233.8
+ORD1269,2025-12-09,Pen Set,Stationery,East,Credit Card,2,285.57,571.14
+ORD1270,2025-10-06,Jacket,Apparel,North,Net Banking,9,5038.86,45349.74
+ORD1271,2025-01-23,Jeans,Apparel,East,Credit Card,7,2958.29,20708.03
+ORD1272,2025-02-04,Bookshelf,Furniture,North,Cash,6,3067.32,18403.92
+ORD1273,2025-01-23,Headphone,Electronics,South,Net Banking,6,2957.06,17742.36
+ORD1274,2025-11-20,Jeans,Apparel,North,Net Banking,3,2585.29,7755.87
+ORD1275,2025-05-31,Laptop,Electronics,South,Credit Card,4,32190.31,128761.24
+ORD1276,2025-06-08,Bookshelf,Furniture,West,Cash,9,4088.46,36796.14
+ORD1277,2025-11-28,Laptop,Electronics,North,Cash,4,44305.54,177222.16
+ORD1278,2025-03-05,Desk,Furniture,West,Net Banking,6,8243.42,49460.52
+ORD1279,2025-06-23,T-Shirt,Apparel,West,Cash,3,895.44,2686.32
+ORD1280,2025-05-17,Jacket,Apparel,North,Net Banking,2,4771.87,9543.74
+ORD1281,2025-04-03,Notebook,Stationery,North,Credit Card,9,123.44,1110.96
+ORD1282,2025-12-05,Bookshelf,Furniture,West,UPI,5,3492.22,17461.1
+ORD1283,2025-06-29,Jeans,Apparel,East,Net Banking,8,893.18,7145.44
+ORD1284,2025-11-24,Desk,Furniture,West,Cash,1,3900.49,3900.49
+ORD1285,2025-12-14,Jacket,Apparel,South,Net Banking,3,5787.55,17362.65
+ORD1286,2025-03-06,Laptop,Electronics,East,Cash,2,41799.77,83599.54
+ORD1287,2025-10-18,T-Shirt,Apparel,West,Cash,1,1026.11,1026.11
+ORD1288,2025-08-16,Bookshelf,Furniture,East,Net Banking,2,5230.49,10460.98
+ORD1289,2025-11-29,Bookshelf,Furniture,North,Credit Card,5,3122.48,15612.4
+ORD1290,2025-09-13,Headphone,Electronics,North,Cash,9,2241.44,20172.96
+ORD1291,2025-12-27,Desk,Furniture,East,Net Banking,8,5574.85,44598.8
+ORD1292,2025-03-04,Office Chair,Furniture,West,UPI,3,10528.26,31584.78
+ORD1293,2025-02-14,Jeans,Apparel,North,Cash,6,2269.25,13615.5
+ORD1294,2025-03-22,Desk,Furniture,South,Credit Card,3,12524.36,37573.08
+ORD1295,2025-03-13,Office Chair,Furniture,North,Cash,4,9903.73,39614.92
+ORD1296,2025-10-21,Jacket,Apparel,South,Credit Card,6,3603.33,21619.98
+ORD1297,2025-06-08,Smartphone,Electronics,West,Net Banking,7,59979.75,419858.25
+ORD1298,2025-10-22,T-Shirt,Apparel,East,Credit Card,2,450.39,900.78
+ORD1299,2025-08-27,Jeans,Apparel,South,UPI,9,1557.93,14021.37
+ORD1300,2025-09-15,T-Shirt,Apparel,South,Cash,1,1297.67,1297.67
+ORD1301,2025-03-24,Headphone,Electronics,South,Cash,6,4706.32,28237.92
+ORD1302,2025-05-26,Jacket,Apparel,East,UPI,2,2627.72,5255.44
+ORD1303,2025-06-05,Pen Set,Stationery,South,UPI,10,290.07,2900.7
+ORD1304,2025-12-04,Headphone,Electronics,East,Credit Card,10,3742.85,37428.5
+ORD1305,2025-02-11,Laptop,Electronics,East,UPI,1,77427.34,77427.34
+ORD1306,2025-08-02,Notebook,Stationery,West,Cash,10,209.75,2097.5
+ORD1307,2025-06-04,Pen Set,Stationery,West,Cash,8,160.2,1281.6
+ORD1308,2025-02-07,Jeans,Apparel,West,Net Banking,1,1147.78,1147.78
+ORD1309,2025-04-15,Jeans,Apparel,East,Cash,6,2134.65,12807.9
+ORD1310,2025-07-24,Bookshelf,Furniture,North,Cash,3,6444.32,19332.96
+ORD1311,2025-08-27,Office Chair,Furniture,South,UPI,2,4674.72,9349.44
+ORD1312,2025-01-26,Smartphone,Electronics,West,UPI,5,57269.24,286346.2
+ORD1313,2025-06-17,Headphone,Electronics,South,UPI,10,3745.08,37450.8
+ORD1314,2025-09-21,Jeans,Apparel,East,Net Banking,8,1897.27,15178.16
+ORD1315,2025-02-16,Laptop,Electronics,South,UPI,7,55272.22,386905.54
+ORD1316,2025-06-30,Notebook,Stationery,West,Net Banking,1,62.64,62.64
+ORD1317,2025-10-02,Desk,Furniture,West,UPI,1,13166.07,13166.07
+ORD1318,2025-07-07,Desk,Furniture,West,Credit Card,7,7391.25,51738.75
+ORD1319,2025-10-15,Notebook,Stationery,East,Credit Card,4,140.63,562.52
+ORD1320,2025-09-16,T-Shirt,Apparel,East,Credit Card,8,1217.28,9738.24
+ORD1321,2025-02-19,Headphone,Electronics,East,Cash,7,2179.39,15255.73
+ORD1322,2025-04-12,Headphone,Electronics,North,Credit Card,10,2791.05,27910.5
+ORD1323,2025-03-12,Laptop,Electronics,West,UPI,6,70198.29,421189.74
+ORD1324,2025-09-21,Notebook,Stationery,East,UPI,3,131.99,395.97
+ORD1325,2025-11-12,T-Shirt,Apparel,West,Cash,5,1012.47,5062.35
+ORD1326,2025-01-09,Jeans,Apparel,North,Net Banking,6,1528.73,9172.38
+ORD1327,2025-06-07,Notebook,Stationery,East,UPI,1,199.23,199.23
+ORD1328,2025-10-26,Laptop,Electronics,West,UPI,8,38525.6,308204.8
+ORD1329,2025-05-05,Pen Set,Stationery,North,UPI,1,307.66,307.66
+ORD1330,2025-08-14,Laptop,Electronics,West,UPI,6,50939.01,305634.06
+ORD1331,2025-09-14,T-Shirt,Apparel,North,UPI,10,1404.63,14046.3
+ORD1332,2025-04-17,Jacket,Apparel,West,Net Banking,9,2962.72,26664.48
+ORD1333,2025-03-30,Bookshelf,Furniture,East,Cash,8,7428.81,59430.48
+ORD1334,2025-12-15,Pen Set,Stationery,South,UPI,5,324.53,1622.65
+ORD1335,2025-10-13,Desk,Furniture,East,Cash,5,5698.4,28492.0
+ORD1336,2025-12-20,Office Chair,Furniture,East,Cash,8,5170.41,41363.28
+ORD1337,2025-03-04,Desk,Furniture,West,Net Banking,10,11119.47,111194.7
+ORD1338,2025-03-16,Bookshelf,Furniture,North,Cash,5,1773.43,8867.15
+ORD1339,2025-12-02,Jeans,Apparel,South,UPI,5,2444.14,12220.7
+ORD1340,2025-05-19,Jacket,Apparel,South,Credit Card,9,4632.77,41694.93
+ORD1341,2025-10-28,Notebook,Stationery,South,UPI,4,110.61,442.44
+ORD1342,2025-02-21,Laptop,Electronics,West,Credit Card,7,46514.68,325602.76
+ORD1343,2025-03-12,Pen Set,Stationery,South,Net Banking,1,484.03,484.03
+ORD1344,2025-09-01,Pen Set,Stationery,East,Cash,8,342.74,2741.92
+ORD1345,2025-11-27,Desk,Furniture,North,UPI,1,13895.24,13895.24
+ORD1346,2025-01-20,Jacket,Apparel,South,Credit Card,3,3380.48,10141.44
+ORD1347,2025-09-11,T-Shirt,Apparel,East,Credit Card,3,1423.93,4271.79
+ORD1348,2025-06-02,Laptop,Electronics,East,Cash,10,60139.15,601391.5
+ORD1349,2025-11-25,Jeans,Apparel,South,Net Banking,9,1953.5,17581.5
+ORD1350,2025-04-09,Desk,Furniture,West,Cash,2,6968.21,13936.42
+ORD1351,2025-01-08,Headphone,Electronics,South,UPI,6,4058.45,24350.7
+ORD1352,2025-11-24,Notebook,Stationery,East,Credit Card,7,256.75,1797.25
+ORD1353,2025-12-09,T-Shirt,Apparel,South,Net Banking,2,521.74,1043.48
+ORD1354,2025-05-08,Bookshelf,Furniture,South,Net Banking,1,3195.1,3195.1
+ORD1355,2025-06-18,Desk,Furniture,North,Cash,5,9989.53,49947.65
+ORD1356,2025-07-04,Pen Set,Stationery,North,Net Banking,4,77.96,311.84
+ORD1357,2025-03-23,Desk,Furniture,East,Credit Card,7,11232.88,78630.16
+ORD1358,2025-06-01,Pen Set,Stationery,South,UPI,6,326.58,1959.48
+ORD1359,2025-03-20,Jeans,Apparel,East,Net Banking,8,2445.02,19560.16
+ORD1360,2025-08-30,Jacket,Apparel,South,UPI,9,5108.98,45980.82
+ORD1361,2025-11-02,Pen Set,Stationery,East,Credit Card,2,286.48,572.96
+ORD1362,2025-02-27,Notebook,Stationery,South,UPI,1,257.19,257.19
+ORD1363,2025-06-17,Headphone,Electronics,South,Net Banking,9,2488.28,22394.52
+ORD1364,2025-09-19,Smartphone,Electronics,West,UPI,8,50434.6,403476.8
+ORD1365,2025-08-01,Jacket,Apparel,West,Cash,8,4037.6,32300.8
+ORD1366,2025-07-22,Laptop,Electronics,South,Credit Card,5,70822.66,354113.3
+ORD1367,2025-08-05,Laptop,Electronics,North,Credit Card,6,65019.24,390115.44
+ORD1368,2025-01-17,Jeans,Apparel,South,Net Banking,5,1699.51,8497.55
+ORD1369,2025-07-15,Bookshelf,Furniture,West,Net Banking,8,7152.53,57220.24
+ORD1370,2025-12-16,Smartphone,Electronics,East,Credit Card,9,16649.49,149845.41
+ORD1371,2025-10-03,Headphone,Electronics,South,Credit Card,7,2879.79,20158.53
+ORD1372,2025-06-02,Laptop,Electronics,West,Net Banking,8,63674.99,509399.92
+ORD1373,2025-05-07,Office Chair,Furniture,East,UPI,8,5461.6,43692.8
+ORD1374,2025-01-17,Smartphone,Electronics,North,UPI,7,40746.16,285223.12
+ORD1375,2025-02-04,Office Chair,Furniture,West,Credit Card,2,7939.44,15878.88
+ORD1376,2025-01-23,Office Chair,Furniture,South,Credit Card,7,6389.63,44727.41
+ORD1377,2025-09-15,Headphone,Electronics,East,Cash,5,1553.73,7768.65
+ORD1378,2025-06-04,Office Chair,Furniture,South,Net Banking,3,11856.96,35570.88
+ORD1379,2025-05-21,Desk,Furniture,South,Net Banking,1,9680.62,9680.62
+ORD1380,2025-09-11,Jacket,Apparel,West,Cash,1,5875.31,5875.31
+ORD1381,2025-07-29,T-Shirt,Apparel,South,Net Banking,3,659.87,1979.61
+ORD1382,2025-04-26,Office Chair,Furniture,South,Net Banking,5,10575.41,52877.05
+ORD1383,2025-10-15,Laptop,Electronics,South,Net Banking,7,78389.31,548725.17
+ORD1384,2025-05-11,Office Chair,Furniture,North,Net Banking,4,5302.63,21210.52
+ORD1385,2025-02-17,Bookshelf,Furniture,South,Credit Card,9,6209.8,55888.2
+ORD1386,2025-07-13,Desk,Furniture,North,UPI,10,10235.06,102350.6
+ORD1387,2025-12-10,Notebook,Stationery,South,Cash,9,104.25,938.25
+ORD1388,2025-01-08,Desk,Furniture,North,Net Banking,4,14245.92,56983.68
+ORD1389,2025-12-23,Office Chair,Furniture,West,UPI,10,9037.69,90376.9
+ORD1390,2025-06-14,Jacket,Apparel,East,Cash,5,3212.98,16064.9
+ORD1391,2025-07-04,Desk,Furniture,West,Credit Card,9,13593.74,122343.66
+ORD1392,2025-06-13,Jeans,Apparel,West,Credit Card,4,1615.55,6462.2
+ORD1393,2025-04-24,Notebook,Stationery,West,Cash,3,54.05,162.15
+ORD1394,2025-04-11,Headphone,Electronics,South,Net Banking,6,1535.08,9210.48
+ORD1395,2025-12-02,Jacket,Apparel,West,Net Banking,6,2657.97,15947.82
+ORD1396,2025-03-28,Jeans,Apparel,West,UPI,6,1172.38,7034.28
+ORD1397,2025-11-25,Jacket,Apparel,North,Credit Card,1,3857.75,3857.75
+ORD1398,2025-07-31,Laptop,Electronics,South,Credit Card,3,72127.24,216381.72
+ORD1399,2025-01-05,Headphone,Electronics,East,Credit Card,4,2775.8,11103.2
+ORD1400,2025-11-23,Notebook,Stationery,West,Credit Card,10,278.19,2781.9
+ORD1401,2025-09-30,Laptop,Electronics,North,Cash,9,50566.93,455102.37
+ORD1402,2025-05-27,Jacket,Apparel,West,UPI,1,3759.97,3759.97
+ORD1403,2025-02-19,Smartphone,Electronics,South,Cash,9,17444.87,157003.83
+ORD1404,2025-05-17,Bookshelf,Furniture,West,Net Banking,7,2013.63,14095.41
+ORD1405,2025-05-05,Notebook,Stationery,North,Credit Card,4,124.99,499.96
+ORD1406,2025-07-27,Smartphone,Electronics,West,Credit Card,7,28858.48,202009.36
+ORD1407,2025-01-05,Pen Set,Stationery,West,Cash,3,87.21,261.63
+ORD1408,2025-02-18,Notebook,Stationery,South,UPI,9,279.79,2518.11
+ORD1409,2025-09-01,Notebook,Stationery,North,Cash,5,61.64,308.2
+ORD1410,2025-10-16,Jacket,Apparel,East,Credit Card,1,2307.1,2307.1
+ORD1411,2025-10-28,Office Chair,Furniture,West,Credit Card,3,9522.54,28567.62
+ORD1412,2025-03-25,Desk,Furniture,West,Cash,10,5885.67,58856.7
+ORD1413,2025-03-13,T-Shirt,Apparel,East,Credit Card,2,900.95,1801.9
+ORD1414,2025-08-12,Smartphone,Electronics,East,Net Banking,4,51933.73,207734.92
+ORD1415,2025-01-16,Bookshelf,Furniture,West,Net Banking,5,6593.06,32965.3
+ORD1416,2025-07-02,Office Chair,Furniture,West,UPI,9,11411.43,102702.87
+ORD1417,2025-10-27,Pen Set,Stationery,East,UPI,7,88.56,619.92
+ORD1418,2025-02-12,Smartphone,Electronics,South,Net Banking,5,17711.05,88555.25
+ORD1419,2025-07-04,Bookshelf,Furniture,East,Net Banking,2,2094.88,4189.76
+ORD1420,2025-05-19,Bookshelf,Furniture,South,Net Banking,2,2361.3,4722.6
+ORD1421,2025-10-13,Jeans,Apparel,North,Credit Card,9,1927.37,17346.33
+ORD1422,2025-07-01,Smartphone,Electronics,East,Net Banking,9,14653.21,131878.89
+ORD1423,2025-05-30,Laptop,Electronics,North,UPI,7,49389.98,345729.86
+ORD1424,2025-09-24,Notebook,Stationery,South,UPI,3,221.33,663.99
+ORD1425,2025-06-04,Desk,Furniture,North,UPI,5,8917.49,44587.45
+ORD1426,2025-05-22,T-Shirt,Apparel,North,Cash,7,659.7,4617.9
+ORD1427,2025-05-07,Desk,Furniture,South,Net Banking,8,10125.68,81005.44
+ORD1428,2025-03-11,Smartphone,Electronics,West,Cash,5,10338.37,51691.85
+ORD1429,2025-07-14,Notebook,Stationery,West,UPI,6,160.06,960.36
+ORD1430,2025-06-14,Desk,Furniture,South,Net Banking,10,14367.35,143673.5
+ORD1431,2025-04-01,Bookshelf,Furniture,East,Net Banking,7,7796.71,54576.97
+ORD1432,2025-05-05,Notebook,Stationery,West,Cash,6,144.01,864.06
+ORD1433,2025-10-16,Smartphone,Electronics,South,Credit Card,4,39611.35,158445.4
+ORD1434,2025-12-29,Jeans,Apparel,East,Credit Card,4,1764.6,7058.4
+ORD1435,2025-12-11,T-Shirt,Apparel,East,UPI,8,467.01,3736.08
+ORD1436,2025-12-04,Desk,Furniture,West,Credit Card,3,11582.84,34748.52
+ORD1437,2025-11-03,Jeans,Apparel,West,Credit Card,8,2080.94,16647.52
+ORD1438,2025-12-26,Bookshelf,Furniture,North,Credit Card,9,5359.83,48238.47
+ORD1439,2025-12-03,Office Chair,Furniture,North,Net Banking,6,3663.38,21980.28
+ORD1440,2025-08-09,Bookshelf,Furniture,East,UPI,2,1568.56,3137.12
+ORD1441,2025-09-23,Jacket,Apparel,South,Net Banking,9,4112.33,37010.97
+ORD1442,2025-07-20,Bookshelf,Furniture,South,Cash,8,6520.22,52161.76
+ORD1443,2025-09-05,Laptop,Electronics,North,Credit Card,2,44771.61,89543.22
+ORD1444,2025-06-28,Headphone,Electronics,South,Net Banking,5,2043.8,10219.0
+ORD1445,2025-09-01,Bookshelf,Furniture,West,Cash,2,4348.08,8696.16
+ORD1446,2025-06-03,Smartphone,Electronics,North,Credit Card,1,50509.3,50509.3
+ORD1447,2025-11-28,Bookshelf,Furniture,South,UPI,2,5901.41,11802.82
+ORD1448,2025-03-31,Jacket,Apparel,West,Net Banking,9,2220.61,19985.49
+ORD1449,2025-07-27,Office Chair,Furniture,West,Net Banking,3,3863.87,11591.61
+ORD1450,2025-11-11,Laptop,Electronics,West,Net Banking,4,52478.75,209915.0
+ORD1451,2025-12-27,Laptop,Electronics,North,Credit Card,4,40289.22,161156.88
+ORD1452,2025-04-06,Jacket,Apparel,West,Credit Card,6,2966.93,17801.58
+ORD1453,2025-12-10,Desk,Furniture,East,Net Banking,8,9332.58,74660.64
+ORD1454,2025-07-20,Notebook,Stationery,East,Net Banking,10,78.56,785.6
+ORD1455,2025-03-30,Notebook,Stationery,North,UPI,5,279.67,1398.35
+ORD1456,2025-03-02,Bookshelf,Furniture,South,Cash,4,3484.97,13939.88
+ORD1457,2025-09-19,Headphone,Electronics,South,Net Banking,7,2382.08,16674.56
+ORD1458,2025-04-06,T-Shirt,Apparel,South,UPI,8,1062.6,8500.8
+ORD1459,2025-05-28,Jeans,Apparel,West,Credit Card,3,1211.62,3634.86
+ORD1460,2025-01-05,Bookshelf,Furniture,West,Net Banking,8,2387.48,19099.84
+ORD1461,2025-12-17,T-Shirt,Apparel,West,Net Banking,8,798.76,6390.08
+ORD1462,2025-02-12,Headphone,Electronics,South,Cash,10,638.87,6388.7
+ORD1463,2025-05-21,Laptop,Electronics,South,Net Banking,4,56880.43,227521.72
+ORD1464,2025-09-11,Notebook,Stationery,North,Cash,9,177.7,1599.3
+ORD1465,2025-07-07,Jacket,Apparel,North,Net Banking,9,5201.75,46815.75
+ORD1466,2025-04-22,Jacket,Apparel,South,Cash,7,1960.87,13726.09
+ORD1467,2025-08-19,Laptop,Electronics,North,Net Banking,5,47428.85,237144.25
+ORD1468,2025-05-02,Smartphone,Electronics,East,Net Banking,4,50535.14,202140.56
+ORD1469,2025-11-12,Headphone,Electronics,South,Credit Card,3,4031.82,12095.46
+ORD1470,2025-06-29,Notebook,Stationery,South,Cash,9,120.27,1082.43
+ORD1471,2025-05-29,Desk,Furniture,North,UPI,10,6208.12,62081.2
+ORD1472,2025-01-31,T-Shirt,Apparel,South,UPI,5,1340.46,6702.3
+ORD1473,2025-03-16,Office Chair,Furniture,West,Net Banking,6,10284.82,61708.92
+ORD1474,2025-10-23,Headphone,Electronics,West,Net Banking,5,3325.16,16625.8
+ORD1475,2025-11-21,Smartphone,Electronics,East,Cash,2,30142.54,60285.08
+ORD1476,2025-09-07,Jeans,Apparel,North,Net Banking,6,2080.3,12481.8
+ORD1477,2025-12-07,Pen Set,Stationery,West,UPI,6,432.55,2595.3
+ORD1478,2025-04-19,T-Shirt,Apparel,East,Cash,8,622.24,4977.92
+ORD1479,2025-10-23,Jacket,Apparel,West,Cash,3,4047.64,12142.92
+ORD1480,2025-01-25,Pen Set,Stationery,West,Credit Card,1,94.81,94.81
+ORD1481,2025-03-22,Smartphone,Electronics,West,UPI,8,32825.91,262607.28
+ORD1482,2025-11-29,Headphone,Electronics,East,Credit Card,5,1215.4,6077.0
+ORD1483,2025-07-04,Pen Set,Stationery,South,Credit Card,5,87.09,435.45
+ORD1484,2025-11-17,T-Shirt,Apparel,South,Net Banking,5,1171.19,5855.95
+ORD1485,2025-02-16,Pen Set,Stationery,West,Credit Card,2,50.49,100.98
+ORD1486,2025-10-31,Headphone,Electronics,West,Credit Card,4,2837.5,11350.0
+ORD1487,2025-12-23,Laptop,Electronics,West,UPI,6,70855.45,425132.7
+ORD1488,2025-02-06,Jeans,Apparel,North,Credit Card,4,1642.75,6571.0
+ORD1489,2025-07-08,Bookshelf,Furniture,South,UPI,5,2391.34,11956.7
+ORD1490,2025-09-29,Smartphone,Electronics,South,Net Banking,10,10423.74,104237.4
+ORD1491,2025-04-20,Bookshelf,Furniture,West,UPI,3,7479.31,22437.93
+ORD1492,2025-02-21,Smartphone,Electronics,West,Cash,3,47622.28,142866.84
+ORD1493,2025-06-11,T-Shirt,Apparel,North,UPI,3,597.34,1792.02
+ORD1494,2025-11-04,Jacket,Apparel,East,Credit Card,10,4745.31,47453.1
+ORD1495,2025-06-04,Pen Set,Stationery,South,Net Banking,4,282.99,1131.96
+ORD1496,2025-11-27,Desk,Furniture,South,Net Banking,1,12405.62,12405.62
+ORD1497,2025-02-27,T-Shirt,Apparel,North,Credit Card,4,899.5,3598.0
+ORD1498,2025-06-12,Bookshelf,Furniture,West,Cash,3,4014.45,12043.35
+ORD1499,2025-12-16,Jacket,Apparel,North,Credit Card,3,4932.27,14796.81
+ORD1500,2025-02-04,Notebook,Stationery,North,Credit Card,1,115.55,115.55
+ORD1501,2025-09-17,T-Shirt,Apparel,West,Net Banking,5,1054.28,5271.4
+ORD1502,2025-02-12,T-Shirt,Apparel,South,Cash,9,945.19,8506.71
+ORD1503,2025-06-08,Smartphone,Electronics,South,UPI,2,35565.23,71130.46
+ORD1504,2025-06-17,Jacket,Apparel,North,Cash,7,4138.97,28972.79
+ORD1505,2025-05-03,T-Shirt,Apparel,West,Credit Card,1,593.38,593.38
+ORD1506,2025-11-10,Jeans,Apparel,South,Credit Card,10,921.06,9210.6
+ORD1507,2025-12-29,Laptop,Electronics,South,Net Banking,3,65074.98,195224.94
+ORD1508,2025-09-25,Bookshelf,Furniture,East,UPI,9,6589.42,59304.78
+ORD1509,2025-03-06,Bookshelf,Furniture,North,Credit Card,5,6264.08,31320.4
+ORD1510,2025-08-08,Bookshelf,Furniture,East,Credit Card,5,4905.05,24525.25
+ORD1511,2025-08-22,Jeans,Apparel,West,UPI,9,1592.27,14330.43
+ORD1512,2025-03-22,Bookshelf,Furniture,North,UPI,5,6526.64,32633.2
+ORD1513,2025-01-02,Jacket,Apparel,North,UPI,1,5364.1,5364.1
+ORD1514,2025-08-30,Laptop,Electronics,South,UPI,6,49148.97,294893.82
+ORD1515,2025-10-11,Laptop,Electronics,South,Net Banking,7,41225.77,288580.39
+ORD1516,2025-05-19,Bookshelf,Furniture,North,Credit Card,2,5214.98,10429.96
+ORD1517,2025-04-25,Headphone,Electronics,West,Credit Card,9,4916.36,44247.24
+ORD1518,2025-05-25,Jeans,Apparel,West,Credit Card,5,1520.06,7600.3
+ORD1519,2025-04-13,Bookshelf,Furniture,East,UPI,5,5164.74,25823.7
+ORD1520,2025-07-08,Jeans,Apparel,South,UPI,10,2938.09,29380.9
+ORD1521,2025-01-04,Headphone,Electronics,East,Credit Card,7,607.6,4253.2
+ORD1522,2025-01-01,Bookshelf,Furniture,East,Credit Card,7,7018.54,49129.78
+ORD1523,2025-09-29,Office Chair,Furniture,North,UPI,4,6198.16,24792.64
+ORD1524,2025-02-17,Desk,Furniture,West,Cash,1,14055.29,14055.29
+ORD1525,2025-02-13,Jeans,Apparel,South,Net Banking,10,1010.27,10102.7
+ORD1526,2025-10-31,Smartphone,Electronics,South,UPI,10,13114.14,131141.4
+ORD1527,2025-05-14,Desk,Furniture,West,Cash,6,14112.5,84675.0
+ORD1528,2025-08-20,Bookshelf,Furniture,South,UPI,5,3018.47,15092.35
+ORD1529,2025-02-25,Notebook,Stationery,West,Net Banking,3,76.41,229.23
+ORD1530,2025-07-28,Bookshelf,Furniture,South,Net Banking,2,4983.51,9967.02
+ORD1531,2025-08-26,Desk,Furniture,North,UPI,5,13229.79,66148.95
+ORD1532,2025-06-05,Pen Set,Stationery,East,UPI,10,68.15,681.5
+ORD1533,2025-12-31,Smartphone,Electronics,West,Credit Card,4,58420.0,233680.0
+ORD1534,2025-06-03,Pen Set,Stationery,South,Credit Card,5,419.04,2095.2
+ORD1535,2025-08-20,T-Shirt,Apparel,South,Credit Card,9,1197.69,10779.21
+ORD1536,2025-02-22,Jeans,Apparel,North,UPI,3,1067.2,3201.6
+ORD1537,2025-04-12,Headphone,Electronics,North,Cash,7,2175.08,15225.56
+ORD1538,2025-01-12,Smartphone,Electronics,West,UPI,2,19887.52,39775.04
+ORD1539,2025-06-19,Smartphone,Electronics,West,Credit Card,2,12134.82,24269.64
+ORD1540,2025-10-21,Headphone,Electronics,West,Net Banking,7,4197.58,29383.06
+ORD1541,2025-07-15,Laptop,Electronics,South,UPI,7,38640.36,270482.52
+ORD1542,2025-05-24,Desk,Furniture,North,UPI,8,13601.09,108808.72
+ORD1543,2025-06-01,Pen Set,Stationery,West,Credit Card,8,235.4,1883.2
+ORD1544,2025-05-24,Smartphone,Electronics,South,UPI,7,16861.8,118032.6
+ORD1545,2025-10-06,Pen Set,Stationery,East,Net Banking,1,495.23,495.23
+ORD1546,2025-09-06,Jacket,Apparel,East,Net Banking,6,5607.05,33642.3
+ORD1547,2025-04-03,Desk,Furniture,South,Credit Card,1,6826.53,6826.53
+ORD1548,2025-01-30,Desk,Furniture,South,UPI,8,9353.19,74825.52
+ORD1549,2025-05-07,Smartphone,Electronics,North,UPI,4,23326.35,93305.4
+ORD1550,2025-07-18,Notebook,Stationery,South,UPI,6,283.8,1702.8
+ORD1551,2025-10-31,Office Chair,Furniture,East,Credit Card,6,10062.1,60372.6
+ORD1552,2025-10-18,Bookshelf,Furniture,South,Net Banking,10,2423.66,24236.6
+ORD1553,2025-06-08,Jacket,Apparel,North,Credit Card,3,3706.96,11120.88
+ORD1554,2025-11-05,Office Chair,Furniture,West,Credit Card,4,2199.28,8797.12
+ORD1555,2025-11-11,Bookshelf,Furniture,East,UPI,4,6741.9,26967.6
+ORD1556,2025-01-31,Bookshelf,Furniture,South,Credit Card,1,2460.13,2460.13
+ORD1557,2025-07-06,Jacket,Apparel,West,Credit Card,2,3181.16,6362.32
+ORD1558,2025-06-04,Bookshelf,Furniture,South,Net Banking,6,2386.94,14321.64
+ORD1559,2025-09-07,Pen Set,Stationery,East,UPI,6,128.39,770.34
+ORD1560,2025-10-29,Pen Set,Stationery,East,UPI,3,220.27,660.81
+ORD1561,2025-01-01,Headphone,Electronics,North,UPI,10,2262.21,22622.1
+ORD1562,2025-06-12,Notebook,Stationery,North,Net Banking,10,105.22,1052.2
+ORD1563,2025-06-19,Headphone,Electronics,East,UPI,2,1570.98,3141.96
+ORD1564,2025-02-15,Pen Set,Stationery,East,UPI,6,250.98,1505.88
+ORD1565,2025-12-21,Office Chair,Furniture,North,Credit Card,2,5504.81,11009.62
+ORD1566,2025-07-17,Laptop,Electronics,South,Net Banking,8,66629.22,533033.76
+ORD1567,2025-07-13,Jeans,Apparel,North,Net Banking,6,2001.25,12007.5
+ORD1568,2025-11-30,Notebook,Stationery,North,Credit Card,4,90.66,362.64
+ORD1569,2025-01-11,Desk,Furniture,North,Credit Card,6,6133.53,36801.18
+ORD1570,2025-03-29,Bookshelf,Furniture,North,Credit Card,7,2545.88,17821.16
+ORD1571,2025-11-01,Bookshelf,Furniture,North,Net Banking,10,7305.97,73059.7
+ORD1572,2025-03-26,Pen Set,Stationery,South,Credit Card,10,450.39,4503.9
+ORD1573,2025-06-19,Smartphone,Electronics,West,Cash,4,58719.92,234879.68
+ORD1574,2025-05-25,Pen Set,Stationery,North,Net Banking,5,156.9,784.5
+ORD1575,2025-10-09,Notebook,Stationery,East,Credit Card,8,88.4,707.2
+ORD1576,2025-02-14,T-Shirt,Apparel,West,UPI,5,1288.68,6443.4
+ORD1577,2025-01-14,Smartphone,Electronics,East,Credit Card,4,18541.61,74166.44
+ORD1578,2025-03-01,Jeans,Apparel,West,Net Banking,5,2526.73,12633.65
+ORD1579,2025-05-16,Pen Set,Stationery,West,UPI,2,338.84,677.68
+ORD1580,2025-07-15,Bookshelf,Furniture,North,Cash,6,2712.79,16276.74
+ORD1581,2025-08-27,Jeans,Apparel,East,Credit Card,5,1297.73,6488.65
+ORD1582,2025-12-23,Headphone,Electronics,East,Net Banking,2,885.68,1771.36
+ORD1583,2025-04-27,Notebook,Stationery,West,Net Banking,9,65.25,587.25
+ORD1584,2025-12-18,Jacket,Apparel,South,Net Banking,8,4077.21,32617.68
+ORD1585,2025-02-10,Desk,Furniture,North,UPI,7,13833.33,96833.31
+ORD1586,2025-08-18,Smartphone,Electronics,South,UPI,3,57453.07,172359.21
+ORD1587,2025-03-06,Office Chair,Furniture,West,UPI,1,6233.75,6233.75
+ORD1588,2025-03-17,Pen Set,Stationery,North,Credit Card,10,166.05,1660.5
+ORD1589,2025-10-12,T-Shirt,Apparel,East,Net Banking,7,962.47,6737.29
+ORD1590,2025-12-25,Laptop,Electronics,West,Credit Card,10,59378.8,593788.0
+ORD1591,2025-03-18,T-Shirt,Apparel,North,Credit Card,3,979.91,2939.73
+ORD1592,2025-02-21,Notebook,Stationery,East,Net Banking,5,266.87,1334.35
+ORD1593,2025-07-16,Desk,Furniture,West,Credit Card,8,9864.28,78914.24
+ORD1594,2025-05-22,Headphone,Electronics,West,Credit Card,7,1147.34,8031.38
+ORD1595,2025-06-19,T-Shirt,Apparel,West,Cash,4,359.15,1436.6
+ORD1596,2025-01-11,Bookshelf,Furniture,East,Cash,6,6813.01,40878.06
+ORD1597,2025-09-09,Desk,Furniture,South,UPI,2,14669.96,29339.92
+ORD1598,2025-08-15,Desk,Furniture,West,Credit Card,6,6233.04,37398.24
+ORD1599,2025-08-15,Office Chair,Furniture,West,Net Banking,4,11134.33,44537.32
+ORD1600,2025-07-11,Jacket,Apparel,South,Credit Card,1,3818.71,3818.71
+ORD1601,2025-12-30,Desk,Furniture,North,UPI,9,7840.62,70565.58
+ORD1602,2025-04-13,Office Chair,Furniture,West,Credit Card,1,4494.9,4494.9
+ORD1603,2025-12-27,Bookshelf,Furniture,West,Net Banking,4,3280.85,13123.4
+ORD1604,2025-03-05,Pen Set,Stationery,West,Net Banking,1,158.87,158.87
+ORD1605,2025-08-31,Headphone,Electronics,East,UPI,10,2981.0,29810.0
+ORD1606,2025-12-19,Desk,Furniture,West,Credit Card,2,6420.83,12841.66
+ORD1607,2025-10-20,Headphone,Electronics,South,UPI,4,4357.0,17428.0
+ORD1608,2025-11-30,Desk,Furniture,North,Net Banking,7,9159.37,64115.59
+ORD1609,2025-11-28,Headphone,Electronics,North,UPI,3,3205.14,9615.42
+ORD1610,2025-11-08,Desk,Furniture,East,Net Banking,5,11552.89,57764.45
+ORD1611,2025-06-28,T-Shirt,Apparel,West,Cash,8,602.4,4819.2
+ORD1612,2025-09-24,Pen Set,Stationery,North,Credit Card,10,228.72,2287.2
+ORD1613,2025-12-06,Jacket,Apparel,East,Cash,6,4026.56,24159.36
+ORD1614,2025-02-25,Pen Set,Stationery,East,Cash,8,78.73,629.84
+ORD1615,2025-05-14,Desk,Furniture,South,Credit Card,5,5260.32,26301.6
+ORD1616,2025-07-26,Notebook,Stationery,North,Net Banking,6,220.19,1321.14
+ORD1617,2025-05-13,Desk,Furniture,North,UPI,7,7855.19,54986.33
+ORD1618,2025-04-24,Bookshelf,Furniture,West,Cash,9,5649.04,50841.36
+ORD1619,2025-06-03,Jacket,Apparel,South,Cash,3,5282.87,15848.61
+ORD1620,2025-08-30,Smartphone,Electronics,South,Cash,3,47045.94,141137.82
+ORD1621,2025-02-15,Pen Set,Stationery,East,Net Banking,4,209.88,839.52
+ORD1622,2025-07-10,Bookshelf,Furniture,West,Credit Card,5,5306.21,26531.05
+ORD1623,2025-01-28,Jeans,Apparel,North,Net Banking,10,2076.69,20766.9
+ORD1624,2025-09-14,Office Chair,Furniture,West,Cash,2,10674.98,21349.96
+ORD1625,2025-01-28,T-Shirt,Apparel,South,Cash,3,464.84,1394.52
+ORD1626,2025-10-19,T-Shirt,Apparel,South,Credit Card,8,471.87,3774.96
+ORD1627,2025-06-20,Jeans,Apparel,North,Credit Card,3,1489.51,4468.53
+ORD1628,2025-05-21,Jeans,Apparel,South,UPI,4,2474.63,9898.52
+ORD1629,2025-02-15,Jeans,Apparel,West,Net Banking,3,2151.86,6455.58
+ORD1630,2025-09-02,T-Shirt,Apparel,South,Cash,7,305.6,2139.2
+ORD1631,2025-06-14,Laptop,Electronics,North,UPI,9,39528.84,355759.56
+ORD1632,2025-12-22,Office Chair,Furniture,North,Net Banking,6,5120.92,30725.52
+ORD1633,2025-10-29,Jacket,Apparel,North,Cash,5,2251.59,11257.95
+ORD1634,2025-08-22,Desk,Furniture,East,Net Banking,9,10156.44,91407.96
+ORD1635,2025-03-10,Pen Set,Stationery,West,Cash,6,498.26,2989.56
+ORD1636,2025-03-26,Office Chair,Furniture,South,UPI,7,2191.25,15338.75
+ORD1637,2025-01-12,Office Chair,Furniture,North,Cash,10,7046.34,70463.4
+ORD1638,2025-01-20,Pen Set,Stationery,East,Credit Card,7,444.44,3111.08
+ORD1639,2025-01-25,Notebook,Stationery,North,Credit Card,2,213.39,426.78
+ORD1640,2025-08-02,Smartphone,Electronics,East,Net Banking,8,29012.69,232101.52
+ORD1641,2025-04-16,Headphone,Electronics,North,Cash,1,1855.02,1855.02
+ORD1642,2025-11-07,Notebook,Stationery,North,Credit Card,3,154.71,464.13
+ORD1643,2025-02-28,Desk,Furniture,South,Cash,2,8972.87,17945.74
+ORD1644,2025-04-14,Jacket,Apparel,East,UPI,6,4665.47,27992.82
+ORD1645,2025-10-08,Laptop,Electronics,West,Cash,8,75517.83,604142.64
+ORD1646,2025-01-02,Office Chair,Furniture,North,Net Banking,1,8716.33,8716.33
+ORD1647,2025-02-16,Headphone,Electronics,North,Cash,9,837.72,7539.48
+ORD1648,2025-04-29,Pen Set,Stationery,East,Cash,8,494.9,3959.2
+ORD1649,2025-01-26,Jeans,Apparel,North,Cash,2,2588.99,5177.98
+ORD1650,2025-12-13,Bookshelf,Furniture,North,Credit Card,6,4268.97,25613.82
+ORD1651,2025-01-05,Laptop,Electronics,South,Cash,3,63167.75,189503.25
+ORD1652,2025-08-13,Bookshelf,Furniture,North,Cash,10,3244.01,32440.1
+ORD1653,2025-04-04,Bookshelf,Furniture,West,Cash,2,4105.05,8210.1
+ORD1654,2025-12-20,T-Shirt,Apparel,South,Credit Card,8,1259.88,10079.04
+ORD1655,2025-12-23,Headphone,Electronics,South,Credit Card,1,4917.06,4917.06
+ORD1656,2025-10-30,T-Shirt,Apparel,West,UPI,8,1262.72,10101.76
+ORD1657,2025-07-14,Notebook,Stationery,South,Net Banking,6,202.84,1217.04
+ORD1658,2025-02-27,Jeans,Apparel,North,Cash,7,1769.51,12386.57
+ORD1659,2025-06-10,Pen Set,Stationery,South,Cash,1,367.06,367.06
+ORD1660,2025-09-25,Jacket,Apparel,South,Net Banking,10,1928.59,19285.9
+ORD1661,2025-12-06,Bookshelf,Furniture,North,Credit Card,7,2466.25,17263.75
+ORD1662,2025-03-22,Pen Set,Stationery,West,UPI,9,431.98,3887.82
+ORD1663,2025-09-09,Smartphone,Electronics,East,Credit Card,6,22044.59,132267.54
+ORD1664,2025-04-25,Jacket,Apparel,West,UPI,9,4394.93,39554.37
+ORD1665,2025-08-24,Smartphone,Electronics,West,Credit Card,8,50063.06,400504.48
+ORD1666,2025-08-17,Jeans,Apparel,West,Credit Card,6,1061.16,6366.96
+ORD1667,2025-07-26,Smartphone,Electronics,North,Credit Card,7,11791.6,82541.2
+ORD1668,2025-11-13,Notebook,Stationery,South,Net Banking,5,272.53,1362.65
+ORD1669,2025-07-06,Bookshelf,Furniture,West,Cash,1,6807.83,6807.83
+ORD1670,2025-11-14,Jacket,Apparel,East,Net Banking,10,3629.1,36291.0
+ORD1671,2025-02-19,Smartphone,Electronics,East,Cash,4,10109.85,40439.4
+ORD1672,2025-09-25,Jacket,Apparel,North,UPI,6,4659.43,27956.58
+ORD1673,2025-03-13,Jeans,Apparel,South,UPI,7,1035.32,7247.24
+ORD1674,2025-07-21,Smartphone,Electronics,South,Cash,4,32852.3,131409.2
+ORD1675,2025-08-01,Smartphone,Electronics,North,Net Banking,1,56331.33,56331.33
+ORD1676,2025-12-04,Jeans,Apparel,South,Net Banking,10,2903.62,29036.2
+ORD1677,2025-09-29,Laptop,Electronics,West,Net Banking,1,57661.32,57661.32
+ORD1678,2025-04-01,Jacket,Apparel,South,Credit Card,10,2281.43,22814.3
+ORD1679,2025-12-03,T-Shirt,Apparel,East,Net Banking,10,1027.39,10273.9
+ORD1680,2025-11-08,T-Shirt,Apparel,East,Cash,4,628.32,2513.28
+ORD1681,2025-03-10,Jeans,Apparel,East,Cash,3,1708.04,5124.12
+ORD1682,2025-11-20,Jacket,Apparel,East,Cash,4,2404.0,9616.0
+ORD1683,2025-03-09,Pen Set,Stationery,East,Credit Card,3,276.75,830.25
+ORD1684,2025-10-15,Bookshelf,Furniture,West,Cash,8,5288.24,42305.92
+ORD1685,2025-01-07,T-Shirt,Apparel,West,UPI,9,427.76,3849.84
+ORD1686,2025-12-10,Laptop,Electronics,South,Cash,1,39995.12,39995.12
+ORD1687,2025-05-09,Pen Set,Stationery,East,UPI,3,427.72,1283.16
+ORD1688,2025-01-17,Jacket,Apparel,North,UPI,6,5163.12,30978.72
+ORD1689,2025-10-15,Pen Set,Stationery,East,Credit Card,7,156.92,1098.44
+ORD1690,2025-07-18,T-Shirt,Apparel,East,Credit Card,7,1448.04,10136.28
+ORD1691,2025-05-09,Laptop,Electronics,West,UPI,4,61028.08,244112.32
+ORD1692,2025-12-27,Pen Set,Stationery,South,UPI,6,389.8,2338.8
+ORD1693,2025-08-18,Desk,Furniture,North,UPI,3,14801.44,44404.32
+ORD1694,2025-09-21,Headphone,Electronics,West,Cash,2,2197.39,4394.78
+ORD1695,2025-05-16,Jacket,Apparel,East,Credit Card,3,2224.18,6672.54
+ORD1696,2025-08-27,Bookshelf,Furniture,East,Credit Card,3,1759.61,5278.83
+ORD1697,2025-11-12,Pen Set,Stationery,East,Credit Card,5,270.75,1353.75
+ORD1698,2025-09-27,Bookshelf,Furniture,North,UPI,4,7720.42,30881.68
+ORD1699,2025-10-06,T-Shirt,Apparel,East,UPI,9,784.1,7056.9
+ORD1700,2025-12-06,Office Chair,Furniture,East,UPI,6,5310.67,31864.02
+ORD1701,2025-09-29,Notebook,Stationery,North,Credit Card,8,299.16,2393.28
+ORD1702,2025-06-27,Pen Set,Stationery,South,Credit Card,8,158.16,1265.28
+ORD1703,2025-06-14,Pen Set,Stationery,North,Net Banking,7,462.17,3235.19
+ORD1704,2025-10-04,Desk,Furniture,East,Net Banking,5,3296.47,16482.35
+ORD1705,2025-01-23,Jeans,Apparel,South,Cash,5,2776.22,13881.1
+ORD1706,2025-02-12,Jacket,Apparel,North,Credit Card,2,2253.28,4506.56
+ORD1707,2025-12-10,Office Chair,Furniture,West,Credit Card,4,10649.51,42598.04
+ORD1708,2025-10-03,Office Chair,Furniture,North,UPI,7,8465.61,59259.27
+ORD1709,2025-08-24,Laptop,Electronics,North,Credit Card,6,31894.32,191365.92
+ORD1710,2025-05-09,Headphone,Electronics,South,Cash,9,816.99,7352.91
+ORD1711,2025-07-18,T-Shirt,Apparel,West,Cash,8,1056.26,8450.08
+ORD1712,2025-07-19,Laptop,Electronics,North,Credit Card,2,56741.72,113483.44
+ORD1713,2025-07-03,Smartphone,Electronics,East,Credit Card,9,15306.78,137761.02
+ORD1714,2025-08-13,Desk,Furniture,North,Net Banking,7,7741.36,54189.52
+ORD1715,2025-10-01,Headphone,Electronics,West,Cash,4,1113.72,4454.88
+ORD1716,2025-03-15,Pen Set,Stationery,East,Credit Card,5,354.78,1773.9
+ORD1717,2025-10-12,Jacket,Apparel,North,Net Banking,3,2054.56,6163.68
+ORD1718,2025-10-08,Jacket,Apparel,East,UPI,2,2871.11,5742.22
+ORD1719,2025-11-27,T-Shirt,Apparel,South,UPI,9,470.95,4238.55
+ORD1720,2025-05-10,Notebook,Stationery,North,Net Banking,4,78.66,314.64
+ORD1721,2025-10-09,Pen Set,Stationery,North,Cash,2,180.79,361.58
+ORD1722,2025-04-12,Smartphone,Electronics,East,Cash,10,34359.52,343595.2
+ORD1723,2025-12-10,Headphone,Electronics,North,UPI,4,950.2,3800.8
+ORD1724,2025-09-06,Bookshelf,Furniture,East,UPI,8,3634.25,29074.0
+ORD1725,2025-10-18,Notebook,Stationery,West,UPI,6,251.92,1511.52
+ORD1726,2025-06-10,Laptop,Electronics,West,Cash,4,69283.01,277132.04
+ORD1727,2025-03-10,Bookshelf,Furniture,West,Net Banking,6,7206.26,43237.56
+ORD1728,2025-06-06,Bookshelf,Furniture,South,Credit Card,8,5085.87,40686.96
+ORD1729,2025-03-13,Desk,Furniture,North,Credit Card,9,5357.18,48214.62
+ORD1730,2025-09-17,Laptop,Electronics,West,UPI,1,70632.12,70632.12
+ORD1731,2025-10-10,Laptop,Electronics,West,UPI,5,57173.47,285867.35
+ORD1732,2025-07-20,Bookshelf,Furniture,East,UPI,4,7294.34,29177.36
+ORD1733,2025-09-14,Jeans,Apparel,East,Credit Card,9,999.22,8992.98
+ORD1734,2025-05-03,Pen Set,Stationery,South,Net Banking,10,357.87,3578.7
+ORD1735,2025-04-02,Headphone,Electronics,South,Net Banking,10,4769.2,47692.0
+ORD1736,2025-01-21,Bookshelf,Furniture,South,Credit Card,4,6449.57,25798.28
+ORD1737,2025-07-09,Desk,Furniture,South,Cash,4,3513.7,14054.8
+ORD1738,2025-08-29,T-Shirt,Apparel,North,Cash,8,1357.86,10862.88
+ORD1739,2025-12-27,Smartphone,Electronics,East,Cash,9,41678.35,375105.15
+ORD1740,2025-10-06,Notebook,Stationery,West,Cash,10,93.46,934.6
+ORD1741,2025-12-01,Notebook,Stationery,West,UPI,2,179.17,358.34
+ORD1742,2025-07-27,Jacket,Apparel,East,Net Banking,6,5177.57,31065.42
+ORD1743,2025-11-06,Jeans,Apparel,South,Net Banking,1,1904.04,1904.04
+ORD1744,2025-04-28,Headphone,Electronics,East,UPI,2,2815.44,5630.88
+ORD1745,2025-04-06,Headphone,Electronics,North,UPI,3,2130.0,6390.0
+ORD1746,2025-06-19,T-Shirt,Apparel,West,Net Banking,2,877.82,1755.64
+ORD1747,2025-10-30,Office Chair,Furniture,West,Credit Card,3,8472.59,25417.77
+ORD1748,2025-01-23,Office Chair,Furniture,South,UPI,3,7734.87,23204.61
+ORD1749,2025-09-20,Pen Set,Stationery,South,Credit Card,1,450.86,450.86
+ORD1750,2025-05-13,Headphone,Electronics,West,Credit Card,3,2824.88,8474.64
+ORD1751,2025-05-26,Pen Set,Stationery,West,Net Banking,2,147.47,294.94
+ORD1752,2025-04-23,Headphone,Electronics,South,Cash,7,3203.77,22426.39
+ORD1753,2025-12-18,Headphone,Electronics,North,UPI,6,4650.58,27903.48
+ORD1754,2025-07-17,T-Shirt,Apparel,South,Net Banking,3,430.28,1290.84
+ORD1755,2025-11-07,Headphone,Electronics,North,Credit Card,2,1298.4,2596.8
+ORD1756,2025-09-04,Smartphone,Electronics,North,Net Banking,3,55099.24,165297.72
+ORD1757,2025-08-04,Jacket,Apparel,West,UPI,6,5436.71,32620.26
+ORD1758,2025-07-15,Jeans,Apparel,North,Net Banking,6,2095.91,12575.46
+ORD1759,2025-05-11,Headphone,Electronics,North,Cash,8,3946.37,31570.96
+ORD1760,2025-10-06,Notebook,Stationery,North,Credit Card,7,114.45,801.15
+ORD1761,2025-09-25,Notebook,Stationery,West,UPI,2,179.94,359.88
+ORD1762,2025-07-29,Bookshelf,Furniture,West,Cash,6,2192.79,13156.74
+ORD1763,2025-10-02,Desk,Furniture,East,Net Banking,7,9776.04,68432.28
+ORD1764,2025-07-31,Office Chair,Furniture,West,UPI,9,9837.88,88540.92
+ORD1765,2025-10-14,Bookshelf,Furniture,East,Cash,9,4644.44,41799.96
+ORD1766,2025-03-12,T-Shirt,Apparel,West,UPI,2,1197.38,2394.76
+ORD1767,2025-04-20,Smartphone,Electronics,East,Credit Card,9,30028.05,270252.45
+ORD1768,2025-07-19,Headphone,Electronics,South,Net Banking,1,4119.66,4119.66
+ORD1769,2025-08-11,Notebook,Stationery,South,Cash,2,66.02,132.04
+ORD1770,2025-11-08,Smartphone,Electronics,West,Cash,1,46224.74,46224.74
+ORD1771,2025-01-30,Notebook,Stationery,West,Credit Card,3,210.07,630.21
+ORD1772,2025-12-03,Office Chair,Furniture,North,UPI,9,4860.07,43740.63
+ORD1773,2025-03-28,Notebook,Stationery,North,UPI,1,139.93,139.93
+ORD1774,2025-05-22,Smartphone,Electronics,West,Net Banking,7,27656.38,193594.66
+ORD1775,2025-04-13,Notebook,Stationery,North,Credit Card,9,53.84,484.56
+ORD1776,2025-05-26,Jacket,Apparel,East,Cash,9,5617.54,50557.86
+ORD1777,2025-04-26,Desk,Furniture,West,Net Banking,10,14556.69,145566.9
+ORD1778,2025-01-03,Notebook,Stationery,North,Credit Card,5,93.76,468.8
+ORD1779,2025-05-31,Jacket,Apparel,East,Cash,6,5761.57,34569.42
+ORD1780,2025-07-13,Jeans,Apparel,South,Cash,10,1863.99,18639.9
+ORD1781,2025-12-15,Jeans,Apparel,North,Net Banking,8,2772.35,22178.8
+ORD1782,2025-05-13,Smartphone,Electronics,South,UPI,2,29133.66,58267.32
+ORD1783,2025-07-31,Bookshelf,Furniture,North,Cash,6,4857.28,29143.68
+ORD1784,2025-05-28,Office Chair,Furniture,East,Credit Card,2,5989.31,11978.62
+ORD1785,2025-04-02,Jacket,Apparel,South,Cash,8,2912.43,23299.44
+ORD1786,2025-12-16,Headphone,Electronics,South,UPI,4,2745.5,10982.0
+ORD1787,2025-05-16,Office Chair,Furniture,South,Cash,4,4292.08,17168.32
+ORD1788,2025-02-24,Headphone,Electronics,West,Credit Card,2,4640.85,9281.7
+ORD1789,2025-01-22,Jacket,Apparel,East,Net Banking,8,3170.38,25363.04
+ORD1790,2025-05-21,Notebook,Stationery,East,Net Banking,8,95.72,765.76
+ORD1791,2025-10-23,Office Chair,Furniture,West,Net Banking,3,2541.48,7624.44
+ORD1792,2025-01-17,Jacket,Apparel,South,Net Banking,9,3062.8,27565.2
+ORD1793,2025-12-24,Smartphone,Electronics,North,Credit Card,9,33003.53,297031.77
+ORD1794,2025-04-18,Pen Set,Stationery,East,Cash,7,311.45,2180.15
+ORD1795,2025-05-13,Notebook,Stationery,South,Cash,3,187.14,561.42
+ORD1796,2025-11-10,Jeans,Apparel,West,Net Banking,6,1605.03,9630.18
+ORD1797,2025-08-03,Office Chair,Furniture,West,Cash,6,5650.78,33904.68
+ORD1798,2025-04-03,Jeans,Apparel,South,Credit Card,10,1088.51,10885.1
+ORD1799,2025-05-01,Desk,Furniture,West,UPI,9,8186.63,73679.67
+ORD1800,2025-03-18,Headphone,Electronics,South,Net Banking,8,4125.51,33004.08
+ORD1801,2025-03-10,Jeans,Apparel,East,Net Banking,9,1974.76,17772.84
+ORD1802,2025-05-09,Desk,Furniture,North,Net Banking,9,13302.02,119718.18
+ORD1803,2025-12-20,Smartphone,Electronics,East,Net Banking,3,13001.82,39005.46
+ORD1804,2025-02-19,Pen Set,Stationery,East,Cash,8,385.07,3080.56
+ORD1805,2025-10-14,Bookshelf,Furniture,East,Cash,9,7556.99,68012.91
+ORD1806,2025-07-30,Laptop,Electronics,South,UPI,2,47554.52,95109.04
+ORD1807,2025-07-01,Desk,Furniture,West,Net Banking,6,11078.31,66469.86
+ORD1808,2025-07-15,Smartphone,Electronics,South,UPI,10,24326.18,243261.8
+ORD1809,2025-06-22,Pen Set,Stationery,West,Credit Card,7,334.07,2338.49
+ORD1810,2025-03-24,Smartphone,Electronics,East,Cash,6,21410.9,128465.4
+ORD1811,2025-11-06,Desk,Furniture,West,Cash,7,6254.98,43784.86
+ORD1812,2025-09-24,Notebook,Stationery,South,Credit Card,8,153.5,1228.0
+ORD1813,2025-05-01,Headphone,Electronics,North,UPI,5,4731.97,23659.85
+ORD1814,2025-07-23,Headphone,Electronics,West,Credit Card,2,929.99,1859.98
+ORD1815,2025-07-23,Laptop,Electronics,North,Credit Card,9,68249.82,614248.38
+ORD1816,2025-11-13,Desk,Furniture,West,Cash,3,4011.74,12035.22
+ORD1817,2025-05-07,Office Chair,Furniture,South,UPI,5,6431.6,32158.0
+ORD1818,2025-03-29,Jacket,Apparel,East,Cash,1,1658.2,1658.2
+ORD1819,2025-08-28,Jeans,Apparel,West,UPI,9,2856.69,25710.21
+ORD1820,2025-04-01,Jacket,Apparel,West,Cash,10,4189.13,41891.3
+ORD1821,2025-09-04,Bookshelf,Furniture,North,Net Banking,9,2976.33,26786.97
+ORD1822,2025-07-07,Desk,Furniture,East,Credit Card,7,6117.68,42823.76
+ORD1823,2025-09-25,Laptop,Electronics,West,Credit Card,3,47194.25,141582.75
+ORD1824,2025-09-02,Jeans,Apparel,West,Cash,5,820.09,4100.45
+ORD1825,2025-04-29,Notebook,Stationery,South,Net Banking,1,187.05,187.05
+ORD1826,2025-08-12,Jacket,Apparel,West,Net Banking,7,2624.53,18371.71
+ORD1827,2025-05-15,Office Chair,Furniture,South,Cash,2,6222.39,12444.78
+ORD1828,2025-11-29,Desk,Furniture,West,UPI,9,12705.7,114351.3
+ORD1829,2025-04-04,Smartphone,Electronics,West,Net Banking,3,24479.76,73439.28
+ORD1830,2025-12-25,Desk,Furniture,East,Credit Card,10,8903.95,89039.5
+ORD1831,2025-01-26,Headphone,Electronics,North,Cash,9,599.59,5396.31
+ORD1832,2025-03-06,Desk,Furniture,South,Credit Card,8,11725.28,93802.24
+ORD1833,2025-01-08,Headphone,Electronics,West,Cash,8,1477.35,11818.8
+ORD1834,2025-07-10,Jeans,Apparel,North,Cash,8,2333.26,18666.08
+ORD1835,2025-03-16,Smartphone,Electronics,West,Credit Card,1,23325.18,23325.18
+ORD1836,2025-08-29,Jacket,Apparel,East,Net Banking,3,2364.87,7094.61
+ORD1837,2025-03-04,Laptop,Electronics,West,UPI,4,49239.89,196959.56
+ORD1838,2025-04-12,Laptop,Electronics,North,UPI,8,66766.14,534129.12
+ORD1839,2025-07-19,Jeans,Apparel,South,Credit Card,5,2859.67,14298.35
+ORD1840,2025-09-24,Jacket,Apparel,East,UPI,2,2639.91,5279.82
+ORD1841,2025-01-27,Bookshelf,Furniture,South,Net Banking,4,7826.28,31305.12
+ORD1842,2025-01-08,Bookshelf,Furniture,North,Net Banking,3,6663.54,19990.62
+ORD1843,2025-01-05,Office Chair,Furniture,West,UPI,1,7810.77,7810.77
+ORD1844,2025-02-15,Bookshelf,Furniture,North,Cash,4,2525.04,10100.16
+ORD1845,2025-01-31,Pen Set,Stationery,South,Credit Card,1,209.98,209.98
+ORD1846,2025-09-07,Headphone,Electronics,East,Net Banking,4,1925.33,7701.32
+ORD1847,2025-01-11,Office Chair,Furniture,South,Cash,7,5581.67,39071.69
+ORD1848,2025-09-06,Laptop,Electronics,West,UPI,8,57951.24,463609.92
+ORD1849,2025-04-06,Notebook,Stationery,West,Cash,9,136.92,1232.28
+ORD1850,2025-10-11,Notebook,Stationery,South,Net Banking,3,67.22,201.66
+ORD1851,2025-05-15,Desk,Furniture,North,Net Banking,9,7405.35,66648.15
+ORD1852,2025-01-10,Headphone,Electronics,South,Cash,10,4355.73,43557.3
+ORD1853,2025-12-04,Smartphone,Electronics,South,Net Banking,9,50952.49,458572.41
+ORD1854,2025-03-20,Jacket,Apparel,West,Cash,10,2774.08,27740.8
+ORD1855,2025-02-19,Smartphone,Electronics,North,UPI,9,42944.55,386500.95
+ORD1856,2025-01-17,Headphone,Electronics,South,Credit Card,4,981.75,3927.0
+ORD1857,2025-10-20,Laptop,Electronics,East,Credit Card,7,62896.06,440272.42
+ORD1858,2025-04-24,Bookshelf,Furniture,North,UPI,10,6165.99,61659.9
+ORD1859,2025-09-09,Pen Set,Stationery,North,Cash,2,260.63,521.26
+ORD1860,2025-08-01,Jacket,Apparel,North,Cash,6,5074.12,30444.72
+ORD1861,2025-01-21,Jacket,Apparel,North,UPI,2,5255.05,10510.1
+ORD1862,2025-02-19,Jacket,Apparel,West,UPI,2,4763.27,9526.54
+ORD1863,2025-09-27,Office Chair,Furniture,South,Net Banking,4,7700.28,30801.12
+ORD1864,2025-11-23,Smartphone,Electronics,West,Net Banking,10,27898.17,278981.7
+ORD1865,2025-03-27,Smartphone,Electronics,East,UPI,3,37498.27,112494.81
+ORD1866,2025-11-04,Jacket,Apparel,East,Cash,8,5700.84,45606.72
+ORD1867,2025-07-31,Bookshelf,Furniture,East,UPI,7,6870.01,48090.07
+ORD1868,2025-10-07,Notebook,Stationery,East,Cash,4,143.77,575.08
+ORD1869,2025-08-18,Jeans,Apparel,North,Cash,7,800.43,5603.01
+ORD1870,2025-01-09,Notebook,Stationery,East,Credit Card,9,83.77,753.93
+ORD1871,2025-04-24,Desk,Furniture,North,Cash,4,13268.65,53074.6
+ORD1872,2025-09-19,Jacket,Apparel,South,Credit Card,9,4068.01,36612.09
+ORD1873,2025-08-24,Laptop,Electronics,East,Cash,6,37805.36,226832.16
+ORD1874,2025-05-08,Notebook,Stationery,East,Credit Card,4,114.06,456.24
+ORD1875,2025-07-24,Notebook,Stationery,North,Cash,10,279.47,2794.7
+ORD1876,2025-03-30,Jeans,Apparel,North,Cash,8,2616.55,20932.4
+ORD1877,2025-10-23,Laptop,Electronics,North,Cash,7,33923.87,237467.09
+ORD1878,2025-08-11,Bookshelf,Furniture,North,UPI,7,7546.6,52826.2
+ORD1879,2025-11-05,Pen Set,Stationery,West,Credit Card,1,335.25,335.25
+ORD1880,2025-09-26,Desk,Furniture,South,Cash,1,6831.8,6831.8
+ORD1881,2025-12-24,Jacket,Apparel,West,Net Banking,4,2189.39,8757.56
+ORD1882,2025-10-22,Notebook,Stationery,West,Cash,9,72.52,652.68
+ORD1883,2025-03-17,T-Shirt,Apparel,West,Credit Card,3,703.4,2110.2
+ORD1884,2025-07-24,Jacket,Apparel,West,UPI,5,1882.86,9414.3
+ORD1885,2025-09-04,Headphone,Electronics,West,UPI,9,1391.49,12523.41
+ORD1886,2025-11-12,Jacket,Apparel,North,Cash,9,2608.11,23472.99
+ORD1887,2025-06-15,T-Shirt,Apparel,West,Net Banking,10,407.51,4075.1
+ORD1888,2025-06-28,Bookshelf,Furniture,North,Cash,4,3584.8,14339.2
+ORD1889,2025-06-29,Headphone,Electronics,West,UPI,10,4197.13,41971.3
+ORD1890,2025-01-23,Jeans,Apparel,East,UPI,4,1239.31,4957.24
+ORD1891,2025-02-27,Smartphone,Electronics,South,Cash,1,22152.42,22152.42
+ORD1892,2025-06-25,Laptop,Electronics,West,Credit Card,2,45255.9,90511.8
+ORD1893,2025-04-18,Bookshelf,Furniture,East,Net Banking,9,2877.19,25894.71
+ORD1894,2025-03-14,Notebook,Stationery,North,Cash,1,144.15,144.15
+ORD1895,2025-01-31,Headphone,Electronics,East,Credit Card,5,1403.13,7015.65
+ORD1896,2025-12-02,Jeans,Apparel,East,Cash,1,946.52,946.52
+ORD1897,2025-01-10,Smartphone,Electronics,West,UPI,5,53370.52,266852.6
+ORD1898,2025-09-18,T-Shirt,Apparel,West,Credit Card,2,1384.65,2769.3
+ORD1899,2025-04-12,Headphone,Electronics,North,Credit Card,9,4850.56,43655.04
+ORD1900,2025-09-29,Office Chair,Furniture,West,UPI,5,5335.7,26678.5
+ORD1901,2025-06-27,Laptop,Electronics,East,UPI,6,47768.91,286613.46
+ORD1902,2025-05-22,Jacket,Apparel,West,Credit Card,1,4316.07,4316.07
+ORD1903,2025-05-24,Jacket,Apparel,West,UPI,4,2182.69,8730.76
+ORD1904,2025-07-15,Smartphone,Electronics,South,Net Banking,9,58030.28,522272.52
+ORD1905,2025-10-21,Office Chair,Furniture,East,Cash,3,6264.65,18793.95
+ORD1906,2025-10-05,Jeans,Apparel,South,UPI,3,1254.87,3764.61
+ORD1907,2025-06-08,Headphone,Electronics,West,UPI,9,4593.03,41337.27
+ORD1908,2025-10-17,Pen Set,Stationery,North,UPI,3,192.87,578.61
+ORD1909,2025-03-16,Bookshelf,Furniture,West,Net Banking,1,6475.33,6475.33
+ORD1910,2025-08-15,Desk,Furniture,South,Credit Card,5,4823.48,24117.4
+ORD1911,2025-04-05,Headphone,Electronics,East,UPI,1,3931.01,3931.01
+ORD1912,2025-04-29,Notebook,Stationery,East,Credit Card,4,221.84,887.36
+ORD1913,2025-03-10,Jeans,Apparel,West,Cash,9,2661.5,23953.5
+ORD1914,2025-07-18,Headphone,Electronics,South,UPI,8,2632.31,21058.48
+ORD1915,2025-01-17,Office Chair,Furniture,North,Cash,7,9645.39,67517.73
+ORD1916,2025-04-24,T-Shirt,Apparel,North,UPI,4,1209.33,4837.32
+ORD1917,2025-11-12,Jeans,Apparel,West,UPI,8,2313.3,18506.4
+ORD1918,2025-07-27,T-Shirt,Apparel,West,Cash,1,1029.52,1029.52
+ORD1919,2025-11-10,T-Shirt,Apparel,North,Credit Card,10,1012.57,10125.7
+ORD1920,2025-08-22,Jeans,Apparel,South,Net Banking,1,2731.12,2731.12
+ORD1921,2025-10-13,Laptop,Electronics,North,UPI,7,55806.33,390644.31
+ORD1922,2025-08-14,Desk,Furniture,East,Net Banking,7,13612.77,95289.39
+ORD1923,2025-08-05,Headphone,Electronics,North,UPI,5,3259.1,16295.5
+ORD1924,2025-11-27,Jeans,Apparel,North,UPI,8,998.97,7991.76
+ORD1925,2025-12-23,Notebook,Stationery,West,Cash,9,83.83,754.47
+ORD1926,2025-01-13,Jeans,Apparel,South,Net Banking,3,1798.1,5394.3
+ORD1927,2025-05-09,Smartphone,Electronics,South,Credit Card,6,44585.87,267515.22
+ORD1928,2025-02-28,Smartphone,Electronics,North,Net Banking,8,41703.62,333628.96
+ORD1929,2025-11-10,Jacket,Apparel,West,Credit Card,3,3204.05,9612.15
+ORD1930,2025-06-21,Headphone,Electronics,South,UPI,10,4420.87,44208.7
+ORD1931,2025-04-02,Headphone,Electronics,East,Net Banking,1,2388.12,2388.12
+ORD1932,2025-11-17,Desk,Furniture,South,UPI,3,4410.65,13231.95
+ORD1933,2025-11-15,Laptop,Electronics,West,Net Banking,5,30610.39,153051.95
+ORD1934,2025-01-03,Jacket,Apparel,South,UPI,10,5472.16,54721.6
+ORD1935,2025-12-04,Notebook,Stationery,West,Credit Card,8,163.43,1307.44
+ORD1936,2025-11-04,Notebook,Stationery,East,UPI,1,111.18,111.18
+ORD1937,2025-04-05,Laptop,Electronics,East,Credit Card,3,32753.2,98259.6
+ORD1938,2025-01-17,Headphone,Electronics,East,Cash,10,4271.06,42710.6
+ORD1939,2025-01-26,Smartphone,Electronics,South,UPI,2,30847.85,61695.7
+ORD1940,2025-05-26,Pen Set,Stationery,South,Net Banking,10,347.42,3474.2
+ORD1941,2025-07-04,Notebook,Stationery,East,Cash,1,73.28,73.28
+ORD1942,2025-07-14,Bookshelf,Furniture,North,Cash,2,6429.87,12859.74
+ORD1943,2025-03-10,Jeans,Apparel,East,Cash,2,2328.16,4656.32
+ORD1944,2025-07-31,Jacket,Apparel,South,Credit Card,9,2444.3,21998.7
+ORD1945,2025-10-20,Smartphone,Electronics,West,Cash,9,59359.46,534235.14
+ORD1946,2025-11-08,T-Shirt,Apparel,East,UPI,6,611.59,3669.54
+ORD1947,2025-10-16,Notebook,Stationery,West,Net Banking,8,179.93,1439.44
+ORD1948,2025-11-09,Headphone,Electronics,South,Credit Card,4,3688.64,14754.56
+ORD1949,2025-01-13,Smartphone,Electronics,North,UPI,8,41273.04,330184.32
+ORD1950,2025-08-01,Notebook,Stationery,East,UPI,7,61.37,429.59
+ORD1951,2025-11-24,Laptop,Electronics,East,Credit Card,4,64500.85,258003.4
+ORD1952,2025-06-03,Desk,Furniture,North,Credit Card,9,9599.92,86399.28
+ORD1953,2025-06-20,Pen Set,Stationery,North,UPI,6,228.22,1369.32
+ORD1954,2025-06-19,Office Chair,Furniture,West,Net Banking,6,11222.8,67336.8
+ORD1955,2025-11-27,Laptop,Electronics,West,Cash,3,54074.78,162224.34
+ORD1956,2025-07-31,Jeans,Apparel,East,Cash,1,2637.23,2637.23
+ORD1957,2025-10-02,Jacket,Apparel,East,Cash,1,2437.18,2437.18
+ORD1958,2025-03-18,Smartphone,Electronics,East,Net Banking,5,52036.96,260184.8
+ORD1959,2025-10-01,Pen Set,Stationery,West,UPI,3,306.94,920.82
+ORD1960,2025-03-01,Notebook,Stationery,East,Credit Card,5,226.32,1131.6
+ORD1961,2025-07-31,Desk,Furniture,South,Cash,2,8964.65,17929.3
+ORD1962,2025-06-04,Jeans,Apparel,South,Credit Card,4,1955.22,7820.88
+ORD1963,2025-01-20,Bookshelf,Furniture,West,Credit Card,4,7436.8,29747.2
+ORD1964,2025-09-14,Jeans,Apparel,West,Cash,3,1218.47,3655.41
+ORD1965,2025-03-15,Bookshelf,Furniture,South,UPI,2,6843.9,13687.8
+ORD1966,2025-08-24,Laptop,Electronics,North,Credit Card,7,65683.87,459787.09
+ORD1967,2025-01-23,Desk,Furniture,East,Net Banking,10,13462.5,134625.0
+ORD1968,2025-02-22,Laptop,Electronics,East,Credit Card,9,68309.01,614781.09
+ORD1969,2025-06-09,Notebook,Stationery,South,Cash,4,130.22,520.88
+ORD1970,2025-09-30,Desk,Furniture,North,Cash,6,12273.45,73640.7
+ORD1971,2025-03-22,Headphone,Electronics,North,UPI,5,1015.07,5075.35
+ORD1972,2025-06-29,Jacket,Apparel,South,Cash,9,2933.18,26398.62
+ORD1973,2025-05-06,Notebook,Stationery,East,Net Banking,3,67.81,203.43
+ORD1974,2025-03-08,Laptop,Electronics,North,Credit Card,1,53536.78,53536.78
+ORD1975,2025-01-28,T-Shirt,Apparel,South,Net Banking,2,811.76,1623.52
+ORD1976,2025-07-02,Notebook,Stationery,South,Credit Card,5,133.08,665.4
+ORD1977,2025-10-18,Jeans,Apparel,West,Credit Card,3,1004.42,3013.26
+ORD1978,2025-06-08,Jeans,Apparel,South,UPI,8,1835.2,14681.6
+ORD1979,2025-05-13,Notebook,Stationery,East,Cash,6,148.02,888.12
+ORD1980,2025-09-07,Jeans,Apparel,North,Cash,1,943.8,943.8
+ORD1981,2025-08-25,Jeans,Apparel,East,UPI,3,1420.97,4262.91
+ORD1982,2025-02-22,Jacket,Apparel,North,Cash,7,5178.99,36252.93
+ORD1983,2025-11-29,Jacket,Apparel,West,Net Banking,2,5065.94,10131.88
+ORD1984,2025-07-31,Notebook,Stationery,South,Net Banking,4,205.22,820.88
+ORD1985,2025-02-03,T-Shirt,Apparel,West,Net Banking,6,549.89,3299.34
+ORD1986,2025-06-25,Notebook,Stationery,South,Credit Card,9,223.53,2011.77
+ORD1987,2025-09-07,Notebook,Stationery,West,Cash,2,198.04,396.08
+ORD1988,2025-02-19,Jacket,Apparel,West,Credit Card,8,2292.78,18342.24
+ORD1989,2025-02-25,Notebook,Stationery,West,Cash,10,242.84,2428.4
+ORD1990,2025-11-27,Jeans,Apparel,South,Credit Card,1,999.17,999.17
+ORD1991,2025-12-05,Headphone,Electronics,East,Net Banking,3,2538.38,7615.14
+ORD1992,2025-10-23,Notebook,Stationery,East,Cash,8,98.92,791.36
+ORD1993,2025-12-14,Notebook,Stationery,West,Cash,5,279.63,1398.15
+ORD1994,2025-10-26,Smartphone,Electronics,West,UPI,1,40574.54,40574.54
+ORD1995,2025-02-01,Desk,Furniture,North,Credit Card,6,13812.91,82877.46
+ORD1996,2025-07-03,Jacket,Apparel,North,UPI,2,5375.62,10751.24
+ORD1997,2025-12-26,T-Shirt,Apparel,East,Net Banking,10,773.12,7731.2
+ORD1998,2025-07-15,T-Shirt,Apparel,South,Net Banking,7,954.14,6678.98
+ORD1999,2025-04-07,Headphone,Electronics,East,Net Banking,9,2230.68,20076.12
+ORD2000,2025-05-28,Headphone,Electronics,North,Credit Card,3,1104.25,3312.75
+ORD2001,2025-09-07,Headphone,Electronics,South,Credit Card,7,4887.39,34211.73
+ORD2002,2025-11-25,Headphone,Electronics,West,UPI,7,4370.69,30594.83
+ORD2003,2025-09-18,Jeans,Apparel,West,Net Banking,7,2014.51,14101.57
+ORD2004,2025-04-26,Bookshelf,Furniture,North,Net Banking,3,4261.02,12783.06
+ORD2005,2025-12-31,Office Chair,Furniture,East,Credit Card,9,4692.5,42232.5
+ORD2006,2025-10-18,Laptop,Electronics,North,Net Banking,8,65244.13,521953.04
+ORD2007,2025-03-14,Smartphone,Electronics,East,Net Banking,9,59178.95,532610.55
+ORD2008,2025-02-10,Jacket,Apparel,North,UPI,9,5504.62,49541.58
+ORD2009,2025-11-19,Jeans,Apparel,East,Credit Card,2,2304.96,4609.92
+ORD2010,2025-10-01,Bookshelf,Furniture,West,Cash,1,4547.65,4547.65
+ORD2011,2025-06-30,T-Shirt,Apparel,North,Cash,5,647.05,3235.25
+ORD2012,2025-05-14,Notebook,Stationery,South,Credit Card,1,207.33,207.33
+ORD2013,2025-05-30,Pen Set,Stationery,West,Credit Card,10,62.28,622.8
+ORD2014,2025-09-16,Headphone,Electronics,East,Cash,2,4331.5,8663.0
+ORD2015,2025-11-12,Headphone,Electronics,East,Credit Card,5,1738.48,8692.4
+ORD2016,2025-11-06,Smartphone,Electronics,South,Net Banking,3,55506.57,166519.71
+ORD2017,2025-03-31,Bookshelf,Furniture,South,Net Banking,5,6586.43,32932.15
+ORD2018,2025-09-28,Headphone,Electronics,North,UPI,1,2042.82,2042.82
+ORD2019,2025-03-20,Notebook,Stationery,West,Net Banking,8,238.19,1905.52
+ORD2020,2025-12-05,Office Chair,Furniture,South,UPI,8,9259.99,74079.92
+ORD2021,2025-06-26,Notebook,Stationery,North,Credit Card,1,210.57,210.57
+ORD2022,2025-08-26,Headphone,Electronics,West,UPI,7,2643.04,18501.28
+ORD2023,2025-12-16,T-Shirt,Apparel,South,Net Banking,7,869.51,6086.57
+ORD2024,2025-05-28,Laptop,Electronics,East,Credit Card,8,49100.2,392801.6
+ORD2025,2025-09-30,Smartphone,Electronics,West,Cash,6,57809.18,346855.08
+ORD2026,2025-05-19,Bookshelf,Furniture,East,Net Banking,5,6715.06,33575.3
+ORD2027,2025-12-12,Jeans,Apparel,South,Cash,4,2415.49,9661.96
+ORD2028,2025-12-20,Pen Set,Stationery,North,Credit Card,3,190.97,572.91
+ORD2029,2025-01-07,Smartphone,Electronics,North,Net Banking,7,14884.94,104194.58
+ORD2030,2025-04-23,Bookshelf,Furniture,North,Credit Card,5,3137.32,15686.6
+ORD2031,2025-02-17,Notebook,Stationery,South,Credit Card,1,284.63,284.63
+ORD2032,2025-02-14,Smartphone,Electronics,South,Credit Card,10,16495.36,164953.6
+ORD2033,2025-05-10,Headphone,Electronics,North,Net Banking,5,2601.3,13006.5
+ORD2034,2025-08-07,Desk,Furniture,North,Cash,6,6088.04,36528.24
+ORD2035,2025-07-15,Laptop,Electronics,North,Cash,7,46632.74,326429.18
+ORD2036,2025-04-02,Desk,Furniture,South,Net Banking,8,3832.78,30662.24
+ORD2037,2025-11-27,Headphone,Electronics,West,UPI,8,987.94,7903.52
+ORD2038,2025-11-26,Notebook,Stationery,East,Credit Card,2,278.15,556.3
+ORD2039,2025-02-07,Laptop,Electronics,East,Net Banking,2,58567.23,117134.46
+ORD2040,2025-09-12,Laptop,Electronics,North,Credit Card,3,62643.27,187929.81
+ORD2041,2025-07-19,Pen Set,Stationery,East,Net Banking,5,118.22,591.1
+ORD2042,2025-01-02,Notebook,Stationery,West,Net Banking,9,226.9,2042.1
+ORD2043,2025-07-26,T-Shirt,Apparel,North,Net Banking,2,948.15,1896.3
+ORD2044,2025-03-04,Jeans,Apparel,East,Cash,10,1977.67,19776.7
+ORD2045,2025-06-05,Pen Set,Stationery,North,Cash,7,74.84,523.88
+ORD2046,2025-06-24,Jacket,Apparel,East,UPI,2,5285.32,10570.64
+ORD2047,2025-10-11,Headphone,Electronics,South,Cash,1,4853.81,4853.81
+ORD2048,2025-02-24,T-Shirt,Apparel,West,UPI,6,883.8,5302.8
+ORD2049,2025-01-19,Headphone,Electronics,South,Net Banking,4,614.14,2456.56
+ORD2050,2025-02-02,T-Shirt,Apparel,West,Net Banking,9,1072.09,9648.81
+ORD2051,2025-01-19,Laptop,Electronics,North,Net Banking,6,32802.72,196816.32
+ORD2052,2025-04-19,Smartphone,Electronics,South,UPI,9,32918.52,296266.68
+ORD2053,2025-01-19,Smartphone,Electronics,North,Net Banking,3,34444.74,103334.22
+ORD2054,2025-01-24,Notebook,Stationery,South,Credit Card,4,225.32,901.28
+ORD2055,2025-11-20,Headphone,Electronics,North,Net Banking,1,4570.98,4570.98
+ORD2056,2025-03-29,Notebook,Stationery,North,Credit Card,10,65.99,659.9
+ORD2057,2025-11-01,Jeans,Apparel,South,Net Banking,10,1285.26,12852.6
+ORD2058,2025-12-14,Bookshelf,Furniture,South,Cash,7,3607.53,25252.71
+ORD2059,2025-01-24,Office Chair,Furniture,North,Credit Card,10,3734.48,37344.8
+ORD2060,2025-03-14,Desk,Furniture,East,UPI,7,5016.61,35116.27
+ORD2061,2025-05-05,Jeans,Apparel,North,Net Banking,10,889.54,8895.4
+ORD2062,2025-01-09,Headphone,Electronics,North,UPI,8,863.25,6906.0
+ORD2063,2025-12-28,Smartphone,Electronics,West,Net Banking,10,54345.76,543457.6
+ORD2064,2025-04-16,Headphone,Electronics,West,Net Banking,3,3379.22,10137.66
+ORD2065,2025-03-31,Office Chair,Furniture,South,Net Banking,10,8916.74,89167.4
+ORD2066,2025-02-15,Notebook,Stationery,North,UPI,5,136.96,684.8
+ORD2067,2025-03-02,Office Chair,Furniture,East,UPI,9,11767.91,105911.19
+ORD2068,2025-11-17,Jeans,Apparel,South,Credit Card,4,1408.14,5632.56
+ORD2069,2025-12-17,Headphone,Electronics,South,Credit Card,8,2738.82,21910.56
+ORD2070,2025-11-27,Laptop,Electronics,West,Cash,6,44253.23,265519.38
+ORD2071,2025-11-12,Bookshelf,Furniture,North,UPI,8,1781.56,14252.48
+ORD2072,2025-01-15,Headphone,Electronics,North,UPI,8,2817.07,22536.56
+ORD2073,2025-10-31,Jeans,Apparel,South,Cash,10,1517.14,15171.4
+ORD2074,2025-02-26,Office Chair,Furniture,South,Net Banking,6,4277.82,25666.92
+ORD2075,2025-07-12,Office Chair,Furniture,West,Credit Card,4,2735.3,10941.2
+ORD2076,2025-03-16,T-Shirt,Apparel,West,UPI,4,1413.46,5653.84
+ORD2077,2025-07-11,T-Shirt,Apparel,South,Cash,3,849.29,2547.87
+ORD2078,2025-04-14,Desk,Furniture,North,Cash,6,4526.54,27159.24
+ORD2079,2025-02-26,Headphone,Electronics,South,Cash,8,2563.61,20508.88
+ORD2080,2025-06-01,Office Chair,Furniture,South,UPI,10,3567.88,35678.8
+ORD2081,2025-07-30,Smartphone,Electronics,South,Net Banking,9,34460.67,310146.03
+ORD2082,2025-05-23,Jeans,Apparel,South,UPI,1,2406.04,2406.04
+ORD2083,2025-08-11,Bookshelf,Furniture,South,Credit Card,10,2945.64,29456.4
+ORD2084,2025-01-23,T-Shirt,Apparel,North,Net Banking,1,1489.53,1489.53
+ORD2085,2025-07-21,Jacket,Apparel,North,Net Banking,8,5143.72,41149.76
+ORD2086,2025-05-04,Jeans,Apparel,North,Net Banking,2,2028.67,4057.34
+ORD2087,2025-03-09,Office Chair,Furniture,North,Credit Card,6,4957.9,29747.4
+ORD2088,2025-12-09,Jeans,Apparel,West,Credit Card,5,1155.97,5779.85
+ORD2089,2025-08-26,Jeans,Apparel,West,UPI,3,2723.24,8169.72
+ORD2090,2025-11-17,Bookshelf,Furniture,North,Credit Card,8,6075.36,48602.88
+ORD2091,2025-12-20,T-Shirt,Apparel,East,Net Banking,6,937.1,5622.6
+ORD2092,2025-12-24,Desk,Furniture,South,Credit Card,10,9509.22,95092.2
+ORD2093,2025-06-21,Notebook,Stationery,East,Credit Card,1,178.68,178.68
+ORD2094,2025-07-16,Smartphone,Electronics,North,Cash,6,33267.64,199605.84
+ORD2095,2025-03-31,Bookshelf,Furniture,South,UPI,9,6081.68,54735.12
+ORD2096,2025-05-03,Bookshelf,Furniture,West,UPI,9,2238.12,20143.08
+ORD2097,2025-06-14,Office Chair,Furniture,West,Cash,6,10979.33,65875.98
+ORD2098,2025-02-02,Laptop,Electronics,West,Credit Card,6,47261.33,283567.98
+ORD2099,2025-12-30,Jeans,Apparel,East,Net Banking,9,2292.28,20630.52
+ORD2100,2025-07-08,Notebook,Stationery,West,Credit Card,2,97.09,194.18
+ORD2101,2025-07-20,Smartphone,Electronics,North,Credit Card,3,24418.63,73255.89
+ORD2102,2025-05-22,Headphone,Electronics,West,UPI,2,3636.87,7273.74
+ORD2103,2025-09-24,Office Chair,Furniture,South,Net Banking,1,4931.69,4931.69
+ORD2104,2025-08-04,Bookshelf,Furniture,North,Cash,8,6295.11,50360.88
+ORD2105,2025-02-02,Office Chair,Furniture,South,Cash,1,10717.94,10717.94
+ORD2106,2025-10-24,T-Shirt,Apparel,East,Net Banking,6,1086.91,6521.46
+ORD2107,2025-12-07,Notebook,Stationery,West,Net Banking,9,260.48,2344.32
+ORD2108,2025-10-18,Desk,Furniture,East,UPI,3,13779.38,41338.14
+ORD2109,2025-04-27,Desk,Furniture,East,Credit Card,8,7462.83,59702.64
+ORD2110,2025-06-30,Headphone,Electronics,South,UPI,5,2551.67,12758.35
+ORD2111,2025-05-27,Jacket,Apparel,South,UPI,3,5879.43,17638.29
+ORD2112,2025-03-01,Office Chair,Furniture,South,Net Banking,1,11937.73,11937.73
+ORD2113,2025-07-09,Desk,Furniture,North,Cash,3,5461.86,16385.58
+ORD2114,2025-03-17,Bookshelf,Furniture,South,Cash,6,4414.79,26488.74
+ORD2115,2025-01-13,Smartphone,Electronics,South,Net Banking,7,56553.45,395874.15
+ORD2116,2025-03-21,Bookshelf,Furniture,East,Cash,1,7805.98,7805.98
+ORD2117,2025-05-29,Jeans,Apparel,West,Cash,10,2267.15,22671.5
+ORD2118,2025-09-03,Smartphone,Electronics,North,Cash,1,16971.16,16971.16
+ORD2119,2025-07-25,Laptop,Electronics,West,Cash,10,72043.85,720438.5
+ORD2120,2025-06-17,Smartphone,Electronics,South,UPI,1,40407.56,40407.56
+ORD2121,2025-04-11,Desk,Furniture,West,Credit Card,1,4003.07,4003.07
+ORD2122,2025-07-21,Jacket,Apparel,North,Cash,4,3707.09,14828.36
+ORD2123,2025-03-17,T-Shirt,Apparel,East,Credit Card,7,743.56,5204.92
+ORD2124,2025-06-26,Desk,Furniture,West,Credit Card,6,6697.02,40182.12
+ORD2125,2025-08-16,Office Chair,Furniture,East,UPI,7,10036.86,70258.02
+ORD2126,2025-08-01,T-Shirt,Apparel,North,UPI,3,1302.61,3907.83
+ORD2127,2025-06-05,Office Chair,Furniture,East,Credit Card,8,11883.82,95070.56
+ORD2128,2025-07-12,Notebook,Stationery,East,Net Banking,2,51.65,103.3
+ORD2129,2025-10-12,Headphone,Electronics,South,UPI,8,3696.11,29568.88
+ORD2130,2025-07-15,Headphone,Electronics,North,Cash,5,2992.4,14962.0
+ORD2131,2025-06-05,Notebook,Stationery,West,UPI,8,189.82,1518.56
+ORD2132,2025-01-02,Laptop,Electronics,West,Credit Card,3,43133.85,129401.55
+ORD2133,2025-12-07,Pen Set,Stationery,West,UPI,5,237.72,1188.6
+ORD2134,2025-03-03,Laptop,Electronics,North,Cash,5,54652.51,273262.55
+ORD2135,2025-09-04,Notebook,Stationery,East,Net Banking,10,159.02,1590.2
+ORD2136,2025-07-11,Smartphone,Electronics,North,Cash,9,46647.86,419830.74
+ORD2137,2025-10-25,Headphone,Electronics,West,UPI,1,1157.62,1157.62
+ORD2138,2025-03-25,Bookshelf,Furniture,West,Cash,1,3272.36,3272.36
+ORD2139,2025-05-29,Laptop,Electronics,North,UPI,5,56480.62,282403.1
+ORD2140,2025-04-04,Pen Set,Stationery,South,Cash,2,319.44,638.88
+ORD2141,2025-12-17,Bookshelf,Furniture,East,Credit Card,5,3264.48,16322.4
+ORD2142,2025-10-24,Jacket,Apparel,North,UPI,6,5204.92,31229.52
+ORD2143,2025-05-25,Jacket,Apparel,West,Cash,6,5004.64,30027.84
+ORD2144,2025-02-22,Headphone,Electronics,South,UPI,4,1195.5,4782.0
+ORD2145,2025-11-11,Jacket,Apparel,North,Net Banking,9,5307.31,47765.79
+ORD2146,2025-02-09,Jeans,Apparel,North,Net Banking,2,2601.46,5202.92
+ORD2147,2025-06-09,Bookshelf,Furniture,West,Cash,6,2403.59,14421.54
+ORD2148,2025-12-30,Headphone,Electronics,North,UPI,5,629.42,3147.1
+ORD2149,2025-12-22,Headphone,Electronics,East,UPI,3,3596.21,10788.63
+ORD2150,2025-03-08,Office Chair,Furniture,North,Credit Card,2,6248.05,12496.1
+ORD2151,2025-09-05,Laptop,Electronics,North,Credit Card,7,32125.85,224880.95
+ORD2152,2025-09-20,Pen Set,Stationery,North,Cash,10,76.67,766.7
+ORD2153,2025-02-03,Laptop,Electronics,North,Credit Card,5,63379.32,316896.6
+ORD2154,2025-04-16,Notebook,Stationery,South,Cash,10,275.29,2752.9
+ORD2155,2025-02-16,Laptop,Electronics,East,Cash,3,72293.08,216879.24
+ORD2156,2025-03-24,Bookshelf,Furniture,South,Credit Card,9,6575.21,59176.89
+ORD2157,2025-10-24,Smartphone,Electronics,South,Cash,1,36441.94,36441.94
+ORD2158,2025-10-03,Headphone,Electronics,North,UPI,1,4881.11,4881.11
+ORD2159,2025-12-29,Jacket,Apparel,South,Net Banking,8,3149.08,25192.64
+ORD2160,2025-02-24,Pen Set,Stationery,West,Net Banking,3,425.63,1276.89
+ORD2161,2025-09-21,Office Chair,Furniture,East,Credit Card,4,6075.78,24303.12
+ORD2162,2025-02-26,Jeans,Apparel,East,Cash,9,1099.01,9891.09
+ORD2163,2025-01-21,Jacket,Apparel,North,Net Banking,2,2976.52,5953.04
+ORD2164,2025-08-22,Desk,Furniture,West,UPI,10,11834.09,118340.9
+ORD2165,2025-07-28,Jacket,Apparel,West,UPI,5,5932.33,29661.65
+ORD2166,2025-09-01,Smartphone,Electronics,West,Credit Card,6,18964.86,113789.16
+ORD2167,2025-08-13,T-Shirt,Apparel,North,Credit Card,9,1090.26,9812.34
+ORD2168,2025-07-22,Headphone,Electronics,North,UPI,7,3627.67,25393.69
+ORD2169,2025-07-06,Smartphone,Electronics,West,Credit Card,4,26931.58,107726.32
+ORD2170,2025-08-06,Office Chair,Furniture,East,Net Banking,8,4785.18,38281.44
+ORD2171,2025-09-01,Bookshelf,Furniture,West,Cash,10,7675.9,76759.0
+ORD2172,2025-08-21,Headphone,Electronics,West,Net Banking,2,1049.86,2099.72
+ORD2173,2025-11-18,Office Chair,Furniture,North,Credit Card,3,2297.24,6891.72
+ORD2174,2025-12-14,Jeans,Apparel,West,Cash,1,2938.56,2938.56
+ORD2175,2025-06-05,Headphone,Electronics,North,Net Banking,10,3304.55,33045.5
+ORD2176,2025-04-14,Jeans,Apparel,West,Cash,5,2256.61,11283.05
+ORD2177,2025-06-25,Jacket,Apparel,North,Net Banking,9,3959.79,35638.11
+ORD2178,2025-07-16,Smartphone,Electronics,West,Net Banking,8,25727.96,205823.68
+ORD2179,2025-01-19,Jeans,Apparel,East,UPI,1,1189.11,1189.11
+ORD2180,2025-08-09,Jeans,Apparel,West,Net Banking,3,1487.41,4462.23
+ORD2181,2025-10-19,Smartphone,Electronics,West,Net Banking,8,43003.93,344031.44
+ORD2182,2025-03-22,Jacket,Apparel,East,Net Banking,9,1750.82,15757.38
+ORD2183,2025-07-13,Notebook,Stationery,East,Cash,10,219.12,2191.2
+ORD2184,2025-01-15,Laptop,Electronics,East,Cash,10,32255.92,322559.2
+ORD2185,2025-01-14,Notebook,Stationery,West,Cash,6,145.14,870.84
+ORD2186,2025-07-30,Bookshelf,Furniture,South,UPI,6,1866.92,11201.52
+ORD2187,2025-11-28,Office Chair,Furniture,North,Cash,5,7925.32,39626.6
+ORD2188,2025-06-22,Smartphone,Electronics,East,Credit Card,3,10985.6,32956.8
+ORD2189,2025-12-03,Jeans,Apparel,West,Cash,7,2049.71,14347.97
+ORD2190,2025-12-23,Laptop,Electronics,East,Net Banking,8,59399.46,475195.68
+ORD2191,2025-07-19,Notebook,Stationery,West,Credit Card,6,193.13,1158.78
+ORD2192,2025-04-16,Pen Set,Stationery,East,UPI,6,273.53,1641.18
+ORD2193,2025-06-03,Notebook,Stationery,South,Net Banking,6,292.36,1754.16
+ORD2194,2025-02-08,Pen Set,Stationery,East,Credit Card,9,146.34,1317.06
+ORD2195,2025-10-21,Desk,Furniture,North,Credit Card,7,12655.24,88586.68
+ORD2196,2025-06-22,Notebook,Stationery,West,Net Banking,5,66.82,334.1
+ORD2197,2025-06-27,Office Chair,Furniture,East,Cash,2,8515.37,17030.74
+ORD2198,2025-12-06,T-Shirt,Apparel,West,Net Banking,9,676.02,6084.18
+ORD2199,2025-11-16,Desk,Furniture,South,Credit Card,9,8438.74,75948.66
+ORD2200,2025-12-27,Pen Set,Stationery,West,UPI,9,438.22,3943.98
+ORD2201,2025-08-28,Pen Set,Stationery,West,Credit Card,5,471.72,2358.6
+ORD2202,2025-04-13,Jacket,Apparel,South,UPI,6,3581.19,21487.14
+ORD2203,2025-06-03,Pen Set,Stationery,North,UPI,7,234.62,1642.34
+ORD2204,2025-05-17,T-Shirt,Apparel,East,UPI,5,1075.25,5376.25
+ORD2205,2025-05-03,T-Shirt,Apparel,North,UPI,2,479.95,959.9
+ORD2206,2025-08-26,Desk,Furniture,West,Net Banking,8,9717.9,77743.2
+ORD2207,2025-01-19,Pen Set,Stationery,South,Credit Card,4,121.71,486.84
+ORD2208,2025-05-23,Desk,Furniture,North,Net Banking,9,5111.82,46006.38
+ORD2209,2025-01-29,Laptop,Electronics,East,Credit Card,2,45695.24,91390.48
+ORD2210,2025-07-06,T-Shirt,Apparel,South,UPI,2,776.27,1552.54
+ORD2211,2025-10-20,Smartphone,Electronics,East,Net Banking,9,56646.77,509820.93
+ORD2212,2025-05-02,Smartphone,Electronics,East,Cash,10,16113.84,161138.4
+ORD2213,2025-07-19,Notebook,Stationery,South,UPI,4,283.88,1135.52
+ORD2214,2025-03-31,Smartphone,Electronics,West,Net Banking,4,58496.17,233984.68
+ORD2215,2025-10-29,Desk,Furniture,East,Credit Card,1,8884.3,8884.3
+ORD2216,2025-10-07,Bookshelf,Furniture,South,Cash,7,4586.55,32105.85
+ORD2217,2025-07-05,Headphone,Electronics,East,Credit Card,8,3720.52,29764.16
+ORD2218,2025-11-07,Pen Set,Stationery,North,UPI,1,428.66,428.66
+ORD2219,2025-10-10,Desk,Furniture,East,Credit Card,7,6711.22,46978.54
+ORD2220,2025-05-02,Jacket,Apparel,West,Cash,8,3248.12,25984.96
+ORD2221,2025-02-16,Desk,Furniture,South,Net Banking,4,6569.07,26276.28
+ORD2222,2025-06-12,Pen Set,Stationery,East,Credit Card,7,405.19,2836.33
+ORD2223,2025-08-30,Jeans,Apparel,East,Net Banking,7,2838.29,19868.03
+ORD2224,2025-03-24,Smartphone,Electronics,East,Net Banking,5,35316.73,176583.65
+ORD2225,2025-10-08,Notebook,Stationery,North,Credit Card,6,163.32,979.92
+ORD2226,2025-11-25,Pen Set,Stationery,South,Credit Card,3,333.57,1000.71
+ORD2227,2025-04-13,T-Shirt,Apparel,North,Credit Card,5,676.47,3382.35
+ORD2228,2025-05-08,Headphone,Electronics,South,Net Banking,9,3711.04,33399.36
+ORD2229,2025-08-20,Bookshelf,Furniture,South,Cash,8,7177.79,57422.32
+ORD2230,2025-12-18,Headphone,Electronics,East,UPI,10,4220.46,42204.6
+ORD2231,2025-08-01,Smartphone,Electronics,West,UPI,6,19094.46,114566.76
+ORD2232,2025-01-12,Laptop,Electronics,South,Credit Card,9,62355.33,561197.97
+ORD2233,2025-04-12,Jeans,Apparel,South,Credit Card,5,2342.77,11713.85
+ORD2234,2025-11-13,T-Shirt,Apparel,South,Credit Card,7,1020.47,7143.29
+ORD2235,2025-03-29,Bookshelf,Furniture,West,Net Banking,10,2262.78,22627.8
+ORD2236,2025-09-11,Pen Set,Stationery,South,UPI,2,151.02,302.04
+ORD2237,2025-05-28,Desk,Furniture,West,UPI,8,7584.88,60679.04
+ORD2238,2025-04-21,Notebook,Stationery,South,Net Banking,5,231.68,1158.4
+ORD2239,2025-07-29,Headphone,Electronics,East,UPI,3,629.48,1888.44
+ORD2240,2025-08-19,Notebook,Stationery,West,Credit Card,4,142.41,569.64
+ORD2241,2025-08-29,Laptop,Electronics,West,UPI,3,73572.17,220716.51
+ORD2242,2025-12-29,T-Shirt,Apparel,East,Credit Card,7,1183.32,8283.24
+ORD2243,2025-10-13,Smartphone,Electronics,South,Net Banking,1,12605.63,12605.63
+ORD2244,2025-11-07,Bookshelf,Furniture,North,Credit Card,10,6112.18,61121.8
+ORD2245,2025-09-16,Desk,Furniture,West,Cash,10,7571.25,75712.5
+ORD2246,2025-10-14,Headphone,Electronics,East,UPI,1,3112.19,3112.19
+ORD2247,2025-09-10,Jacket,Apparel,South,Credit Card,6,5450.54,32703.24
+ORD2248,2025-12-30,Bookshelf,Furniture,East,Credit Card,9,4314.04,38826.36
+ORD2249,2025-01-23,Bookshelf,Furniture,East,Cash,3,4744.87,14234.61
+ORD2250,2025-05-25,T-Shirt,Apparel,East,Cash,5,1035.52,5177.6
+ORD2251,2025-03-26,T-Shirt,Apparel,West,UPI,6,1184.24,7105.44
+ORD2252,2025-12-03,Jacket,Apparel,South,Credit Card,8,1739.5,13916.0
+ORD2253,2025-04-04,Office Chair,Furniture,South,Net Banking,1,6702.48,6702.48
+ORD2254,2025-03-01,T-Shirt,Apparel,East,Net Banking,8,348.95,2791.6
+ORD2255,2025-09-10,Jeans,Apparel,South,Credit Card,2,2660.84,5321.68
+ORD2256,2025-02-17,Bookshelf,Furniture,South,UPI,4,7143.13,28572.52
+ORD2257,2025-05-20,Jacket,Apparel,South,Credit Card,10,5509.03,55090.3
+ORD2258,2025-10-20,Jacket,Apparel,North,UPI,3,3373.89,10121.67
+ORD2259,2025-12-13,Jeans,Apparel,North,Cash,2,2752.21,5504.42
+ORD2260,2025-12-15,Pen Set,Stationery,North,Cash,2,227.38,454.76
+ORD2261,2025-01-15,Headphone,Electronics,West,Net Banking,2,2571.05,5142.1
+ORD2262,2025-05-18,Pen Set,Stationery,East,Credit Card,10,346.1,3461.0
+ORD2263,2025-11-15,Pen Set,Stationery,South,UPI,8,196.21,1569.68
+ORD2264,2025-11-26,Laptop,Electronics,North,Credit Card,5,46158.54,230792.7
+ORD2265,2025-11-05,Jacket,Apparel,East,UPI,7,1916.48,13415.36
+ORD2266,2025-07-24,Office Chair,Furniture,South,UPI,2,2205.12,4410.24
+ORD2267,2025-07-26,T-Shirt,Apparel,South,Credit Card,5,1076.6,5383.0
+ORD2268,2025-09-09,Desk,Furniture,East,UPI,7,11830.67,82814.69
+ORD2269,2025-12-07,Bookshelf,Furniture,South,Net Banking,2,6908.34,13816.68
+ORD2270,2025-07-18,Jeans,Apparel,West,Credit Card,8,1390.65,11125.2
+ORD2271,2025-07-08,T-Shirt,Apparel,West,Credit Card,10,523.63,5236.3
+ORD2272,2025-09-20,Laptop,Electronics,South,UPI,6,78663.59,471981.54
+ORD2273,2025-09-27,Jeans,Apparel,West,Net Banking,9,984.73,8862.57
+ORD2274,2025-09-02,Smartphone,Electronics,South,Cash,5,17430.33,87151.65
+ORD2275,2025-09-25,Office Chair,Furniture,North,Credit Card,7,4954.82,34683.74
+ORD2276,2025-09-20,Laptop,Electronics,West,Credit Card,2,55532.58,111065.16
+ORD2277,2025-12-05,Jeans,Apparel,East,Cash,10,2588.21,25882.1
+ORD2278,2025-02-11,Notebook,Stationery,West,UPI,9,54.07,486.63
+ORD2279,2025-07-21,Headphone,Electronics,East,Cash,1,874.81,874.81
+ORD2280,2025-08-21,Notebook,Stationery,East,Cash,8,205.95,1647.6
+ORD2281,2025-04-19,Headphone,Electronics,East,Credit Card,3,851.99,2555.97
+ORD2282,2025-10-01,T-Shirt,Apparel,North,Credit Card,1,307.02,307.02
+ORD2283,2025-12-02,Headphone,Electronics,West,Net Banking,8,2570.73,20565.84
+ORD2284,2025-11-13,Desk,Furniture,West,Cash,10,7328.75,73287.5
+ORD2285,2025-03-06,Smartphone,Electronics,North,Credit Card,3,10693.8,32081.4
+ORD2286,2025-01-14,Office Chair,Furniture,South,UPI,4,6811.17,27244.68
+ORD2287,2025-11-17,T-Shirt,Apparel,East,Net Banking,9,529.1,4761.9
+ORD2288,2025-08-31,Headphone,Electronics,South,UPI,7,598.18,4187.26
+ORD2289,2025-09-06,Jeans,Apparel,West,UPI,8,843.18,6745.44
+ORD2290,2025-05-31,Office Chair,Furniture,West,Credit Card,10,10294.51,102945.1
+ORD2291,2025-01-05,Bookshelf,Furniture,West,Net Banking,2,5597.66,11195.32
+ORD2292,2025-10-24,Jeans,Apparel,East,Credit Card,10,2408.37,24083.7
+ORD2293,2025-07-24,Jeans,Apparel,West,UPI,8,1929.38,15435.04
+ORD2294,2025-09-28,Laptop,Electronics,East,Credit Card,1,51100.23,51100.23
+ORD2295,2025-11-28,Desk,Furniture,North,Net Banking,7,13669.69,95687.83
+ORD2296,2025-11-27,Notebook,Stationery,West,Credit Card,6,162.08,972.48
+ORD2297,2025-05-28,Headphone,Electronics,West,UPI,4,2611.58,10446.32
+ORD2298,2025-04-23,Jacket,Apparel,East,Net Banking,10,5590.82,55908.2
+ORD2299,2025-05-31,Headphone,Electronics,East,Net Banking,7,4819.12,33733.84
+ORD2300,2025-11-15,Headphone,Electronics,North,Net Banking,4,1771.06,7084.24
+ORD2301,2025-03-30,Headphone,Electronics,West,Credit Card,4,1203.41,4813.64
+ORD2302,2025-09-10,T-Shirt,Apparel,North,Credit Card,5,581.66,2908.3
+ORD2303,2025-05-14,Bookshelf,Furniture,South,Credit Card,6,5900.03,35400.18
+ORD2304,2025-06-22,Smartphone,Electronics,South,Credit Card,7,15698.46,109889.22
+ORD2305,2025-04-25,Jacket,Apparel,East,Cash,8,2660.2,21281.6
+ORD2306,2025-10-13,Laptop,Electronics,North,Credit Card,5,74815.88,374079.4
+ORD2307,2025-08-23,Jeans,Apparel,North,Credit Card,2,2944.25,5888.5
+ORD2308,2025-02-23,Jacket,Apparel,South,Cash,3,4334.67,13004.01
+ORD2309,2025-05-30,Headphone,Electronics,West,Credit Card,8,3928.84,31430.72
+ORD2310,2025-11-28,Headphone,Electronics,South,Credit Card,6,2005.73,12034.38
+ORD2311,2025-08-13,Office Chair,Furniture,North,UPI,7,9692.19,67845.33
+ORD2312,2025-06-24,Jeans,Apparel,North,Cash,5,1911.05,9555.25
+ORD2313,2025-08-01,Bookshelf,Furniture,South,UPI,6,5591.36,33548.16
+ORD2314,2025-08-04,Jacket,Apparel,West,Net Banking,4,2120.97,8483.88
+ORD2315,2025-08-23,T-Shirt,Apparel,East,Credit Card,9,1253.53,11281.77
+ORD2316,2025-03-16,Jeans,Apparel,North,Credit Card,1,2378.78,2378.78
+ORD2317,2025-06-11,Bookshelf,Furniture,South,Net Banking,7,7882.64,55178.48
+ORD2318,2025-07-21,Laptop,Electronics,South,Credit Card,1,63008.81,63008.81
+ORD2319,2025-12-05,Pen Set,Stationery,West,Net Banking,9,487.7,4389.3
+ORD2320,2025-12-25,Pen Set,Stationery,East,Cash,9,443.1,3987.9
+ORD2321,2025-05-24,Laptop,Electronics,South,Net Banking,9,60520.05,544680.45
+ORD2322,2025-11-26,Jeans,Apparel,West,Cash,4,2752.68,11010.72
+ORD2323,2025-07-27,Pen Set,Stationery,North,Credit Card,4,446.44,1785.76
+ORD2324,2025-06-21,Jacket,Apparel,South,Cash,7,4762.94,33340.58
+ORD2325,2025-02-17,Office Chair,Furniture,East,UPI,9,7517.86,67660.74
+ORD2326,2025-01-15,Laptop,Electronics,South,Cash,9,59625.18,536626.62
+ORD2327,2025-09-16,T-Shirt,Apparel,East,Cash,2,1178.38,2356.76
+ORD2328,2025-09-17,Pen Set,Stationery,North,Net Banking,6,105.72,634.32
+ORD2329,2025-10-21,Desk,Furniture,South,UPI,1,8437.77,8437.77
+ORD2330,2025-06-03,Bookshelf,Furniture,South,Net Banking,5,5835.0,29175.0
+ORD2331,2025-05-07,Jacket,Apparel,South,Cash,2,2975.31,5950.62
+ORD2332,2025-02-20,Jeans,Apparel,West,Credit Card,3,2365.61,7096.83
+ORD2333,2025-02-01,Smartphone,Electronics,West,UPI,7,54425.46,380978.22
+ORD2334,2025-02-09,Jeans,Apparel,West,Net Banking,6,2289.01,13734.06
+ORD2335,2025-10-27,Desk,Furniture,West,Net Banking,8,10637.53,85100.24
+ORD2336,2025-03-25,T-Shirt,Apparel,West,Net Banking,3,906.94,2720.82
+ORD2337,2025-12-27,Headphone,Electronics,North,UPI,9,4384.72,39462.48
+ORD2338,2025-08-31,Jeans,Apparel,East,Credit Card,1,2442.29,2442.29
+ORD2339,2025-07-29,Notebook,Stationery,East,Credit Card,2,80.22,160.44
+ORD2340,2025-03-20,Jacket,Apparel,East,Cash,2,3171.6,6343.2
+ORD2341,2025-09-06,Desk,Furniture,South,Net Banking,1,12494.44,12494.44
+ORD2342,2025-06-06,Laptop,Electronics,West,Credit Card,5,40779.07,203895.35
+ORD2343,2025-10-08,Smartphone,Electronics,North,Net Banking,6,13378.23,80269.38
+ORD2344,2025-10-21,Jeans,Apparel,East,Net Banking,5,2044.68,10223.4
+ORD2345,2025-11-07,Jeans,Apparel,West,Net Banking,3,2476.29,7428.87
+ORD2346,2025-08-18,Pen Set,Stationery,East,Credit Card,3,439.86,1319.58
+ORD2347,2025-12-07,Notebook,Stationery,South,Net Banking,10,152.41,1524.1
+ORD2348,2025-10-04,Bookshelf,Furniture,West,Cash,1,7727.52,7727.52
+ORD2349,2025-02-15,Pen Set,Stationery,East,Credit Card,3,368.24,1104.72
+ORD2350,2025-10-14,Pen Set,Stationery,North,UPI,2,136.59,273.18
+ORD2351,2025-09-15,Jeans,Apparel,South,Credit Card,1,1064.62,1064.62
+ORD2352,2025-04-16,Desk,Furniture,West,Credit Card,4,12956.29,51825.16
+ORD2353,2025-11-07,Jacket,Apparel,North,Net Banking,6,3308.09,19848.54
+ORD2354,2025-06-24,Laptop,Electronics,North,Cash,7,39025.4,273177.8
+ORD2355,2025-05-12,T-Shirt,Apparel,North,UPI,2,437.57,875.14
+ORD2356,2025-03-15,Desk,Furniture,North,UPI,3,6066.65,18199.95
+ORD2357,2025-07-28,Desk,Furniture,East,UPI,3,3706.96,11120.88
+ORD2358,2025-01-30,Laptop,Electronics,East,UPI,5,49496.99,247484.95
+ORD2359,2025-06-15,T-Shirt,Apparel,North,Credit Card,5,750.62,3753.1
+ORD2360,2025-05-03,Office Chair,Furniture,West,Net Banking,10,7860.29,78602.9
+ORD2361,2025-05-18,Smartphone,Electronics,West,Credit Card,1,25916.82,25916.82
+ORD2362,2025-01-15,Jeans,Apparel,North,Cash,7,2193.79,15356.53
+ORD2363,2025-10-28,Jacket,Apparel,South,Cash,2,2608.42,5216.84
+ORD2364,2025-07-28,Notebook,Stationery,South,UPI,8,70.98,567.84
+ORD2365,2025-10-04,Bookshelf,Furniture,West,Net Banking,3,6583.15,19749.45
+ORD2366,2025-01-01,Laptop,Electronics,East,UPI,8,78055.72,624445.76
+ORD2367,2025-01-31,Laptop,Electronics,East,Net Banking,8,43665.15,349321.2
+ORD2368,2025-11-20,Bookshelf,Furniture,East,Credit Card,4,5303.53,21214.12
+ORD2369,2025-10-01,Headphone,Electronics,North,Net Banking,10,814.71,8147.1
+ORD2370,2025-03-13,Smartphone,Electronics,West,UPI,9,59941.06,539469.54
+ORD2371,2025-09-16,Notebook,Stationery,East,Cash,6,270.98,1625.88
+ORD2372,2025-05-20,Jeans,Apparel,East,Cash,4,2257.01,9028.04
+ORD2373,2025-08-24,Office Chair,Furniture,South,Credit Card,10,5284.57,52845.7
+ORD2374,2025-09-01,Notebook,Stationery,South,Net Banking,1,275.36,275.36
+ORD2375,2025-12-23,Jacket,Apparel,North,Credit Card,8,4931.09,39448.72
+ORD2376,2025-01-16,Jacket,Apparel,East,Net Banking,8,4525.11,36200.88
+ORD2377,2025-07-03,Notebook,Stationery,North,Credit Card,7,94.3,660.1
+ORD2378,2025-07-09,Jeans,Apparel,South,Credit Card,4,1778.07,7112.28
+ORD2379,2025-12-15,Desk,Furniture,East,UPI,6,5298.14,31788.84
+ORD2380,2025-09-10,Office Chair,Furniture,West,UPI,6,2367.96,14207.76
+ORD2381,2025-04-11,Laptop,Electronics,East,Net Banking,7,35547.33,248831.31
+ORD2382,2025-10-10,Headphone,Electronics,South,Credit Card,4,3469.27,13877.08
+ORD2383,2025-03-07,Notebook,Stationery,South,Cash,2,81.86,163.72
+ORD2384,2025-12-14,Office Chair,Furniture,East,Net Banking,1,11919.51,11919.51
+ORD2385,2025-08-07,Laptop,Electronics,East,Net Banking,1,72692.99,72692.99
+ORD2386,2025-05-21,T-Shirt,Apparel,West,Net Banking,2,1116.21,2232.42
+ORD2387,2025-09-22,Bookshelf,Furniture,South,Credit Card,1,7244.72,7244.72
+ORD2388,2025-08-04,Desk,Furniture,North,Net Banking,9,8386.34,75477.06
+ORD2389,2025-06-21,Office Chair,Furniture,North,UPI,2,10800.98,21601.96
+ORD2390,2025-02-08,T-Shirt,Apparel,East,Cash,4,536.25,2145.0
+ORD2391,2025-11-17,Smartphone,Electronics,West,Credit Card,2,11393.64,22787.28
+ORD2392,2025-11-17,Notebook,Stationery,South,Credit Card,6,260.13,1560.78
+ORD2393,2025-05-03,Jeans,Apparel,East,UPI,6,2631.54,15789.24
+ORD2394,2025-11-04,Smartphone,Electronics,North,Net Banking,10,31926.47,319264.7
+ORD2395,2025-03-05,Notebook,Stationery,North,Net Banking,2,293.63,587.26
+ORD2396,2025-12-22,Bookshelf,Furniture,North,Net Banking,2,6587.2,13174.4
+ORD2397,2025-06-04,Laptop,Electronics,North,Credit Card,10,61309.26,613092.6
+ORD2398,2025-01-29,Pen Set,Stationery,West,Net Banking,9,73.49,661.41
+ORD2399,2025-11-13,Smartphone,Electronics,North,Net Banking,7,21655.6,151589.2
+ORD2400,2025-08-26,T-Shirt,Apparel,North,Cash,7,1355.93,9491.51
+ORD2401,2025-12-12,Pen Set,Stationery,East,UPI,1,254.33,254.33
+ORD2402,2025-02-22,Smartphone,Electronics,North,UPI,1,39758.76,39758.76
+ORD2403,2025-03-06,Notebook,Stationery,West,Net Banking,9,114.07,1026.63
+ORD2404,2025-08-16,Notebook,Stationery,North,Credit Card,3,110.79,332.37
+ORD2405,2025-06-09,Headphone,Electronics,East,Cash,10,2461.32,24613.2
+ORD2406,2025-10-05,Notebook,Stationery,East,Cash,3,86.85,260.55
+ORD2407,2025-07-08,Desk,Furniture,South,Credit Card,1,9212.17,9212.17
+ORD2408,2025-09-17,Office Chair,Furniture,West,Cash,9,10587.02,95283.18
+ORD2409,2025-04-13,Office Chair,Furniture,East,UPI,4,9852.64,39410.56
+ORD2410,2025-09-01,Pen Set,Stationery,East,Cash,8,319.89,2559.12
+ORD2411,2025-06-03,Notebook,Stationery,North,Net Banking,7,132.15,925.05
+ORD2412,2025-09-11,Laptop,Electronics,South,UPI,4,75997.68,303990.72
+ORD2413,2025-11-16,Jeans,Apparel,East,Net Banking,4,1325.84,5303.36
+ORD2414,2025-07-24,Office Chair,Furniture,North,Cash,3,10260.84,30782.52
+ORD2415,2025-02-07,Laptop,Electronics,North,UPI,6,31500.88,189005.28
+ORD2416,2025-08-14,Desk,Furniture,East,Credit Card,4,10576.01,42304.04
+ORD2417,2025-04-12,Laptop,Electronics,South,Cash,4,44205.04,176820.16
+ORD2418,2025-06-23,Headphone,Electronics,South,Credit Card,9,1606.84,14461.56
+ORD2419,2025-05-15,Headphone,Electronics,South,Net Banking,2,594.47,1188.94
+ORD2420,2025-02-26,Pen Set,Stationery,East,Net Banking,6,471.25,2827.5
+ORD2421,2025-07-09,Office Chair,Furniture,West,Credit Card,6,8609.09,51654.54
+ORD2422,2025-03-15,Smartphone,Electronics,South,Net Banking,3,49744.91,149234.73
+ORD2423,2025-06-12,Bookshelf,Furniture,South,Credit Card,10,4292.01,42920.1
+ORD2424,2025-10-28,Notebook,Stationery,East,UPI,4,263.61,1054.44
+ORD2425,2025-05-07,Bookshelf,Furniture,East,UPI,1,5591.48,5591.48
+ORD2426,2025-10-27,Jacket,Apparel,North,Net Banking,8,2441.57,19532.56
+ORD2427,2025-11-11,Pen Set,Stationery,West,Cash,2,125.35,250.7
+ORD2428,2025-09-23,Jeans,Apparel,East,Net Banking,8,1193.8,9550.4
+ORD2429,2025-08-31,Jeans,Apparel,North,UPI,5,2078.61,10393.05
+ORD2430,2025-04-14,Office Chair,Furniture,West,UPI,8,10631.68,85053.44
+ORD2431,2025-08-06,Desk,Furniture,East,Cash,7,9856.44,68995.08
+ORD2432,2025-02-13,Jacket,Apparel,East,Net Banking,3,4882.3,14646.9
+ORD2433,2025-06-30,Jacket,Apparel,West,Cash,4,4127.83,16511.32
+ORD2434,2025-08-19,T-Shirt,Apparel,East,Net Banking,8,819.01,6552.08
+ORD2435,2025-05-20,Bookshelf,Furniture,West,UPI,7,1660.67,11624.69
+ORD2436,2025-11-27,Desk,Furniture,North,Cash,2,7309.12,14618.24
+ORD2437,2025-09-20,Jacket,Apparel,East,UPI,9,4396.44,39567.96
+ORD2438,2025-03-02,Smartphone,Electronics,South,Cash,2,28011.84,56023.68
+ORD2439,2025-12-12,Office Chair,Furniture,East,UPI,6,4500.24,27001.44
+ORD2440,2025-03-12,Notebook,Stationery,North,Cash,9,278.1,2502.9
+ORD2441,2025-06-27,Desk,Furniture,North,Net Banking,7,14349.78,100448.46
+ORD2442,2025-09-20,Pen Set,Stationery,South,UPI,3,439.46,1318.38
+ORD2443,2025-08-31,Office Chair,Furniture,West,Net Banking,4,7158.25,28633.0
+ORD2444,2025-02-13,Bookshelf,Furniture,West,Net Banking,6,6997.71,41986.26
+ORD2445,2025-08-13,Office Chair,Furniture,North,Cash,8,10529.44,84235.52
+ORD2446,2025-10-23,Headphone,Electronics,North,Net Banking,3,1875.07,5625.21
+ORD2447,2025-07-01,Pen Set,Stationery,West,Net Banking,6,151.47,908.82
+ORD2448,2025-06-03,Jacket,Apparel,North,UPI,6,4141.3,24847.8
+ORD2449,2025-06-19,Headphone,Electronics,West,Net Banking,10,3334.28,33342.8
+ORD2450,2025-07-20,Office Chair,Furniture,South,Net Banking,2,7344.91,14689.82
+ORD2451,2025-06-18,Smartphone,Electronics,East,Credit Card,10,58096.91,580969.1
+ORD2452,2025-02-23,Headphone,Electronics,West,Credit Card,9,1299.36,11694.24
+ORD2453,2025-04-12,Headphone,Electronics,West,Cash,2,4601.05,9202.1
+ORD2454,2025-04-30,Office Chair,Furniture,North,Net Banking,5,8595.7,42978.5
+ORD2455,2025-07-08,Laptop,Electronics,East,Net Banking,9,30552.35,274971.15
+ORD2456,2025-03-22,T-Shirt,Apparel,West,Net Banking,2,454.97,909.94
+ORD2457,2025-07-19,Smartphone,Electronics,South,Cash,4,16496.61,65986.44
+ORD2458,2025-12-30,T-Shirt,Apparel,East,UPI,8,490.54,3924.32
+ORD2459,2025-12-17,Jacket,Apparel,North,UPI,8,2739.48,21915.84
+ORD2460,2025-02-02,Jeans,Apparel,South,Cash,7,2130.67,14914.69
+ORD2461,2025-09-09,Notebook,Stationery,North,Credit Card,8,165.67,1325.36
+ORD2462,2025-11-27,Desk,Furniture,East,Net Banking,8,7161.38,57291.04
+ORD2463,2025-03-31,Notebook,Stationery,West,Net Banking,7,112.28,785.96
+ORD2464,2025-12-04,T-Shirt,Apparel,North,Net Banking,3,1138.23,3414.69
+ORD2465,2025-05-03,Laptop,Electronics,East,Credit Card,3,43688.81,131066.43
+ORD2466,2025-09-10,Office Chair,Furniture,North,Cash,7,11923.9,83467.3
+ORD2467,2025-02-23,Smartphone,Electronics,East,Net Banking,9,48326.95,434942.55
+ORD2468,2025-03-26,Jeans,Apparel,North,Net Banking,5,1256.22,6281.1
+ORD2469,2025-02-07,Laptop,Electronics,West,UPI,8,49057.78,392462.24
+ORD2470,2025-01-20,T-Shirt,Apparel,South,Cash,1,600.73,600.73
+ORD2471,2025-08-26,Pen Set,Stationery,North,UPI,8,257.61,2060.88
+ORD2472,2025-03-13,Jeans,Apparel,South,UPI,8,2604.94,20839.52
+ORD2473,2025-11-07,Laptop,Electronics,North,Net Banking,2,38861.83,77723.66
+ORD2474,2025-02-09,Headphone,Electronics,South,Net Banking,1,3548.22,3548.22
+ORD2475,2025-04-02,Bookshelf,Furniture,South,Net Banking,4,6143.68,24574.72
+ORD2476,2025-11-22,Laptop,Electronics,North,Net Banking,9,62050.61,558455.49
+ORD2477,2025-08-16,Desk,Furniture,North,Net Banking,1,10178.46,10178.46
+ORD2478,2025-05-08,Office Chair,Furniture,South,Credit Card,6,11087.56,66525.36
+ORD2479,2025-08-04,Laptop,Electronics,East,UPI,1,79464.53,79464.53
+ORD2480,2025-12-09,Pen Set,Stationery,North,UPI,2,149.26,298.52
+ORD2481,2025-01-23,Headphone,Electronics,East,Cash,7,2806.25,19643.75
+ORD2482,2025-11-17,Jacket,Apparel,West,Net Banking,4,4311.03,17244.12
+ORD2483,2025-04-29,Smartphone,Electronics,East,UPI,4,15294.27,61177.08
+ORD2484,2025-07-25,Laptop,Electronics,South,Net Banking,6,30599.07,183594.42
+ORD2485,2025-02-03,Office Chair,Furniture,East,Credit Card,5,8499.45,42497.25
+ORD2486,2025-04-22,Smartphone,Electronics,West,Credit Card,7,25076.71,175536.97
+ORD2487,2025-10-19,Jacket,Apparel,North,Cash,3,2633.73,7901.19
+ORD2488,2025-12-23,Pen Set,Stationery,South,Cash,7,355.06,2485.42
+ORD2489,2025-11-22,Headphone,Electronics,West,Credit Card,6,4901.1,29406.6
+ORD2490,2025-01-10,Bookshelf,Furniture,West,Net Banking,10,7428.67,74286.7
+ORD2491,2025-11-24,Jacket,Apparel,North,UPI,4,3765.39,15061.56
+ORD2492,2025-11-12,Laptop,Electronics,West,UPI,2,45442.43,90884.86
+ORD2493,2025-02-10,Notebook,Stationery,West,Cash,1,84.39,84.39
+ORD2494,2025-03-19,Office Chair,Furniture,North,UPI,7,4043.85,28306.95
+ORD2495,2025-08-16,Notebook,Stationery,East,Credit Card,6,83.57,501.42
+ORD2496,2025-08-01,Jacket,Apparel,South,Cash,5,4877.48,24387.4
+ORD2497,2025-05-05,Bookshelf,Furniture,South,UPI,4,5005.53,20022.12
+ORD2498,2025-07-15,Notebook,Stationery,West,Credit Card,9,130.41,1173.69
+ORD2499,2025-09-09,Smartphone,Electronics,North,UPI,2,57683.06,115366.12
+ORD2500,2025-03-06,Office Chair,Furniture,South,UPI,2,3736.76,7473.52
+ORD2501,2025-02-10,Jacket,Apparel,East,UPI,7,4762.45,33337.15
+ORD2502,2025-05-06,Office Chair,Furniture,South,Cash,7,3764.36,26350.52
+ORD2503,2025-10-23,Desk,Furniture,South,Cash,8,14612.71,116901.68
+ORD2504,2025-02-10,Jeans,Apparel,South,Net Banking,6,1676.14,10056.84
+ORD2505,2025-08-05,Jeans,Apparel,West,UPI,9,2140.67,19266.03
+ORD2506,2025-01-11,Jeans,Apparel,North,Cash,7,1740.27,12181.89
+ORD2507,2025-10-03,Notebook,Stationery,South,Cash,3,188.21,564.63
+ORD2508,2025-08-26,T-Shirt,Apparel,West,Net Banking,5,844.32,4221.6
+ORD2509,2025-06-20,Smartphone,Electronics,South,UPI,3,45743.17,137229.51
+ORD2510,2025-01-03,Office Chair,Furniture,East,Net Banking,1,10616.55,10616.55
+ORD2511,2025-08-01,T-Shirt,Apparel,East,Net Banking,7,1464.59,10252.13
+ORD2512,2025-06-07,Jeans,Apparel,North,Credit Card,10,956.72,9567.2
+ORD2513,2025-10-17,T-Shirt,Apparel,West,Cash,3,533.07,1599.21
+ORD2514,2025-09-18,Bookshelf,Furniture,East,Credit Card,8,5627.37,45018.96
+ORD2515,2025-07-17,Pen Set,Stationery,South,Net Banking,7,381.05,2667.35
+ORD2516,2025-07-05,Laptop,Electronics,South,Cash,1,64873.57,64873.57
+ORD2517,2025-08-22,Notebook,Stationery,South,Credit Card,3,113.57,340.71
+ORD2518,2025-02-17,Smartphone,Electronics,North,UPI,7,29883.35,209183.45
+ORD2519,2025-03-26,T-Shirt,Apparel,East,Net Banking,7,603.45,4224.15
+ORD2520,2025-06-07,Notebook,Stationery,North,Credit Card,7,238.12,1666.84
+ORD2521,2025-10-21,Pen Set,Stationery,East,UPI,6,416.4,2498.4
+ORD2522,2025-12-24,T-Shirt,Apparel,South,Net Banking,5,307.7,1538.5
+ORD2523,2025-02-19,Laptop,Electronics,West,Net Banking,2,68687.18,137374.36
+ORD2524,2025-05-28,Pen Set,Stationery,East,UPI,7,126.79,887.53
+ORD2525,2025-04-12,Headphone,Electronics,North,Net Banking,8,1318.93,10551.44
+ORD2526,2025-04-19,Notebook,Stationery,South,UPI,3,100.24,300.72
+ORD2527,2025-07-29,Desk,Furniture,North,UPI,8,10522.05,84176.4
+ORD2528,2025-05-31,Smartphone,Electronics,East,Credit Card,2,28886.43,57772.86
+ORD2529,2025-01-16,Bookshelf,Furniture,West,Credit Card,10,3026.07,30260.7
+ORD2530,2025-02-01,Laptop,Electronics,North,Credit Card,5,67589.93,337949.65
+ORD2531,2025-04-19,Smartphone,Electronics,West,Cash,9,49589.33,446303.97
+ORD2532,2025-08-31,Jeans,Apparel,East,Cash,6,2129.62,12777.72
+ORD2533,2025-06-25,Pen Set,Stationery,East,Net Banking,6,417.58,2505.48
+ORD2534,2025-11-09,T-Shirt,Apparel,East,Credit Card,1,1470.37,1470.37
+ORD2535,2025-08-22,Laptop,Electronics,South,Credit Card,7,66261.01,463827.07
+ORD2536,2025-03-04,Notebook,Stationery,South,Cash,9,119.87,1078.83
+ORD2537,2025-11-13,Jeans,Apparel,South,Credit Card,8,1932.81,15462.48
+ORD2538,2025-06-14,Pen Set,Stationery,North,Cash,1,335.2,335.2
+ORD2539,2025-08-16,Pen Set,Stationery,West,Credit Card,4,323.04,1292.16
+ORD2540,2025-08-08,Bookshelf,Furniture,North,Net Banking,8,7914.66,63317.28
+ORD2541,2025-11-07,Desk,Furniture,North,UPI,4,11543.3,46173.2
+ORD2542,2025-02-14,Jeans,Apparel,West,UPI,5,2631.18,13155.9
+ORD2543,2025-03-01,Jeans,Apparel,South,UPI,8,2257.81,18062.48
+ORD2544,2025-03-29,Office Chair,Furniture,North,UPI,2,3054.7,6109.4
+ORD2545,2025-07-16,Bookshelf,Furniture,East,Net Banking,5,2932.44,14662.2
+ORD2546,2025-03-05,Pen Set,Stationery,West,Credit Card,3,465.23,1395.69
+ORD2547,2025-04-25,Bookshelf,Furniture,North,Cash,10,6481.19,64811.9
+ORD2548,2025-07-15,T-Shirt,Apparel,West,UPI,9,1459.5,13135.5
+ORD2549,2025-05-13,Office Chair,Furniture,North,Credit Card,2,4909.77,9819.54
+ORD2550,2025-10-31,Bookshelf,Furniture,North,Cash,4,6340.02,25360.08
+ORD2551,2025-06-10,Headphone,Electronics,North,Cash,7,3096.13,21672.91
+ORD2552,2025-10-30,Laptop,Electronics,West,Net Banking,9,39492.88,355435.92
+ORD2553,2025-07-06,Bookshelf,Furniture,South,Credit Card,3,4878.38,14635.14
+ORD2554,2025-01-05,T-Shirt,Apparel,East,UPI,9,1322.83,11905.47
+ORD2555,2025-04-23,Desk,Furniture,South,Cash,8,11159.77,89278.16
+ORD2556,2025-12-07,Headphone,Electronics,East,Credit Card,1,3194.96,3194.96
+ORD2557,2025-12-28,Desk,Furniture,South,Net Banking,10,8739.39,87393.9
+ORD2558,2025-12-27,Desk,Furniture,East,UPI,7,3705.75,25940.25
+ORD2559,2025-04-26,Office Chair,Furniture,South,Net Banking,1,11231.58,11231.58
+ORD2560,2025-06-03,T-Shirt,Apparel,West,Cash,3,1489.28,4467.84
+ORD2561,2025-12-14,T-Shirt,Apparel,West,Net Banking,8,1488.38,11907.04
+ORD2562,2025-09-28,Smartphone,Electronics,South,Net Banking,5,24118.2,120591.0
+ORD2563,2025-03-09,Smartphone,Electronics,North,Cash,6,47613.32,285679.92
+ORD2564,2025-12-02,Jeans,Apparel,West,Net Banking,3,2069.75,6209.25
+ORD2565,2025-03-16,Desk,Furniture,South,Credit Card,4,5617.64,22470.56
+ORD2566,2025-10-22,Bookshelf,Furniture,South,Net Banking,2,5909.07,11818.14
+ORD2567,2025-12-14,T-Shirt,Apparel,North,Cash,3,1411.18,4233.54
+ORD2568,2025-04-02,Jeans,Apparel,East,Net Banking,1,1058.16,1058.16
+ORD2569,2025-11-18,Headphone,Electronics,North,UPI,7,1602.5,11217.5
+ORD2570,2025-09-08,T-Shirt,Apparel,South,Net Banking,5,1125.58,5627.9
+ORD2571,2025-12-04,Pen Set,Stationery,West,Cash,2,399.98,799.96
+ORD2572,2025-12-01,Pen Set,Stationery,North,Credit Card,8,215.3,1722.4
+ORD2573,2025-03-04,Smartphone,Electronics,South,Credit Card,8,42070.47,336563.76
+ORD2574,2025-10-21,Notebook,Stationery,North,UPI,10,169.87,1698.7
+ORD2575,2025-09-05,T-Shirt,Apparel,South,Credit Card,7,658.04,4606.28
+ORD2576,2025-02-02,Bookshelf,Furniture,North,Net Banking,9,2701.78,24316.02
+ORD2577,2025-10-02,Jacket,Apparel,North,UPI,9,3698.53,33286.77
+ORD2578,2025-03-02,Pen Set,Stationery,South,Credit Card,3,437.9,1313.7
+ORD2579,2025-08-17,Jacket,Apparel,South,UPI,6,2053.7,12322.2
+ORD2580,2025-03-24,Pen Set,Stationery,North,Credit Card,2,303.12,606.24
+ORD2581,2025-09-17,Smartphone,Electronics,South,Net Banking,5,28177.98,140889.9
+ORD2582,2025-01-01,Pen Set,Stationery,East,Net Banking,4,185.27,741.08
+ORD2583,2025-10-23,Headphone,Electronics,East,UPI,8,3627.96,29023.68
+ORD2584,2025-12-06,Smartphone,Electronics,South,UPI,1,21855.02,21855.02
+ORD2585,2025-04-21,Desk,Furniture,South,Cash,3,10225.73,30677.19
+ORD2586,2025-03-07,Desk,Furniture,East,Cash,10,8064.18,80641.8
+ORD2587,2025-11-29,T-Shirt,Apparel,North,Cash,3,780.07,2340.21
+ORD2588,2025-08-06,Pen Set,Stationery,North,Cash,3,291.16,873.48
+ORD2589,2025-12-23,Pen Set,Stationery,South,Net Banking,4,371.5,1486.0
+ORD2590,2025-06-11,Headphone,Electronics,South,Credit Card,7,2205.24,15436.68
+ORD2591,2025-03-05,Desk,Furniture,West,Credit Card,9,4319.88,38878.92
+ORD2592,2025-11-24,Bookshelf,Furniture,East,Cash,2,3858.33,7716.66
+ORD2593,2025-04-26,Headphone,Electronics,West,UPI,5,544.38,2721.9
+ORD2594,2025-02-23,T-Shirt,Apparel,East,Net Banking,2,510.88,1021.76
+ORD2595,2025-09-28,Smartphone,Electronics,East,Cash,6,45022.78,270136.68
+ORD2596,2025-02-20,Notebook,Stationery,West,UPI,1,92.69,92.69
+ORD2597,2025-12-14,Bookshelf,Furniture,West,Net Banking,9,5085.87,45772.83
+ORD2598,2025-03-07,Notebook,Stationery,South,UPI,5,52.37,261.85
+ORD2599,2025-07-13,Headphone,Electronics,North,Cash,10,3809.4,38094.0
+ORD2600,2025-12-14,Office Chair,Furniture,West,UPI,10,6182.44,61824.4
+ORD2601,2025-07-01,Jeans,Apparel,East,Net Banking,8,1904.9,15239.2
+ORD2602,2025-04-28,Jacket,Apparel,North,Cash,5,4360.36,21801.8
+ORD2603,2025-06-10,T-Shirt,Apparel,North,UPI,2,1061.61,2123.22
+ORD2604,2025-03-26,Smartphone,Electronics,East,Net Banking,10,12870.58,128705.8
+ORD2605,2025-08-06,Laptop,Electronics,South,Net Banking,9,76622.07,689598.63
+ORD2606,2025-09-21,Jeans,Apparel,West,Credit Card,9,2335.34,21018.06
+ORD2607,2025-04-08,Notebook,Stationery,East,UPI,1,228.54,228.54
+ORD2608,2025-09-28,Pen Set,Stationery,West,UPI,10,69.06,690.6
+ORD2609,2025-09-26,Pen Set,Stationery,East,UPI,4,128.67,514.68
+ORD2610,2025-06-30,Jacket,Apparel,West,UPI,1,3402.25,3402.25
+ORD2611,2025-02-27,Bookshelf,Furniture,South,Credit Card,6,7441.29,44647.74
+ORD2612,2025-06-03,Desk,Furniture,South,Credit Card,8,6522.54,52180.32
+ORD2613,2025-10-19,Pen Set,Stationery,East,Credit Card,7,147.86,1035.02
+ORD2614,2025-11-13,Jeans,Apparel,North,Net Banking,8,926.49,7411.92
+ORD2615,2025-06-02,Bookshelf,Furniture,East,UPI,6,2196.57,13179.42
+ORD2616,2025-07-01,T-Shirt,Apparel,West,UPI,1,421.61,421.61
+ORD2617,2025-09-28,Smartphone,Electronics,West,Credit Card,9,54925.5,494329.5
+ORD2618,2025-01-04,Jeans,Apparel,East,UPI,3,2492.78,7478.34
+ORD2619,2025-07-22,Jeans,Apparel,West,UPI,6,1458.43,8750.58
+ORD2620,2025-05-18,Jacket,Apparel,West,UPI,2,5952.16,11904.32
+ORD2621,2025-07-01,Headphone,Electronics,South,Credit Card,7,526.15,3683.05
+ORD2622,2025-05-26,Office Chair,Furniture,West,Cash,1,3336.8,3336.8
+ORD2623,2025-03-24,Laptop,Electronics,East,Credit Card,4,77418.79,309675.16
+ORD2624,2025-09-08,T-Shirt,Apparel,South,Cash,9,894.68,8052.12
+ORD2625,2025-09-14,T-Shirt,Apparel,North,Credit Card,7,457.7,3203.9
+ORD2626,2025-03-21,Headphone,Electronics,South,Credit Card,6,2750.0,16500.0
+ORD2627,2025-06-25,Pen Set,Stationery,North,Net Banking,7,489.4,3425.8
+ORD2628,2025-05-29,Jeans,Apparel,West,UPI,5,1869.04,9345.2
+ORD2629,2025-03-20,Notebook,Stationery,East,Credit Card,9,96.72,870.48
+ORD2630,2025-12-25,Desk,Furniture,West,UPI,4,10995.97,43983.88
+ORD2631,2025-12-28,Jeans,Apparel,South,UPI,2,2342.52,4685.04
+ORD2632,2025-11-19,Notebook,Stationery,South,Net Banking,3,107.35,322.05
+ORD2633,2025-05-21,Laptop,Electronics,West,Credit Card,4,76454.92,305819.68
+ORD2634,2025-04-13,Notebook,Stationery,West,Net Banking,2,266.09,532.18
+ORD2635,2025-06-06,Jacket,Apparel,West,Net Banking,4,2497.99,9991.96
+ORD2636,2025-09-19,Laptop,Electronics,East,Credit Card,7,62193.66,435355.62
+ORD2637,2025-07-06,Desk,Furniture,West,UPI,5,14315.98,71579.9
+ORD2638,2025-01-25,Bookshelf,Furniture,North,Cash,3,1765.78,5297.34
+ORD2639,2025-05-27,Office Chair,Furniture,North,Net Banking,8,4801.59,38412.72
+ORD2640,2025-05-10,Headphone,Electronics,East,Credit Card,8,2136.12,17088.96
+ORD2641,2025-12-09,Smartphone,Electronics,South,Cash,1,44148.08,44148.08
+ORD2642,2025-07-05,Bookshelf,Furniture,East,UPI,10,4937.6,49376.0
+ORD2643,2025-05-22,Pen Set,Stationery,North,Credit Card,4,312.95,1251.8
+ORD2644,2025-11-19,Headphone,Electronics,South,UPI,10,1041.59,10415.9
+ORD2645,2025-02-20,Jeans,Apparel,East,Cash,2,2872.0,5744.0
+ORD2646,2025-04-14,Jeans,Apparel,North,UPI,9,2385.69,21471.21
+ORD2647,2025-08-03,Office Chair,Furniture,East,Cash,9,9116.03,82044.27
+ORD2648,2025-11-19,Jeans,Apparel,North,Net Banking,2,2803.87,5607.74
+ORD2649,2025-09-26,T-Shirt,Apparel,South,Cash,9,1249.06,11241.54
+ORD2650,2025-05-29,Headphone,Electronics,North,UPI,1,4801.11,4801.11
+ORD2651,2025-09-11,T-Shirt,Apparel,North,UPI,9,1344.31,12098.79
+ORD2652,2025-09-18,Jeans,Apparel,West,Net Banking,7,2037.5,14262.5
+ORD2653,2025-05-20,Notebook,Stationery,South,UPI,4,96.02,384.08
+ORD2654,2025-12-23,Notebook,Stationery,West,Cash,1,269.79,269.79
+ORD2655,2025-04-23,Desk,Furniture,North,UPI,5,11499.06,57495.3
+ORD2656,2025-01-24,Office Chair,Furniture,North,UPI,9,4382.17,39439.53
+ORD2657,2025-03-10,Desk,Furniture,North,UPI,5,13480.59,67402.95
+ORD2658,2025-10-01,Office Chair,Furniture,East,Cash,2,2014.0,4028.0
+ORD2659,2025-02-12,Bookshelf,Furniture,South,Net Banking,9,3216.25,28946.25
+ORD2660,2025-05-31,Notebook,Stationery,North,Cash,6,296.32,1777.92
+ORD2661,2025-05-24,Office Chair,Furniture,North,Credit Card,3,4559.87,13679.61
+ORD2662,2025-12-01,T-Shirt,Apparel,South,Net Banking,5,1344.03,6720.15
+ORD2663,2025-06-16,Office Chair,Furniture,West,UPI,5,4039.19,20195.95
+ORD2664,2025-04-29,Jeans,Apparel,West,Credit Card,7,1611.01,11277.07
+ORD2665,2025-04-03,Jeans,Apparel,South,UPI,8,1207.06,9656.48
+ORD2666,2025-09-09,Notebook,Stationery,North,Cash,3,211.89,635.67
+ORD2667,2025-04-01,Headphone,Electronics,South,Credit Card,7,3593.15,25152.05
+ORD2668,2025-02-06,Headphone,Electronics,West,Credit Card,7,1603.64,11225.48
+ORD2669,2025-03-12,Jacket,Apparel,West,Net Banking,1,4214.82,4214.82
+ORD2670,2025-02-26,Laptop,Electronics,North,UPI,1,68172.29,68172.29
+ORD2671,2025-02-12,Office Chair,Furniture,North,Credit Card,5,3426.36,17131.8
+ORD2672,2025-10-05,Smartphone,Electronics,North,UPI,6,52636.01,315816.06
+ORD2673,2025-09-03,Headphone,Electronics,South,Cash,10,4515.76,45157.6
+ORD2674,2025-09-03,Bookshelf,Furniture,East,Credit Card,3,3084.76,9254.28
+ORD2675,2025-01-23,Laptop,Electronics,North,Net Banking,2,57232.11,114464.22
+ORD2676,2025-01-01,Headphone,Electronics,West,Net Banking,4,608.0,2432.0
+ORD2677,2025-06-30,Headphone,Electronics,West,Credit Card,5,1516.48,7582.4
+ORD2678,2025-03-28,Jeans,Apparel,East,Cash,2,1293.95,2587.9
+ORD2679,2025-11-12,Smartphone,Electronics,North,Credit Card,6,15917.55,95505.3
+ORD2680,2025-03-19,Notebook,Stationery,East,UPI,3,157.16,471.48
+ORD2681,2025-08-06,Pen Set,Stationery,East,Cash,3,451.9,1355.7
+ORD2682,2025-02-23,Bookshelf,Furniture,East,Cash,5,7455.52,37277.6
+ORD2683,2025-01-02,Smartphone,Electronics,South,Cash,3,48889.2,146667.6
+ORD2684,2025-07-19,Headphone,Electronics,West,Credit Card,8,3746.05,29968.4
+ORD2685,2025-10-23,Smartphone,Electronics,East,UPI,7,57979.27,405854.89
+ORD2686,2025-06-15,Smartphone,Electronics,West,Cash,3,19093.62,57280.86
+ORD2687,2025-09-11,Bookshelf,Furniture,West,Cash,7,4628.38,32398.66
+ORD2688,2025-12-01,Headphone,Electronics,West,Net Banking,4,2224.33,8897.32
+ORD2689,2025-10-02,Jacket,Apparel,West,UPI,4,3230.82,12923.28
+ORD2690,2025-05-01,Smartphone,Electronics,North,Cash,6,10143.31,60859.86
+ORD2691,2025-08-31,Jacket,Apparel,North,Cash,3,5644.07,16932.21
+ORD2692,2025-03-13,Bookshelf,Furniture,West,UPI,5,4492.52,22462.6
+ORD2693,2025-04-25,Office Chair,Furniture,North,UPI,1,9469.95,9469.95
+ORD2694,2025-01-14,T-Shirt,Apparel,North,Credit Card,7,746.02,5222.14
+ORD2695,2025-11-01,Jeans,Apparel,East,UPI,3,866.41,2599.23
+ORD2696,2025-05-06,Smartphone,Electronics,West,UPI,2,10623.89,21247.78
+ORD2697,2025-08-29,Headphone,Electronics,East,Net Banking,3,3866.48,11599.44
+ORD2698,2025-06-22,T-Shirt,Apparel,North,Cash,8,1237.68,9901.44
+ORD2699,2025-03-21,Smartphone,Electronics,North,UPI,1,54057.86,54057.86
+ORD2700,2025-03-24,Jacket,Apparel,West,Net Banking,1,3283.76,3283.76
+ORD2701,2025-12-31,Jacket,Apparel,East,UPI,5,5636.18,28180.9
+ORD2702,2025-03-22,T-Shirt,Apparel,West,UPI,5,1467.75,7338.75
+ORD2703,2025-07-25,Office Chair,Furniture,West,UPI,10,2559.97,25599.7
+ORD2704,2025-11-06,Jacket,Apparel,West,Net Banking,2,5174.51,10349.02
+ORD2705,2025-12-01,Bookshelf,Furniture,South,Credit Card,7,6877.15,48140.05
+ORD2706,2025-11-28,Bookshelf,Furniture,North,Credit Card,7,2765.75,19360.25
+ORD2707,2025-07-05,Smartphone,Electronics,East,Credit Card,10,48939.86,489398.6
+ORD2708,2025-05-25,Office Chair,Furniture,North,UPI,3,7415.68,22247.04
+ORD2709,2025-01-06,Notebook,Stationery,South,Credit Card,5,96.94,484.7
+ORD2710,2025-05-18,Office Chair,Furniture,North,Net Banking,2,11766.63,23533.26
+ORD2711,2025-01-25,Laptop,Electronics,East,Credit Card,6,34660.55,207963.3
+ORD2712,2025-05-25,Bookshelf,Furniture,East,Net Banking,7,4751.4,33259.8
+ORD2713,2025-03-08,Bookshelf,Furniture,North,UPI,2,3653.57,7307.14
+ORD2714,2025-10-28,Laptop,Electronics,North,Cash,7,53847.65,376933.55
+ORD2715,2025-03-19,Headphone,Electronics,North,UPI,8,854.39,6835.12
+ORD2716,2025-12-15,Office Chair,Furniture,South,Cash,3,9688.26,29064.78
+ORD2717,2025-03-09,Jeans,Apparel,West,Credit Card,6,1439.85,8639.1
+ORD2718,2025-07-18,Pen Set,Stationery,North,UPI,4,143.97,575.88
+ORD2719,2025-11-18,Notebook,Stationery,North,UPI,8,74.35,594.8
+ORD2720,2025-10-08,Desk,Furniture,West,Cash,2,8986.95,17973.9
+ORD2721,2025-06-01,Headphone,Electronics,East,Cash,3,806.73,2420.19
+ORD2722,2025-02-06,Smartphone,Electronics,West,Cash,3,45532.75,136598.25
+ORD2723,2025-05-12,Jeans,Apparel,South,Credit Card,8,2230.64,17845.12
+ORD2724,2025-09-07,Notebook,Stationery,East,Net Banking,1,140.87,140.87
+ORD2725,2025-11-14,T-Shirt,Apparel,East,Cash,3,828.99,2486.97
+ORD2726,2025-12-16,Smartphone,Electronics,East,Credit Card,7,35297.12,247079.84
+ORD2727,2025-11-26,Notebook,Stationery,South,Credit Card,1,235.26,235.26
+ORD2728,2025-02-23,Headphone,Electronics,West,Credit Card,5,2191.2,10956.0
+ORD2729,2025-07-18,Office Chair,Furniture,East,Net Banking,8,8691.51,69532.08
+ORD2730,2025-11-25,Jeans,Apparel,West,Credit Card,9,2780.28,25022.52
+ORD2731,2025-04-03,Smartphone,Electronics,West,Net Banking,2,55873.02,111746.04
+ORD2732,2025-07-25,Office Chair,Furniture,East,Net Banking,6,2644.72,15868.32
+ORD2733,2025-12-26,Office Chair,Furniture,West,Credit Card,8,3143.26,25146.08
+ORD2734,2025-03-21,Jacket,Apparel,South,Cash,8,2154.81,17238.48
+ORD2735,2025-01-17,Notebook,Stationery,North,Cash,10,243.55,2435.5
+ORD2736,2025-08-31,T-Shirt,Apparel,North,Net Banking,4,364.89,1459.56
+ORD2737,2025-05-10,Desk,Furniture,North,Cash,3,4003.1,12009.3
+ORD2738,2025-02-11,T-Shirt,Apparel,West,Net Banking,5,1348.53,6742.65
+ORD2739,2025-04-20,Jacket,Apparel,North,Credit Card,5,2328.35,11641.75
+ORD2740,2025-06-25,T-Shirt,Apparel,East,Net Banking,5,497.44,2487.2
+ORD2741,2025-09-01,Jeans,Apparel,South,Net Banking,9,2315.43,20838.87
+ORD2742,2025-12-21,Bookshelf,Furniture,North,UPI,10,4029.4,40294.0
+ORD2743,2025-12-08,Smartphone,Electronics,East,Cash,10,40825.62,408256.2
+ORD2744,2025-03-19,Laptop,Electronics,West,Cash,8,76690.97,613527.76
+ORD2745,2025-12-12,Smartphone,Electronics,North,Net Banking,7,23140.13,161980.91
+ORD2746,2025-11-21,Headphone,Electronics,North,Credit Card,8,3375.12,27000.96
+ORD2747,2025-04-07,Office Chair,Furniture,South,Net Banking,7,8964.46,62751.22
+ORD2748,2025-06-28,Office Chair,Furniture,North,Cash,4,11523.77,46095.08
+ORD2749,2025-01-09,Bookshelf,Furniture,North,Net Banking,5,7328.26,36641.3
+ORD2750,2025-08-22,Pen Set,Stationery,East,Net Banking,7,234.67,1642.69
+ORD2751,2025-06-21,Jacket,Apparel,West,Net Banking,2,5668.57,11337.14
+ORD2752,2025-04-01,Bookshelf,Furniture,West,Net Banking,9,5366.8,48301.2
+ORD2753,2025-12-04,Desk,Furniture,North,Credit Card,7,10609.29,74265.03
+ORD2754,2025-02-15,Smartphone,Electronics,West,Credit Card,1,40813.02,40813.02
+ORD2755,2025-11-16,Jeans,Apparel,West,Credit Card,9,1019.34,9174.06
+ORD2756,2025-05-29,Pen Set,Stationery,West,Net Banking,7,145.34,1017.38
+ORD2757,2025-04-11,Smartphone,Electronics,East,Net Banking,8,57527.57,460220.56
+ORD2758,2025-11-27,T-Shirt,Apparel,East,UPI,7,309.13,2163.91
+ORD2759,2025-05-26,Jacket,Apparel,East,Cash,5,5458.23,27291.15
+ORD2760,2025-12-11,T-Shirt,Apparel,West,Credit Card,4,304.99,1219.96
+ORD2761,2025-01-14,Laptop,Electronics,East,Cash,3,69525.51,208576.53
+ORD2762,2025-10-20,Headphone,Electronics,West,UPI,7,1588.24,11117.68
+ORD2763,2025-11-26,Notebook,Stationery,West,UPI,7,257.14,1799.98
+ORD2764,2025-07-19,Pen Set,Stationery,East,UPI,3,231.4,694.2
+ORD2765,2025-04-29,T-Shirt,Apparel,South,Credit Card,2,1152.03,2304.06
+ORD2766,2025-10-23,Pen Set,Stationery,East,UPI,7,429.36,3005.52
+ORD2767,2025-04-15,Bookshelf,Furniture,West,Credit Card,2,2106.23,4212.46
+ORD2768,2025-10-31,Pen Set,Stationery,North,Net Banking,3,62.52,187.56
+ORD2769,2025-03-08,Laptop,Electronics,East,UPI,8,61723.16,493785.28
+ORD2770,2025-12-01,Office Chair,Furniture,South,Net Banking,4,4969.23,19876.92
+ORD2771,2025-12-04,Desk,Furniture,South,Credit Card,1,6299.58,6299.58
+ORD2772,2025-10-24,Pen Set,Stationery,North,Credit Card,2,99.92,199.84
+ORD2773,2025-05-25,Headphone,Electronics,North,Credit Card,5,4525.72,22628.6
+ORD2774,2025-07-05,Jeans,Apparel,West,Credit Card,4,1659.76,6639.04
+ORD2775,2025-02-07,T-Shirt,Apparel,North,UPI,8,1451.06,11608.48
+ORD2776,2025-08-03,Pen Set,Stationery,West,UPI,7,450.37,3152.59
+ORD2777,2025-06-02,Headphone,Electronics,North,Credit Card,1,4566.37,4566.37
+ORD2778,2025-06-27,Bookshelf,Furniture,North,UPI,8,7966.95,63735.6
+ORD2779,2025-05-11,Jacket,Apparel,North,Credit Card,2,2367.8,4735.6
+ORD2780,2025-09-20,Jacket,Apparel,East,Credit Card,3,2473.38,7420.14
+ORD2781,2025-01-16,Office Chair,Furniture,North,UPI,6,3385.65,20313.9
+ORD2782,2025-05-21,Desk,Furniture,North,Cash,8,5390.85,43126.8
+ORD2783,2025-11-30,Jacket,Apparel,West,Net Banking,5,3601.7,18008.5
+ORD2784,2025-07-24,Jacket,Apparel,South,Cash,4,2625.42,10501.68
+ORD2785,2025-02-22,T-Shirt,Apparel,East,UPI,10,1251.78,12517.8
+ORD2786,2025-09-07,Office Chair,Furniture,West,Cash,7,10828.57,75799.99
+ORD2787,2025-11-15,Bookshelf,Furniture,West,UPI,2,5447.42,10894.84
+ORD2788,2025-06-30,Notebook,Stationery,North,Net Banking,6,274.47,1646.82
+ORD2789,2025-01-18,Headphone,Electronics,West,Cash,9,1638.79,14749.11
+ORD2790,2025-11-27,Notebook,Stationery,North,Credit Card,9,138.06,1242.54
+ORD2791,2025-06-15,Headphone,Electronics,East,UPI,7,4059.03,28413.21
+ORD2792,2025-04-21,Smartphone,Electronics,East,Credit Card,6,28598.21,171589.26
+ORD2793,2025-06-13,Laptop,Electronics,South,Net Banking,1,65840.13,65840.13
+ORD2794,2025-06-14,Notebook,Stationery,West,Cash,4,190.41,761.64
+ORD2795,2025-04-19,Notebook,Stationery,East,Credit Card,9,104.37,939.33
+ORD2796,2025-11-27,Notebook,Stationery,West,Cash,7,220.53,1543.71
+ORD2797,2025-04-12,Bookshelf,Furniture,West,Net Banking,4,1822.79,7291.16
+ORD2798,2025-05-21,Laptop,Electronics,West,UPI,7,35962.95,251740.65
+ORD2799,2025-06-17,Notebook,Stationery,North,Cash,10,145.71,1457.1
+ORD2800,2025-11-26,Laptop,Electronics,West,Cash,10,79397.74,793977.4
+ORD2801,2025-07-26,Headphone,Electronics,North,Cash,1,4531.23,4531.23
+ORD2802,2025-01-09,Pen Set,Stationery,West,Cash,2,261.45,522.9
+ORD2803,2025-06-12,Desk,Furniture,East,Net Banking,6,7804.13,46824.78
+ORD2804,2025-01-25,Notebook,Stationery,West,Net Banking,7,124.61,872.27
+ORD2805,2025-03-04,Pen Set,Stationery,North,Credit Card,6,471.97,2831.82
+ORD2806,2025-01-25,Office Chair,Furniture,East,Net Banking,1,3387.34,3387.34
+ORD2807,2025-03-29,Office Chair,Furniture,East,Credit Card,2,3911.6,7823.2
+ORD2808,2025-05-13,Laptop,Electronics,East,Credit Card,1,35540.18,35540.18
+ORD2809,2025-06-18,Desk,Furniture,West,Cash,10,12499.53,124995.3
+ORD2810,2025-03-12,Headphone,Electronics,South,Cash,10,2573.12,25731.2
+ORD2811,2025-10-27,Headphone,Electronics,North,UPI,7,3366.07,23562.49
+ORD2812,2025-09-02,Notebook,Stationery,East,Net Banking,8,294.09,2352.72
+ORD2813,2025-02-17,Office Chair,Furniture,North,Cash,5,9662.02,48310.1
+ORD2814,2025-05-05,Jacket,Apparel,North,Net Banking,4,4627.34,18509.36
+ORD2815,2025-04-19,Laptop,Electronics,West,Net Banking,1,63524.95,63524.95
+ORD2816,2025-09-07,Office Chair,Furniture,East,Cash,2,5404.5,10809.0
+ORD2817,2025-12-02,Jeans,Apparel,North,UPI,3,2665.18,7995.54
+ORD2818,2025-07-06,Office Chair,Furniture,South,Net Banking,7,11750.65,82254.55
+ORD2819,2025-02-05,Office Chair,Furniture,East,Credit Card,5,6230.94,31154.7
+ORD2820,2025-08-25,Headphone,Electronics,South,Credit Card,2,3852.62,7705.24
+ORD2821,2025-04-06,Jeans,Apparel,West,Cash,5,862.89,4314.45
+ORD2822,2025-03-02,Desk,Furniture,West,UPI,9,4008.8,36079.2
+ORD2823,2025-07-23,Headphone,Electronics,East,Credit Card,9,2438.82,21949.38
+ORD2824,2025-05-20,Jeans,Apparel,West,Net Banking,6,1015.19,6091.14
+ORD2825,2025-05-31,Office Chair,Furniture,East,Net Banking,4,6026.92,24107.68
+ORD2826,2025-08-10,Jacket,Apparel,South,Credit Card,2,4565.22,9130.44
+ORD2827,2025-02-28,Office Chair,Furniture,East,UPI,1,10950.58,10950.58
+ORD2828,2025-09-30,Smartphone,Electronics,West,Net Banking,2,23772.97,47545.94
+ORD2829,2025-02-21,T-Shirt,Apparel,East,Net Banking,4,1180.71,4722.84
+ORD2830,2025-03-29,Office Chair,Furniture,East,Cash,4,5476.33,21905.32
+ORD2831,2025-02-18,Laptop,Electronics,West,Cash,3,55162.01,165486.03
+ORD2832,2025-03-29,Office Chair,Furniture,South,UPI,6,8814.42,52886.52
+ORD2833,2025-08-22,Bookshelf,Furniture,West,Net Banking,3,7754.58,23263.74
+ORD2834,2025-01-11,Bookshelf,Furniture,North,UPI,3,7833.41,23500.23
+ORD2835,2025-01-05,Pen Set,Stationery,West,Credit Card,10,208.46,2084.6
+ORD2836,2025-05-07,Jeans,Apparel,North,Cash,8,1040.65,8325.2
+ORD2837,2025-09-26,Office Chair,Furniture,South,Credit Card,9,3673.05,33057.45
+ORD2838,2025-06-05,Smartphone,Electronics,East,Cash,6,32630.82,195784.92
+ORD2839,2025-09-07,Pen Set,Stationery,North,Cash,5,213.93,1069.65
+ORD2840,2025-12-30,Desk,Furniture,West,Credit Card,6,13696.47,82178.82
+ORD2841,2025-12-18,Desk,Furniture,North,UPI,9,11738.59,105647.31
+ORD2842,2025-04-23,T-Shirt,Apparel,North,UPI,3,728.63,2185.89
+ORD2843,2025-12-23,Notebook,Stationery,North,UPI,7,139.85,978.95
+ORD2844,2025-11-24,T-Shirt,Apparel,West,UPI,2,1458.54,2917.08
+ORD2845,2025-12-14,Desk,Furniture,West,Net Banking,6,13655.94,81935.64
+ORD2846,2025-06-08,Desk,Furniture,East,Credit Card,4,3493.2,13972.8
+ORD2847,2025-08-21,T-Shirt,Apparel,East,Cash,10,1461.78,14617.8
+ORD2848,2025-01-05,Smartphone,Electronics,South,Net Banking,8,56361.65,450893.2
+ORD2849,2025-03-18,Pen Set,Stationery,South,Cash,9,485.0,4365.0
+ORD2850,2025-05-28,Jeans,Apparel,North,Net Banking,2,2559.53,5119.06
+ORD2851,2025-04-22,Laptop,Electronics,North,Credit Card,5,71273.53,356367.65
+ORD2852,2025-06-06,Jeans,Apparel,North,Credit Card,1,1746.71,1746.71
+ORD2853,2025-03-12,Desk,Furniture,South,Credit Card,6,13544.67,81268.02
+ORD2854,2025-03-15,Desk,Furniture,North,Cash,4,8184.61,32738.44
+ORD2855,2025-01-17,Office Chair,Furniture,South,Net Banking,8,11329.35,90634.8
+ORD2856,2025-07-24,T-Shirt,Apparel,East,Cash,2,1371.64,2743.28
+ORD2857,2025-10-16,Headphone,Electronics,East,UPI,7,3555.15,24886.05
+ORD2858,2025-04-13,Pen Set,Stationery,South,Cash,5,111.06,555.3
+ORD2859,2025-02-13,Desk,Furniture,West,UPI,5,9799.98,48999.9
+ORD2860,2025-08-12,T-Shirt,Apparel,West,Cash,2,466.33,932.66
+ORD2861,2025-12-17,Jacket,Apparel,West,Net Banking,6,3607.7,21646.2
+ORD2862,2025-07-30,T-Shirt,Apparel,North,Net Banking,8,333.21,2665.68
+ORD2863,2025-03-13,Smartphone,Electronics,South,Cash,10,55342.44,553424.4
+ORD2864,2025-11-14,Headphone,Electronics,East,Credit Card,9,4549.61,40946.49
+ORD2865,2025-03-06,T-Shirt,Apparel,West,Net Banking,7,1104.1,7728.7
+ORD2866,2025-02-13,Laptop,Electronics,North,Cash,1,43508.74,43508.74
+ORD2867,2025-02-19,Notebook,Stationery,East,Credit Card,5,191.36,956.8
+ORD2868,2025-10-27,Smartphone,Electronics,North,UPI,9,46968.17,422713.53
+ORD2869,2025-03-15,Jacket,Apparel,West,UPI,9,4831.91,43487.19
+ORD2870,2025-12-12,Office Chair,Furniture,East,Credit Card,3,5008.92,15026.76
+ORD2871,2025-11-16,Jeans,Apparel,North,UPI,4,1052.36,4209.44
+ORD2872,2025-03-03,Notebook,Stationery,South,Credit Card,9,74.22,667.98
+ORD2873,2025-01-13,Jeans,Apparel,North,Credit Card,9,1776.39,15987.51
+ORD2874,2025-07-27,Desk,Furniture,South,Cash,8,14792.36,118338.88
+ORD2875,2025-12-15,Notebook,Stationery,North,Net Banking,8,264.83,2118.64
+ORD2876,2025-11-22,Headphone,Electronics,South,UPI,1,1331.64,1331.64
+ORD2877,2025-12-25,Jacket,Apparel,West,Cash,9,2401.58,21614.22
+ORD2878,2025-12-08,Desk,Furniture,West,Cash,2,14509.1,29018.2
+ORD2879,2025-05-21,Pen Set,Stationery,North,Net Banking,7,223.62,1565.34
+ORD2880,2025-08-06,T-Shirt,Apparel,West,Credit Card,3,333.56,1000.68
+ORD2881,2025-07-19,Notebook,Stationery,North,Net Banking,1,195.13,195.13
+ORD2882,2025-07-01,Laptop,Electronics,West,Cash,3,53395.36,160186.08
+ORD2883,2025-03-23,Laptop,Electronics,South,Cash,6,55031.92,330191.52
+ORD2884,2025-07-19,Jacket,Apparel,South,Cash,9,1782.45,16042.05
+ORD2885,2025-10-16,Pen Set,Stationery,South,Cash,6,256.77,1540.62
+ORD2886,2025-06-05,Pen Set,Stationery,West,Net Banking,7,80.69,564.83
+ORD2887,2025-11-07,Jeans,Apparel,East,UPI,3,2067.29,6201.87
+ORD2888,2025-10-29,Bookshelf,Furniture,West,Credit Card,10,3762.62,37626.2
+ORD2889,2025-01-16,Laptop,Electronics,North,Net Banking,3,41585.22,124755.66
+ORD2890,2025-09-01,Pen Set,Stationery,South,Credit Card,6,391.96,2351.76
+ORD2891,2025-07-16,Headphone,Electronics,North,Cash,7,4650.69,32554.83
+ORD2892,2025-01-20,Smartphone,Electronics,East,Credit Card,2,32076.42,64152.84
+ORD2893,2025-06-14,Headphone,Electronics,West,UPI,2,3644.27,7288.54
+ORD2894,2025-10-21,Pen Set,Stationery,East,Net Banking,9,139.88,1258.92
+ORD2895,2025-12-14,Jeans,Apparel,South,Net Banking,5,1296.09,6480.45
+ORD2896,2025-04-09,Jacket,Apparel,North,UPI,2,4119.49,8238.98
+ORD2897,2025-03-13,Laptop,Electronics,West,Credit Card,1,47978.05,47978.05
+ORD2898,2025-04-05,Bookshelf,Furniture,South,Net Banking,9,4725.14,42526.26
+ORD2899,2025-06-30,Jacket,Apparel,South,Credit Card,6,4283.15,25698.9
+ORD2900,2025-08-07,Jeans,Apparel,North,UPI,7,2722.75,19059.25
+ORD2901,2025-06-02,Jacket,Apparel,South,Credit Card,2,2030.67,4061.34
+ORD2902,2025-10-04,Notebook,Stationery,East,Cash,6,55.64,333.84
+ORD2903,2025-12-27,T-Shirt,Apparel,South,Cash,6,381.54,2289.24
+ORD2904,2025-10-01,Smartphone,Electronics,East,Net Banking,10,22069.92,220699.2
+ORD2905,2025-01-30,Notebook,Stationery,North,Net Banking,9,224.38,2019.42
+ORD2906,2025-12-01,Desk,Furniture,West,Cash,1,3387.3,3387.3
+ORD2907,2025-06-21,Office Chair,Furniture,East,Credit Card,1,3392.89,3392.89
+ORD2908,2025-09-10,Office Chair,Furniture,North,Cash,2,10056.62,20113.24
+ORD2909,2025-08-02,Smartphone,Electronics,North,Net Banking,10,46964.47,469644.7
+ORD2910,2025-05-19,Headphone,Electronics,West,UPI,1,968.28,968.28
+ORD2911,2025-06-29,Pen Set,Stationery,South,Credit Card,7,264.92,1854.44
+ORD2912,2025-01-14,Laptop,Electronics,West,Credit Card,4,56709.29,226837.16
+ORD2913,2025-09-04,Jacket,Apparel,West,UPI,1,3242.06,3242.06
+ORD2914,2025-12-26,T-Shirt,Apparel,North,Net Banking,7,959.45,6716.15
+ORD2915,2025-11-12,Smartphone,Electronics,East,Net Banking,6,27589.45,165536.7
+ORD2916,2025-05-02,Laptop,Electronics,North,UPI,4,34599.54,138398.16
+ORD2917,2025-10-02,T-Shirt,Apparel,North,UPI,10,354.94,3549.4
+ORD2918,2025-02-09,Laptop,Electronics,South,Cash,1,36335.79,36335.79
+ORD2919,2025-06-10,Laptop,Electronics,South,Cash,6,60120.8,360724.8
+ORD2920,2025-11-07,Headphone,Electronics,North,Credit Card,7,2654.16,18579.12
+ORD2921,2025-05-09,Smartphone,Electronics,East,UPI,9,20293.05,182637.45
+ORD2922,2025-06-04,Jeans,Apparel,East,UPI,6,2516.46,15098.76
+ORD2923,2025-05-17,Jacket,Apparel,North,Credit Card,6,4639.97,27839.82
+ORD2924,2025-07-30,Bookshelf,Furniture,North,UPI,10,4660.35,46603.5
+ORD2925,2025-09-24,Headphone,Electronics,South,Credit Card,4,1872.23,7488.92
+ORD2926,2025-03-14,Bookshelf,Furniture,West,Net Banking,1,7856.41,7856.41
+ORD2927,2025-01-11,Smartphone,Electronics,East,Cash,8,51816.26,414530.08
+ORD2928,2025-07-16,Notebook,Stationery,North,Credit Card,5,256.79,1283.95
+ORD2929,2025-11-09,Desk,Furniture,West,Net Banking,7,8944.29,62610.03
+ORD2930,2025-01-23,Jeans,Apparel,South,Net Banking,4,1252.61,5010.44
+ORD2931,2025-01-27,Jacket,Apparel,East,Credit Card,5,1640.88,8204.4
+ORD2932,2025-06-22,Notebook,Stationery,South,Credit Card,5,252.56,1262.8
+ORD2933,2025-11-15,Bookshelf,Furniture,North,Credit Card,7,7127.32,49891.24
+ORD2934,2025-07-18,Jacket,Apparel,West,Net Banking,5,5363.31,26816.55
+ORD2935,2025-10-18,Notebook,Stationery,West,Net Banking,9,115.03,1035.27
+ORD2936,2025-03-09,Office Chair,Furniture,East,Credit Card,1,4807.0,4807.0
+ORD2937,2025-10-05,Office Chair,Furniture,West,Credit Card,5,5375.32,26876.6
+ORD2938,2025-05-21,Notebook,Stationery,East,Credit Card,6,117.19,703.14
+ORD2939,2025-06-07,Smartphone,Electronics,East,UPI,10,43038.82,430388.2
+ORD2940,2025-08-25,Jeans,Apparel,West,Credit Card,1,1767.8,1767.8
+ORD2941,2025-09-03,Bookshelf,Furniture,North,Credit Card,9,2915.98,26243.82
+ORD2942,2025-11-09,Desk,Furniture,North,Net Banking,9,6768.32,60914.88
+ORD2943,2025-05-13,Headphone,Electronics,West,UPI,5,1667.93,8339.65
+ORD2944,2025-11-19,Office Chair,Furniture,North,UPI,3,3469.02,10407.06
+ORD2945,2025-12-02,Smartphone,Electronics,West,Cash,1,19212.77,19212.77
+ORD2946,2025-10-11,Laptop,Electronics,East,Cash,4,33040.64,132162.56
+ORD2947,2025-12-14,Laptop,Electronics,North,UPI,6,57022.07,342132.42
+ORD2948,2025-02-25,Bookshelf,Furniture,North,Credit Card,2,4795.1,9590.2
+ORD2949,2025-04-15,Office Chair,Furniture,West,Credit Card,6,7703.66,46221.96
+ORD2950,2025-08-07,Pen Set,Stationery,East,Cash,5,114.39,571.95
+ORD2951,2025-07-28,Bookshelf,Furniture,East,Credit Card,6,4559.45,27356.7
+ORD2952,2025-07-08,Headphone,Electronics,South,Credit Card,1,1808.93,1808.93
+ORD2953,2025-11-08,Smartphone,Electronics,East,UPI,4,50401.71,201606.84
+ORD2954,2025-10-26,T-Shirt,Apparel,South,Net Banking,1,1088.47,1088.47
+ORD2955,2025-02-10,Pen Set,Stationery,South,Net Banking,2,481.38,962.76
+ORD2956,2025-03-04,Jacket,Apparel,West,Net Banking,9,5091.92,45827.28
+ORD2957,2025-05-18,Bookshelf,Furniture,East,UPI,4,6934.06,27736.24
+ORD2958,2025-05-05,Bookshelf,Furniture,East,Credit Card,6,3000.79,18004.74
+ORD2959,2025-08-16,Office Chair,Furniture,East,Credit Card,7,5618.81,39331.67
+ORD2960,2025-12-01,Bookshelf,Furniture,West,Net Banking,8,5433.92,43471.36
+ORD2961,2025-10-19,Office Chair,Furniture,South,Net Banking,3,11257.17,33771.51
+ORD2962,2025-10-27,Pen Set,Stationery,East,Cash,3,322.5,967.5
+ORD2963,2025-03-02,Bookshelf,Furniture,South,Net Banking,2,4155.27,8310.54
+ORD2964,2025-04-12,Pen Set,Stationery,North,UPI,3,444.38,1333.14
+ORD2965,2025-08-03,Smartphone,Electronics,West,Credit Card,5,48275.48,241377.4
+ORD2966,2025-01-18,Headphone,Electronics,South,Credit Card,7,607.69,4253.83
+ORD2967,2025-09-21,Headphone,Electronics,West,Cash,9,4633.8,41704.2
+ORD2968,2025-07-25,Headphone,Electronics,East,Credit Card,9,1586.46,14278.14
+ORD2969,2025-06-22,Bookshelf,Furniture,North,Credit Card,10,5456.92,54569.2
+ORD2970,2025-07-01,Smartphone,Electronics,West,Net Banking,8,55533.71,444269.68
+ORD2971,2025-09-02,Desk,Furniture,North,UPI,3,11801.32,35403.96
+ORD2972,2025-10-31,Laptop,Electronics,West,Net Banking,10,48493.7,484937.0
+ORD2973,2025-08-13,Bookshelf,Furniture,East,Credit Card,3,4806.34,14419.02
+ORD2974,2025-06-02,Office Chair,Furniture,West,Cash,8,5411.17,43289.36
+ORD2975,2025-07-16,Bookshelf,Furniture,South,Credit Card,6,6422.45,38534.7
+ORD2976,2025-08-09,Office Chair,Furniture,East,Credit Card,9,4782.56,43043.04
+ORD2977,2025-05-26,Bookshelf,Furniture,East,Net Banking,3,2270.58,6811.74
+ORD2978,2025-04-25,Jeans,Apparel,East,Credit Card,3,1434.65,4303.95
+ORD2979,2025-12-08,Office Chair,Furniture,South,UPI,5,3410.03,17050.15
+ORD2980,2025-11-03,Laptop,Electronics,South,Credit Card,1,77992.84,77992.84
+ORD2981,2025-01-14,Jeans,Apparel,West,Net Banking,6,1246.91,7481.46
+ORD2982,2025-03-06,Jacket,Apparel,North,Credit Card,8,2827.24,22617.92
+ORD2983,2025-08-10,Jeans,Apparel,South,Cash,8,1378.72,11029.76
+ORD2984,2025-03-01,Pen Set,Stationery,South,Credit Card,6,411.64,2469.84
+ORD2985,2025-03-22,Bookshelf,Furniture,West,Credit Card,9,3679.69,33117.21
+ORD2986,2025-01-20,Bookshelf,Furniture,East,UPI,7,2152.85,15069.95
+ORD2987,2025-12-05,Jacket,Apparel,North,UPI,1,5771.32,5771.32
+ORD2988,2025-10-28,Headphone,Electronics,South,UPI,7,4424.52,30971.64
+ORD2989,2025-08-29,Desk,Furniture,South,Net Banking,3,8814.09,26442.27
+ORD2990,2025-03-09,Desk,Furniture,North,UPI,4,10617.27,42469.08
+ORD2991,2025-08-11,Laptop,Electronics,South,UPI,2,54534.56,109069.12
+ORD2992,2025-08-03,Laptop,Electronics,South,Cash,5,60668.91,303344.55
+ORD2993,2025-09-29,Jeans,Apparel,South,Cash,3,2731.36,8194.08
+ORD2994,2025-09-06,Pen Set,Stationery,West,Cash,8,408.54,3268.32
+ORD2995,2025-09-04,Jacket,Apparel,North,Cash,5,1934.4,9672.0
+ORD2996,2025-08-17,T-Shirt,Apparel,West,Credit Card,6,596.88,3581.28
+ORD2997,2025-08-26,Headphone,Electronics,East,Net Banking,6,3472.76,20836.56
+ORD2998,2025-09-05,Headphone,Electronics,South,Credit Card,8,3204.76,25638.08
+ORD2999,2025-05-18,Desk,Furniture,West,Credit Card,9,5581.27,50231.43
